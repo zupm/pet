@@ -1,0 +1,1140 @@
+{
+  "id": "mock-05",
+  "title": "Mock Exam 5",
+  "description": "Full B1 Preliminary practice paper 5. Timed sections, exam conditions.",
+  "timings": {
+    "reading": 2700,
+    "writing": 2700,
+    "listening": 1800,
+    "speaking": 720
+  },
+  "sections": {
+    "reading": {
+      "questions": [
+        {
+          "id": "r_m5_p1_q1",
+          "part": 1,
+          "type": "mcq",
+          "context": "CITY TOURS\nDepartures every hour from the main square.\nLast tour at 5 p.m.\nOne ticket = one day of unlimited travel.",
+          "stem": "With one ticket, tourists …",
+          "options": [
+            "can travel all day.",
+            "must leave by 5 p.m.",
+            "get a free lunch."
+          ],
+          "answer": 0,
+          "explanation": "One ticket gives unlimited travel for one day."
+        },
+        {
+          "id": "r_m5_p1_q2",
+          "part": 1,
+          "type": "mcq",
+          "context": "NOTICE: water fountain out of order.\nPlease use the fountain near the playground.\nSorry for the inconvenience.",
+          "stem": "People in the park …",
+          "options": [
+            "cannot drink any water.",
+            "should use another fountain.",
+            "must leave the park."
+          ],
+          "answer": 1,
+          "explanation": "They should use the fountain near the playground."
+        },
+        {
+          "id": "r_m5_p1_q3",
+          "part": 1,
+          "type": "mcq",
+          "context": "MUSIC LESSONS\nGuitar & Piano\nFirst lesson free for new students!\nLessons at your home or ours.",
+          "stem": "New students …",
+          "options": [
+            "must have their own instrument.",
+            "don't pay for their first lesson.",
+            "can only have lessons at home."
+          ],
+          "answer": 1,
+          "explanation": "The first lesson is free for new students."
+        },
+        {
+          "id": "r_m5_p1_q4",
+          "part": 1,
+          "type": "mcq",
+          "context": "Ella,\nI left my blue folder in your classroom yesterday. It has my history notes in it.\nCan you bring it tomorrow?\nThanks! Noah",
+          "stem": "Noah wants Ella to …",
+          "options": [
+            "lend him her notes.",
+            "bring his folder.",
+            "help him with history."
+          ],
+          "answer": 1,
+          "explanation": "He left his folder and asks her to bring it."
+        },
+        {
+          "id": "r_m5_p1_q5",
+          "part": 1,
+          "type": "mcq",
+          "context": "BEACH FLAGS\nRED = swimming not allowed\nYELLOW = be careful, swim near lifeguards\nGREEN = safe to swim",
+          "stem": "When the flag is yellow, swimmers …",
+          "options": [
+            "must stay on the sand.",
+            "can swim anywhere.",
+            "should swim carefully near lifeguards."
+          ],
+          "answer": 2,
+          "explanation": "Yellow means be careful and swim near lifeguards."
+        },
+        {
+          "id": "r_m5_p2_q1",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of clubs (A–H).\nA. Hill Walkers — gentle walks for beginners, with a café stop, Saturdays.\nB. Board Game Nights — play modern games every Friday evening.\nC. Sea Scouts — sailing and kayaking for teenagers, Sundays.\nD. Film Makers — create short films with your phone, Tuesdays.\nE. Green Gym — outdoor fitness class in the park, Monday and Thursday.\nF. Pet Pals — visit animals in a shelter and help care for them, Wednesdays.\nG. Star Cooks — baking club for families, Saturday mornings.\nH. Language Café — practise Spanish with native speakers, Thursdays.",
+          "stem": "Luis wants to improve his Spanish in a relaxed social setting.",
+          "options": [
+            "A. Hill Walkers — gentle walks for beginners, with a café stop, Saturdays.",
+            "B. Board Game Nights — play modern games every Friday evening.",
+            "C. Sea Scouts — sailing and kayaking for teenagers, Sundays.",
+            "D. Film Makers — create short films with your phone, Tuesdays.",
+            "E. Green Gym — outdoor fitness class in the park, Monday and Thursday.",
+            "F. Pet Pals — visit animals in a shelter and help care for them, Wednesdays.",
+            "G. Star Cooks — baking club for families, Saturday mornings.",
+            "H. Language Café — practise Spanish with native speakers, Thursdays."
+          ],
+          "answer": 7,
+          "explanation": "Language Café practises Spanish on Thursdays."
+        },
+        {
+          "id": "r_m5_p2_q2",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of clubs (A–H).\nA. Hill Walkers — gentle walks for beginners, with a café stop, Saturdays.\nB. Board Game Nights — play modern games every Friday evening.\nC. Sea Scouts — sailing and kayaking for teenagers, Sundays.\nD. Film Makers — create short films with your phone, Tuesdays.\nE. Green Gym — outdoor fitness class in the park, Monday and Thursday.\nF. Pet Pals — visit animals in a shelter and help care for them, Wednesdays.\nG. Star Cooks — baking club for families, Saturday mornings.\nH. Language Café — practise Spanish with native speakers, Thursdays.",
+          "stem": "Emma loves animals and wants to spend time helping them.",
+          "options": [
+            "A. Hill Walkers — gentle walks for beginners, with a café stop, Saturdays.",
+            "B. Board Game Nights — play modern games every Friday evening.",
+            "C. Sea Scouts — sailing and kayaking for teenagers, Sundays.",
+            "D. Film Makers — create short films with your phone, Tuesdays.",
+            "E. Green Gym — outdoor fitness class in the park, Monday and Thursday.",
+            "F. Pet Pals — visit animals in a shelter and help care for them, Wednesdays.",
+            "G. Star Cooks — baking club for families, Saturday mornings.",
+            "H. Language Café — practise Spanish with native speakers, Thursdays."
+          ],
+          "answer": 5,
+          "explanation": "Pet Pals visits animals in a shelter."
+        },
+        {
+          "id": "r_m5_p2_q3",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of clubs (A–H).\nA. Hill Walkers — gentle walks for beginners, with a café stop, Saturdays.\nB. Board Game Nights — play modern games every Friday evening.\nC. Sea Scouts — sailing and kayaking for teenagers, Sundays.\nD. Film Makers — create short films with your phone, Tuesdays.\nE. Green Gym — outdoor fitness class in the park, Monday and Thursday.\nF. Pet Pals — visit animals in a shelter and help care for them, Wednesdays.\nG. Star Cooks — baking club for families, Saturday mornings.\nH. Language Café — practise Spanish with native speakers, Thursdays.",
+          "stem": "Adam wants to get fit outdoors twice a week.",
+          "options": [
+            "A. Hill Walkers — gentle walks for beginners, with a café stop, Saturdays.",
+            "B. Board Game Nights — play modern games every Friday evening.",
+            "C. Sea Scouts — sailing and kayaking for teenagers, Sundays.",
+            "D. Film Makers — create short films with your phone, Tuesdays.",
+            "E. Green Gym — outdoor fitness class in the park, Monday and Thursday.",
+            "F. Pet Pals — visit animals in a shelter and help care for them, Wednesdays.",
+            "G. Star Cooks — baking club for families, Saturday mornings.",
+            "H. Language Café — practise Spanish with native speakers, Thursdays."
+          ],
+          "answer": 4,
+          "explanation": "Green Gym runs Monday and Thursday in the park."
+        },
+        {
+          "id": "r_m5_p2_q4",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of clubs (A–H).\nA. Hill Walkers — gentle walks for beginners, with a café stop, Saturdays.\nB. Board Game Nights — play modern games every Friday evening.\nC. Sea Scouts — sailing and kayaking for teenagers, Sundays.\nD. Film Makers — create short films with your phone, Tuesdays.\nE. Green Gym — outdoor fitness class in the park, Monday and Thursday.\nF. Pet Pals — visit animals in a shelter and help care for them, Wednesdays.\nG. Star Cooks — baking club for families, Saturday mornings.\nH. Language Café — practise Spanish with native speakers, Thursdays.",
+          "stem": "Zoe wants to make videos and share stories.",
+          "options": [
+            "A. Hill Walkers — gentle walks for beginners, with a café stop, Saturdays.",
+            "B. Board Game Nights — play modern games every Friday evening.",
+            "C. Sea Scouts — sailing and kayaking for teenagers, Sundays.",
+            "D. Film Makers — create short films with your phone, Tuesdays.",
+            "E. Green Gym — outdoor fitness class in the park, Monday and Thursday.",
+            "F. Pet Pals — visit animals in a shelter and help care for them, Wednesdays.",
+            "G. Star Cooks — baking club for families, Saturday mornings.",
+            "H. Language Café — practise Spanish with native speakers, Thursdays."
+          ],
+          "answer": 3,
+          "explanation": "Film Makers create short films with a phone."
+        },
+        {
+          "id": "r_m5_p2_q5",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of clubs (A–H).\nA. Hill Walkers — gentle walks for beginners, with a café stop, Saturdays.\nB. Board Game Nights — play modern games every Friday evening.\nC. Sea Scouts — sailing and kayaking for teenagers, Sundays.\nD. Film Makers — create short films with your phone, Tuesdays.\nE. Green Gym — outdoor fitness class in the park, Monday and Thursday.\nF. Pet Pals — visit animals in a shelter and help care for them, Wednesdays.\nG. Star Cooks — baking club for families, Saturday mornings.\nH. Language Café — practise Spanish with native speakers, Thursdays.",
+          "stem": "Ben wants to try walking in nature without anything too difficult.",
+          "options": [
+            "A. Hill Walkers — gentle walks for beginners, with a café stop, Saturdays.",
+            "B. Board Game Nights — play modern games every Friday evening.",
+            "C. Sea Scouts — sailing and kayaking for teenagers, Sundays.",
+            "D. Film Makers — create short films with your phone, Tuesdays.",
+            "E. Green Gym — outdoor fitness class in the park, Monday and Thursday.",
+            "F. Pet Pals — visit animals in a shelter and help care for them, Wednesdays.",
+            "G. Star Cooks — baking club for families, Saturday mornings.",
+            "H. Language Café — practise Spanish with native speakers, Thursdays."
+          ],
+          "answer": 0,
+          "explanation": "Hill Walkers is gentle walks for beginners."
+        },
+        {
+          "id": "r_m5_p3_q1",
+          "part": 3,
+          "type": "mcq",
+          "context": "Last year, my school took part in an international project: we exchanged letters with students from a school in Portugal. At first, I wasn't excited. Writing letters? In the age of messages and videos? It sounded like something from my grandparents' time.\n\nMy partner was a girl called Ines, who lived near the sea in a town called Nazaré. Her first letter arrived in a yellow envelope, with a drawing of the beach on the corner. I remember opening it slowly, as if it were a present. She wrote about her school, her dog, and the huge waves that surfers travel from all over the world to see. Then she asked me questions about my life — real questions, not the kind you ask in a chat.\n\nI didn't know what to answer at first. But slowly, I started writing about things I had never told anyone: my fear of exams, my dream of studying marine biology. Ines answered with her own fears and dreams. By the end of the year, her letters were the moment I looked forward to most.\n\nIn June, our two schools organised a video call. When I saw Ines waving at me from the screen, I felt strangely shy — but only for a minute. Next summer, our families are planning to meet in real life, halfway between our two countries. I never imagined that a letter in a yellow envelope could bring a friend into my life.",
+          "stem": "How did the writer feel about the project at first?",
+          "options": [
+            "Uninterested.",
+            "Excited.",
+            "Nervous.",
+            "Angry."
+          ],
+          "answer": 0,
+          "explanation": "She wasn't excited — letters sounded old-fashioned."
+        },
+        {
+          "id": "r_m5_p3_q2",
+          "part": 3,
+          "type": "mcq",
+          "context": "Last year, my school took part in an international project: we exchanged letters with students from a school in Portugal. At first, I wasn't excited. Writing letters? In the age of messages and videos? It sounded like something from my grandparents' time.\n\nMy partner was a girl called Ines, who lived near the sea in a town called Nazaré. Her first letter arrived in a yellow envelope, with a drawing of the beach on the corner. I remember opening it slowly, as if it were a present. She wrote about her school, her dog, and the huge waves that surfers travel from all over the world to see. Then she asked me questions about my life — real questions, not the kind you ask in a chat.\n\nI didn't know what to answer at first. But slowly, I started writing about things I had never told anyone: my fear of exams, my dream of studying marine biology. Ines answered with her own fears and dreams. By the end of the year, her letters were the moment I looked forward to most.\n\nIn June, our two schools organised a video call. When I saw Ines waving at me from the screen, I felt strangely shy — but only for a minute. Next summer, our families are planning to meet in real life, halfway between our two countries. I never imagined that a letter in a yellow envelope could bring a friend into my life.",
+          "stem": "What was special about Ines's first letter?",
+          "options": [
+            "It contained money.",
+            "It had a drawing of the beach.",
+            "It was written in Portuguese.",
+            "It arrived late."
+          ],
+          "answer": 1,
+          "explanation": "The yellow envelope had a drawing of the beach on the corner."
+        },
+        {
+          "id": "r_m5_p3_q3",
+          "part": 3,
+          "type": "mcq",
+          "context": "Last year, my school took part in an international project: we exchanged letters with students from a school in Portugal. At first, I wasn't excited. Writing letters? In the age of messages and videos? It sounded like something from my grandparents' time.\n\nMy partner was a girl called Ines, who lived near the sea in a town called Nazaré. Her first letter arrived in a yellow envelope, with a drawing of the beach on the corner. I remember opening it slowly, as if it were a present. She wrote about her school, her dog, and the huge waves that surfers travel from all over the world to see. Then she asked me questions about my life — real questions, not the kind you ask in a chat.\n\nI didn't know what to answer at first. But slowly, I started writing about things I had never told anyone: my fear of exams, my dream of studying marine biology. Ines answered with her own fears and dreams. By the end of the year, her letters were the moment I looked forward to most.\n\nIn June, our two schools organised a video call. When I saw Ines waving at me from the screen, I felt strangely shy — but only for a minute. Next summer, our families are planning to meet in real life, halfway between our two countries. I never imagined that a letter in a yellow envelope could bring a friend into my life.",
+          "stem": "What did the writer begin to share in her letters?",
+          "options": [
+            "Her school marks.",
+            "Her fears and dreams.",
+            "Her photos.",
+            "Her homework."
+          ],
+          "answer": 1,
+          "explanation": "She wrote about fears and dreams she had never told anyone."
+        },
+        {
+          "id": "r_m5_p3_q4",
+          "part": 3,
+          "type": "mcq",
+          "context": "Last year, my school took part in an international project: we exchanged letters with students from a school in Portugal. At first, I wasn't excited. Writing letters? In the age of messages and videos? It sounded like something from my grandparents' time.\n\nMy partner was a girl called Ines, who lived near the sea in a town called Nazaré. Her first letter arrived in a yellow envelope, with a drawing of the beach on the corner. I remember opening it slowly, as if it were a present. She wrote about her school, her dog, and the huge waves that surfers travel from all over the world to see. Then she asked me questions about my life — real questions, not the kind you ask in a chat.\n\nI didn't know what to answer at first. But slowly, I started writing about things I had never told anyone: my fear of exams, my dream of studying marine biology. Ines answered with her own fears and dreams. By the end of the year, her letters were the moment I looked forward to most.\n\nIn June, our two schools organised a video call. When I saw Ines waving at me from the screen, I felt strangely shy — but only for a minute. Next summer, our families are planning to meet in real life, halfway between our two countries. I never imagined that a letter in a yellow envelope could bring a friend into my life.",
+          "stem": "What happened in June?",
+          "options": [
+            "Ines visited her town.",
+            "The project ended badly.",
+            "The two schools had a video call.",
+            "They stopped writing."
+          ],
+          "answer": 2,
+          "explanation": "The schools organised a video call."
+        },
+        {
+          "id": "r_m5_p3_q5",
+          "part": 3,
+          "type": "mcq",
+          "context": "Last year, my school took part in an international project: we exchanged letters with students from a school in Portugal. At first, I wasn't excited. Writing letters? In the age of messages and videos? It sounded like something from my grandparents' time.\n\nMy partner was a girl called Ines, who lived near the sea in a town called Nazaré. Her first letter arrived in a yellow envelope, with a drawing of the beach on the corner. I remember opening it slowly, as if it were a present. She wrote about her school, her dog, and the huge waves that surfers travel from all over the world to see. Then she asked me questions about my life — real questions, not the kind you ask in a chat.\n\nI didn't know what to answer at first. But slowly, I started writing about things I had never told anyone: my fear of exams, my dream of studying marine biology. Ines answered with her own fears and dreams. By the end of the year, her letters were the moment I looked forward to most.\n\nIn June, our two schools organised a video call. When I saw Ines waving at me from the screen, I felt strangely shy — but only for a minute. Next summer, our families are planning to meet in real life, halfway between our two countries. I never imagined that a letter in a yellow envelope could bring a friend into my life.",
+          "stem": "What are the families planning?",
+          "options": [
+            "To move to Portugal.",
+            "To meet next summer.",
+            "To write a book.",
+            "To change schools."
+          ],
+          "answer": 1,
+          "explanation": "Next summer the families plan to meet halfway between their countries."
+        },
+        {
+          "id": "r_m5_p4_q1",
+          "part": 4,
+          "type": "mcq",
+          "context": "Many people say they would like to learn a musical instrument, but few actually __(16)__ one. The problem is usually not talent — it is practice. Learning an instrument takes time, and most people give up before they see results.\n\nExperts suggest practicing little and often: ten or fifteen minutes a day is much better than two hours once a week. It is also important to choose music you __(17)__, because bored students practice less.\n\nTechnology can help too. There are now apps that listen while you play and show your __(18)__. Some even turn practice into a game, with points and levels.\n\nBut perhaps the best advice is the simplest: play with other people. Students who join a band or a group improve faster and are more likely to __(19)__ with the instrument. After all, music was made to be __(20)__.",
+          "stem": "Choose the correct word for gap __16__.",
+          "options": [
+            "start",
+            "stop",
+            "miss",
+            "lose"
+          ],
+          "answer": 0,
+          "explanation": "Few actually start learning one."
+        },
+        {
+          "id": "r_m5_p4_q2",
+          "part": 4,
+          "type": "mcq",
+          "context": "Many people say they would like to learn a musical instrument, but few actually __(16)__ one. The problem is usually not talent — it is practice. Learning an instrument takes time, and most people give up before they see results.\n\nExperts suggest practicing little and often: ten or fifteen minutes a day is much better than two hours once a week. It is also important to choose music you __(17)__, because bored students practice less.\n\nTechnology can help too. There are now apps that listen while you play and show your __(18)__. Some even turn practice into a game, with points and levels.\n\nBut perhaps the best advice is the simplest: play with other people. Students who join a band or a group improve faster and are more likely to __(19)__ with the instrument. After all, music was made to be __(20)__.",
+          "stem": "Choose the correct word for gap __17__.",
+          "options": [
+            "enjoy",
+            "forget",
+            "avoid",
+            "hate"
+          ],
+          "answer": 0,
+          "explanation": "Choose music you enjoy."
+        },
+        {
+          "id": "r_m5_p4_q3",
+          "part": 4,
+          "type": "mcq",
+          "context": "Many people say they would like to learn a musical instrument, but few actually __(16)__ one. The problem is usually not talent — it is practice. Learning an instrument takes time, and most people give up before they see results.\n\nExperts suggest practicing little and often: ten or fifteen minutes a day is much better than two hours once a week. It is also important to choose music you __(17)__, because bored students practice less.\n\nTechnology can help too. There are now apps that listen while you play and show your __(18)__. Some even turn practice into a game, with points and levels.\n\nBut perhaps the best advice is the simplest: play with other people. Students who join a band or a group improve faster and are more likely to __(19)__ with the instrument. After all, music was made to be __(20)__.",
+          "stem": "Choose the correct word for gap __18__.",
+          "options": [
+            "mistakes",
+            "questions",
+            "secrets",
+            "friends"
+          ],
+          "answer": 0,
+          "explanation": "Apps show your mistakes."
+        },
+        {
+          "id": "r_m5_p4_q4",
+          "part": 4,
+          "type": "mcq",
+          "context": "Many people say they would like to learn a musical instrument, but few actually __(16)__ one. The problem is usually not talent — it is practice. Learning an instrument takes time, and most people give up before they see results.\n\nExperts suggest practicing little and often: ten or fifteen minutes a day is much better than two hours once a week. It is also important to choose music you __(17)__, because bored students practice less.\n\nTechnology can help too. There are now apps that listen while you play and show your __(18)__. Some even turn practice into a game, with points and levels.\n\nBut perhaps the best advice is the simplest: play with other people. Students who join a band or a group improve faster and are more likely to __(19)__ with the instrument. After all, music was made to be __(20)__.",
+          "stem": "Choose the correct word for gap __19__.",
+          "options": [
+            "continue",
+            "argue",
+            "disagree",
+            "end"
+          ],
+          "answer": 0,
+          "explanation": "They are more likely to continue."
+        },
+        {
+          "id": "r_m5_p4_q5",
+          "part": 4,
+          "type": "mcq",
+          "context": "Many people say they would like to learn a musical instrument, but few actually __(16)__ one. The problem is usually not talent — it is practice. Learning an instrument takes time, and most people give up before they see results.\n\nExperts suggest practicing little and often: ten or fifteen minutes a day is much better than two hours once a week. It is also important to choose music you __(17)__, because bored students practice less.\n\nTechnology can help too. There are now apps that listen while you play and show your __(18)__. Some even turn practice into a game, with points and levels.\n\nBut perhaps the best advice is the simplest: play with other people. Students who join a band or a group improve faster and are more likely to __(19)__ with the instrument. After all, music was made to be __(20)__.",
+          "stem": "Choose the correct word for gap __20__.",
+          "options": [
+            "shared",
+            "hidden",
+            "sold",
+            "forgotten"
+          ],
+          "answer": 0,
+          "explanation": "Music was made to be shared."
+        },
+        {
+          "id": "r_m5_p5_q1",
+          "part": 5,
+          "type": "mcq",
+          "context": "Have you ever noticed how different people behave in a supermarket? Some shoppers arrive with a list and leave in ten minutes. They walk fast, look straight ahead, and never __(21)__ at anything that isn't on their list.\n\nOthers treat shopping __(22)__ a hobby. They touch the fruit, read every label, and spend twenty minutes choosing a chocolate bar. Scientists call them 'browsers', and shops love them — browsers usually buy more than they __(23)__. \n\nInterestingly, our shopping style often depends __(24)__ our mood. When we are stressed, we hurry. When we are relaxed, we enjoy looking around. So the next time you go to the supermarket, watch the people around you. You might __(25)__ something interesting about human nature — and perhaps about __(26)__!",
+          "stem": "Choose the correct word for gap __21__.",
+          "options": [
+            "look",
+            "watch",
+            "see",
+            "stare"
+          ],
+          "answer": 0,
+          "explanation": "'Look at' is the natural verb here."
+        },
+        {
+          "id": "r_m5_p5_q2",
+          "part": 5,
+          "type": "mcq",
+          "context": "Have you ever noticed how different people behave in a supermarket? Some shoppers arrive with a list and leave in ten minutes. They walk fast, look straight ahead, and never __(21)__ at anything that isn't on their list.\n\nOthers treat shopping __(22)__ a hobby. They touch the fruit, read every label, and spend twenty minutes choosing a chocolate bar. Scientists call them 'browsers', and shops love them — browsers usually buy more than they __(23)__. \n\nInterestingly, our shopping style often depends __(24)__ our mood. When we are stressed, we hurry. When we are relaxed, we enjoy looking around. So the next time you go to the supermarket, watch the people around you. You might __(25)__ something interesting about human nature — and perhaps about __(26)__!",
+          "stem": "Choose the correct word for gap __22__.",
+          "options": [
+            "as",
+            "like",
+            "for",
+            "to"
+          ],
+          "answer": 0,
+          "explanation": "'Treat something as...' — fixed structure."
+        },
+        {
+          "id": "r_m5_p5_q3",
+          "part": 5,
+          "type": "mcq",
+          "context": "Have you ever noticed how different people behave in a supermarket? Some shoppers arrive with a list and leave in ten minutes. They walk fast, look straight ahead, and never __(21)__ at anything that isn't on their list.\n\nOthers treat shopping __(22)__ a hobby. They touch the fruit, read every label, and spend twenty minutes choosing a chocolate bar. Scientists call them 'browsers', and shops love them — browsers usually buy more than they __(23)__. \n\nInterestingly, our shopping style often depends __(24)__ our mood. When we are stressed, we hurry. When we are relaxed, we enjoy looking around. So the next time you go to the supermarket, watch the people around you. You might __(25)__ something interesting about human nature — and perhaps about __(26)__!",
+          "stem": "Choose the correct word for gap __23__.",
+          "options": [
+            "planned",
+            "wanted",
+            "needed",
+            "hoped"
+          ],
+          "answer": 0,
+          "explanation": "They buy more than they planned."
+        },
+        {
+          "id": "r_m5_p5_q4",
+          "part": 5,
+          "type": "mcq",
+          "context": "Have you ever noticed how different people behave in a supermarket? Some shoppers arrive with a list and leave in ten minutes. They walk fast, look straight ahead, and never __(21)__ at anything that isn't on their list.\n\nOthers treat shopping __(22)__ a hobby. They touch the fruit, read every label, and spend twenty minutes choosing a chocolate bar. Scientists call them 'browsers', and shops love them — browsers usually buy more than they __(23)__. \n\nInterestingly, our shopping style often depends __(24)__ our mood. When we are stressed, we hurry. When we are relaxed, we enjoy looking around. So the next time you go to the supermarket, watch the people around you. You might __(25)__ something interesting about human nature — and perhaps about __(26)__!",
+          "stem": "Choose the correct word for gap __24__.",
+          "options": [
+            "on",
+            "in",
+            "at",
+            "from"
+          ],
+          "answer": 0,
+          "explanation": "'Depend on' — fixed preposition."
+        },
+        {
+          "id": "r_m5_p5_q5",
+          "part": 5,
+          "type": "mcq",
+          "context": "Have you ever noticed how different people behave in a supermarket? Some shoppers arrive with a list and leave in ten minutes. They walk fast, look straight ahead, and never __(21)__ at anything that isn't on their list.\n\nOthers treat shopping __(22)__ a hobby. They touch the fruit, read every label, and spend twenty minutes choosing a chocolate bar. Scientists call them 'browsers', and shops love them — browsers usually buy more than they __(23)__. \n\nInterestingly, our shopping style often depends __(24)__ our mood. When we are stressed, we hurry. When we are relaxed, we enjoy looking around. So the next time you go to the supermarket, watch the people around you. You might __(25)__ something interesting about human nature — and perhaps about __(26)__!",
+          "stem": "Choose the correct word for gap __25__.",
+          "options": [
+            "discover",
+            "invent",
+            "create",
+            "make"
+          ],
+          "answer": 0,
+          "explanation": "You might discover something interesting."
+        },
+        {
+          "id": "r_m5_p5_q6",
+          "part": 5,
+          "type": "mcq",
+          "context": "Have you ever noticed how different people behave in a supermarket? Some shoppers arrive with a list and leave in ten minutes. They walk fast, look straight ahead, and never __(21)__ at anything that isn't on their list.\n\nOthers treat shopping __(22)__ a hobby. They touch the fruit, read every label, and spend twenty minutes choosing a chocolate bar. Scientists call them 'browsers', and shops love them — browsers usually buy more than they __(23)__. \n\nInterestingly, our shopping style often depends __(24)__ our mood. When we are stressed, we hurry. When we are relaxed, we enjoy looking around. So the next time you go to the supermarket, watch the people around you. You might __(25)__ something interesting about human nature — and perhaps about __(26)__!",
+          "stem": "Choose the correct word for gap __26__.",
+          "options": [
+            "myself",
+            "yourself",
+            "himself",
+            "themselves"
+          ],
+          "answer": 1,
+          "explanation": "Something about yourself — reflexive pronoun."
+        },
+        {
+          "id": "r_m5_p6_q1",
+          "part": 6,
+          "type": "cloze",
+          "context": "Next month, I'm going to take part __(27)__ my first running race — ten kilometres! I've been training for three months, and I feel ready, although a little nervous.\n\nMy trainer, Mrs Costa, says the most important thing is to start slowly. 'Many beginners run too fast at the beginning and get tired __(28)__ the end,' she told me. She also says I should drink water before the race, __(29)__ not too much.\n\nMy family is coming to watch, and my little sister made a sign with my name on it. She says she'll shout so loudly __(30)__ everyone will hear her!\n\nI don't expect to win. I just want to finish and be proud of __(31)__. Whatever happens, I've already achieved something important: I proved to myself that I can do hard things. And that is worth more than any medal, isn't __(32)__?",
+          "stem": "Write ONE word for gap __27__.",
+          "answer": "in",
+          "answerAlt": [
+            "in"
+          ],
+          "explanation": "'Take part in' — fixed phrase."
+        },
+        {
+          "id": "r_m5_p6_q2",
+          "part": 6,
+          "type": "cloze",
+          "context": "Next month, I'm going to take part __(27)__ my first running race — ten kilometres! I've been training for three months, and I feel ready, although a little nervous.\n\nMy trainer, Mrs Costa, says the most important thing is to start slowly. 'Many beginners run too fast at the beginning and get tired __(28)__ the end,' she told me. She also says I should drink water before the race, __(29)__ not too much.\n\nMy family is coming to watch, and my little sister made a sign with my name on it. She says she'll shout so loudly __(30)__ everyone will hear her!\n\nI don't expect to win. I just want to finish and be proud of __(31)__. Whatever happens, I've already achieved something important: I proved to myself that I can do hard things. And that is worth more than any medal, isn't __(32)__?",
+          "stem": "Write ONE word for gap __28__.",
+          "answer": "by",
+          "answerAlt": [
+            "by"
+          ],
+          "explanation": "'By the end' — before/at the end."
+        },
+        {
+          "id": "r_m5_p6_q3",
+          "part": 6,
+          "type": "cloze",
+          "context": "Next month, I'm going to take part __(27)__ my first running race — ten kilometres! I've been training for three months, and I feel ready, although a little nervous.\n\nMy trainer, Mrs Costa, says the most important thing is to start slowly. 'Many beginners run too fast at the beginning and get tired __(28)__ the end,' she told me. She also says I should drink water before the race, __(29)__ not too much.\n\nMy family is coming to watch, and my little sister made a sign with my name on it. She says she'll shout so loudly __(30)__ everyone will hear her!\n\nI don't expect to win. I just want to finish and be proud of __(31)__. Whatever happens, I've already achieved something important: I proved to myself that I can do hard things. And that is worth more than any medal, isn't __(32)__?",
+          "stem": "Write ONE word for gap __29__.",
+          "answer": "but",
+          "answerAlt": [
+            "but"
+          ],
+          "explanation": "Contrast: drink water, but not too much."
+        },
+        {
+          "id": "r_m5_p6_q4",
+          "part": 6,
+          "type": "cloze",
+          "context": "Next month, I'm going to take part __(27)__ my first running race — ten kilometres! I've been training for three months, and I feel ready, although a little nervous.\n\nMy trainer, Mrs Costa, says the most important thing is to start slowly. 'Many beginners run too fast at the beginning and get tired __(28)__ the end,' she told me. She also says I should drink water before the race, __(29)__ not too much.\n\nMy family is coming to watch, and my little sister made a sign with my name on it. She says she'll shout so loudly __(30)__ everyone will hear her!\n\nI don't expect to win. I just want to finish and be proud of __(31)__. Whatever happens, I've already achieved something important: I proved to myself that I can do hard things. And that is worth more than any medal, isn't __(32)__?",
+          "stem": "Write ONE word for gap __30__.",
+          "answer": "that",
+          "answerAlt": [
+            "that"
+          ],
+          "explanation": "'So loudly that...' — so + adverb + that."
+        },
+        {
+          "id": "r_m5_p6_q5",
+          "part": 6,
+          "type": "cloze",
+          "context": "Next month, I'm going to take part __(27)__ my first running race — ten kilometres! I've been training for three months, and I feel ready, although a little nervous.\n\nMy trainer, Mrs Costa, says the most important thing is to start slowly. 'Many beginners run too fast at the beginning and get tired __(28)__ the end,' she told me. She also says I should drink water before the race, __(29)__ not too much.\n\nMy family is coming to watch, and my little sister made a sign with my name on it. She says she'll shout so loudly __(30)__ everyone will hear her!\n\nI don't expect to win. I just want to finish and be proud of __(31)__. Whatever happens, I've already achieved something important: I proved to myself that I can do hard things. And that is worth more than any medal, isn't __(32)__?",
+          "stem": "Write ONE word for gap __31__.",
+          "answer": "myself",
+          "answerAlt": [
+            "myself"
+          ],
+          "explanation": "Proud of myself — reflexive."
+        },
+        {
+          "id": "r_m5_p6_q6",
+          "part": 6,
+          "type": "cloze",
+          "context": "Next month, I'm going to take part __(27)__ my first running race — ten kilometres! I've been training for three months, and I feel ready, although a little nervous.\n\nMy trainer, Mrs Costa, says the most important thing is to start slowly. 'Many beginners run too fast at the beginning and get tired __(28)__ the end,' she told me. She also says I should drink water before the race, __(29)__ not too much.\n\nMy family is coming to watch, and my little sister made a sign with my name on it. She says she'll shout so loudly __(30)__ everyone will hear her!\n\nI don't expect to win. I just want to finish and be proud of __(31)__. Whatever happens, I've already achieved something important: I proved to myself that I can do hard things. And that is worth more than any medal, isn't __(32)__?",
+          "stem": "Write ONE word for gap __32__.",
+          "answer": "it",
+          "answerAlt": [
+            "it"
+          ],
+          "explanation": "'Isn't it?' — question tag for the statement."
+        }
+      ]
+    },
+    "writing": {
+      "tasks": [
+        {
+          "id": "w_m5_t1",
+          "part": 1,
+          "type": "email",
+          "title": "Mock 5 · Part 1: Reply to Amy's email",
+          "rubric": "Read the email from your English friend Amy. Write a reply answering all four points (about 100 words).",
+          "inputText": "Hi!\nGuess what — I've started learning your language at school! It's difficult but fun.\nCan you help me practise? I'd love to visit your town one day. What's the best time of year to come, and why?\nAlso, what's the most interesting place to visit there? I prefer history to shopping!\nAnd tell me — what do young people in your town do at weekends?\nKeep in touch!\nAmy",
+          "points": [
+            "Say when the best time to visit is and why",
+            "Recommend a historical place",
+            "Say what young people do at weekends",
+            "Offer to help her practise the language"
+          ],
+          "words": 100,
+          "model": "Hi Amy,\n\nCongratulations on starting my language! I'm sure you'll do great.\n\nThe best time to visit my town is May. The weather is warm but not too hot, and the parks are full of flowers — it's beautiful.\n\nIf you love history, you must visit the old castle on the hill. It's over five hundred years old, and the view from the top is amazing.\n\nAt weekends, young people here usually play sport, go to the cinema, or just hang out in the main square.\n\nOf course I'll help you practise! Let's write emails in both languages — I can correct yours, and you can correct mine.\n\nSara",
+          "modelNotes": "Every point is answered; the choice has a reason; the closing proposes a concrete way to practise.",
+          "checklist": [
+            "All four content points are answered",
+            "A season is recommended with a reason",
+            "The recommendation matches her interests (history)",
+            "A concrete offer to help is made",
+            "About 100 words"
+          ]
+        },
+        {
+          "id": "w_m5_t2",
+          "part": 2,
+          "type": "article",
+          "title": "Mock 5 · Part 2: My hero",
+          "rubric": "A magazine asks readers to write articles about someone they admire. Write your article about your hero (about 100 words), saying who the person is, what they do, and why you admire them.",
+          "points": [
+            "Say who the person is",
+            "Describe what they do",
+            "Explain why you admire them",
+            "Say what you learned from them"
+          ],
+          "words": 100,
+          "model": "My Hero\n\nWho is your hero? A famous singer? A footballer? Mine is my grandfather.\n\nHe left school at fourteen to work in a factory, but he never stopped learning. In the evenings, he read books and taught himself history and mathematics. Later, he became a teacher — without a university degree!\n\nI admire him because he shows that it's never too late to change your life. He always says: 'The only real failure is giving up.'\n\nFrom him, I learned to be patient and to work hard even when things are difficult. All in all, he is my hero — not because he is famous, but because he is himself.",
+          "modelNotes": "Personal hero with a clear story; reasons for admiration; a lesson learned; strong conclusion.",
+          "checklist": [
+            "The article has a title",
+            "It speaks to the reader",
+            "Reasons for admiration are clear",
+            "A lesson is mentioned",
+            "About 100 words"
+          ]
+        }
+      ]
+    },
+    "listening": {
+      "questions": [
+        {
+          "id": "l_m5_p1_q1",
+          "part": 1,
+          "type": "mcq",
+          "stem": "What will the girl do at the weekend?",
+          "options": [
+            "go to the beach Saturday",
+            "paint the kitchen Saturday",
+            "go to the beach Sunday"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Are you coming to the beach on Saturday?"
+            },
+            {
+              "speaker": "W",
+              "text": "I'd love to, but I promised my mum I'd help her paint the kitchen. We're doing it Sunday instead — want to come?"
+            }
+          ],
+          "explanation": "She helps paint on Saturday; the beach is Sunday."
+        },
+        {
+          "id": "l_m5_p1_q2",
+          "part": 1,
+          "type": "mcq",
+          "stem": "What has the man just done?",
+          "options": [
+            "He watched a race.",
+            "He ran five kilometres.",
+            "He bought running shoes."
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "You look tired!"
+            },
+            {
+              "speaker": "M",
+              "text": "I've just run five kilometres. I'm training for the charity race next month — I want to beat my time from last year."
+            }
+          ],
+          "explanation": "He's just run five kilometres."
+        },
+        {
+          "id": "l_m5_p1_q3",
+          "part": 1,
+          "type": "mcq",
+          "stem": "Which film will they watch?",
+          "options": [
+            "the action film",
+            "the comedy",
+            "a horror film"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Do you fancy the new action film or the comedy?"
+            },
+            {
+              "speaker": "W",
+              "text": "I saw the action one last week. Let's laugh for a change — the comedy!"
+            }
+          ],
+          "explanation": "She chooses the comedy."
+        },
+        {
+          "id": "l_m5_p1_q4",
+          "part": 1,
+          "type": "mcq",
+          "stem": "Where did the woman leave her phone?",
+          "options": [
+            "in her jacket",
+            "in her bag",
+            "at home"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Can I call you later? What's your number again?"
+            },
+            {
+              "speaker": "W",
+              "text": "Actually, I can't find my phone! I'm sure it was in my jacket... oh, here it is — it was in my bag all along."
+            }
+          ],
+          "explanation": "It was in her bag all along."
+        },
+        {
+          "id": "l_m5_p1_q5",
+          "part": 1,
+          "type": "mcq",
+          "stem": "What does the boy want to be in the future?",
+          "options": [
+            "a teacher",
+            "an architect",
+            "an artist"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "What job would you like when you finish school?"
+            },
+            {
+              "speaker": "M",
+              "text": "I love drawing, so maybe something in design — buildings, maybe. My art teacher says I should study architecture."
+            }
+          ],
+          "explanation": "He wants to design buildings — architecture."
+        },
+        {
+          "id": "l_m5_p1_q6",
+          "part": 1,
+          "type": "mcq",
+          "stem": "How will the friends get to the concert?",
+          "options": [
+            "by bus",
+            "by car",
+            "by train"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "The concert is in the next town. Shall we take the bus?"
+            },
+            {
+              "speaker": "W",
+              "text": "The last bus back is at ten, and the concert finishes at half past. My dad said he can drive us — he's coming to pick us up afterwards."
+            }
+          ],
+          "explanation": "Her dad will drive and pick them up."
+        },
+        {
+          "id": "l_m5_p1_q7",
+          "part": 1,
+          "type": "mcq",
+          "stem": "What is the girl's favourite school subject?",
+          "options": [
+            "science",
+            "art",
+            "history"
+          ],
+          "answer": 2,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Which subject do you like most — science or art?"
+            },
+            {
+              "speaker": "W",
+              "text": "Honestly? Neither! My favourite is history. I love stories about real people."
+            }
+          ],
+          "explanation": "Her favourite is history."
+        },
+        {
+          "id": "l_m5_p2_q1",
+          "part": 2,
+          "type": "mcq",
+          "stem": "The speaker says the sports centre …",
+          "options": [
+            "charges for first lessons",
+            "is open until nine",
+            "has no equipment"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "The Riverside Sports Centre now has a new climbing wall, open every day from ten until nine. Beginners' lessons are free on your first visit, and you can borrow all the equipment."
+            }
+          ],
+          "explanation": "It is open from ten until nine."
+        },
+        {
+          "id": "l_m5_p2_q2",
+          "part": 2,
+          "type": "mcq",
+          "stem": "The woman is calling to …",
+          "options": [
+            "buy a new router",
+            "report a problem",
+            "change her plan"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "Hello, I'd like to report a problem with my internet. It stopped working yesterday evening, and the lights on the box are red. My account number is four-seven-two-nine."
+            }
+          ],
+          "explanation": "She is reporting an internet problem."
+        },
+        {
+          "id": "l_m5_p2_q3",
+          "part": 2,
+          "type": "mcq",
+          "stem": "According to the announcement, the show …",
+          "options": [
+            "is cancelled",
+            "starts twenty minutes late",
+            "has moved to another theatre"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Ladies and gentlemen, tonight's theatre show will begin twenty minutes late because of a technical problem. The bar remains open, and your tickets stay valid."
+            }
+          ],
+          "explanation": "It begins twenty minutes late."
+        },
+        {
+          "id": "l_m5_p2_q4",
+          "part": 2,
+          "type": "mcq",
+          "stem": "The girl says about the school trip …",
+          "options": [
+            "the lunch was excellent",
+            "the space show was the best part",
+            "the museum was boring"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "The science museum was OK, but I didn't like the lunch — cold sandwiches again! The best part was the space show at the end. It felt like real stars!"
+            }
+          ],
+          "explanation": "Her favourite part was the space show."
+        },
+        {
+          "id": "l_m5_p2_q5",
+          "part": 2,
+          "type": "mcq",
+          "stem": "Tomorrow will be …",
+          "options": [
+            "foggy all day",
+            "rainy in the evening",
+            "cold all day"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Weather: tomorrow starts with fog in the morning, clearing by ten. A warm afternoon around twenty-two degrees, then rain arriving in the evening. Take an umbrella if you're going out late."
+            }
+          ],
+          "explanation": "Rain arrives in the evening."
+        },
+        {
+          "id": "l_m5_p2_q6",
+          "part": 2,
+          "type": "mcq",
+          "stem": "The man is calling because …",
+          "options": [
+            "he wants to cancel tickets",
+            "he lost his confirmation",
+            "he wants different seats"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Hi, I reserved two tickets for Friday's film, but I can't find the confirmation email. My name is Peter Klein — could you check the booking, please?"
+            }
+          ],
+          "explanation": "He can't find the confirmation email."
+        },
+        {
+          "id": "l_m5_p3_q1",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Mrs Palmer talking about a school bus service. Complete the notes.",
+          "stem": "The new service starts on the first Monday of ____.",
+          "answer": "September",
+          "answerAlt": [
+            "september"
+          ],
+          "refScript": "l_m5_p3_main",
+          "explanation": "It starts on the first Monday of September."
+        },
+        {
+          "id": "l_m5_p3_q2",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Mrs Palmer talking about a school bus service. Complete the notes.",
+          "stem": "Buses leave the villages at ____ in the morning.",
+          "answer": "seven forty",
+          "answerAlt": [
+            "seven forty",
+            "7.40",
+            "7:40"
+          ],
+          "refScript": "l_m5_p3_main",
+          "explanation": "Buses leave at seven forty."
+        },
+        {
+          "id": "l_m5_p3_q3",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Mrs Palmer talking about a school bus service. Complete the notes.",
+          "stem": "The journey to school takes about ____ minutes.",
+          "answer": "thirty-five",
+          "answerAlt": [
+            "thirty-five",
+            "35"
+          ],
+          "refScript": "l_m5_p3_main",
+          "explanation": "The journey takes about 35 minutes."
+        },
+        {
+          "id": "l_m5_p3_q4",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Mrs Palmer talking about a school bus service. Complete the notes.",
+          "stem": "Students can use free ____ on board.",
+          "answer": "Wi-Fi",
+          "answerAlt": [
+            "wi-fi",
+            "wifi"
+          ],
+          "refScript": "l_m5_p3_main",
+          "explanation": "There is free Wi-Fi."
+        },
+        {
+          "id": "l_m5_p3_q5",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Mrs Palmer talking about a school bus service. Complete the notes.",
+          "stem": "The price for the whole term is ____ pounds.",
+          "answer": "one hundred and twenty",
+          "answerAlt": [
+            "one hundred and twenty",
+            "120"
+          ],
+          "refScript": "l_m5_p3_main",
+          "explanation": "120 pounds per term."
+        },
+        {
+          "id": "l_m5_p3_q6",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Mrs Palmer talking about a school bus service. Complete the notes.",
+          "stem": "Families must register before the ____ of August.",
+          "answer": "twentieth",
+          "answerAlt": [
+            "twentieth",
+            "20th",
+            "20"
+          ],
+          "refScript": "l_m5_p3_main",
+          "explanation": "Register before 20 August."
+        },
+        {
+          "id": "l_m5_p4_q1",
+          "part": 4,
+          "type": "mcq",
+          "stem": "What is Tom's job?",
+          "options": [
+            "Recording the weather on a mountain.",
+            "Guiding walkers up Snowdon.",
+            "Repairing weather instruments."
+          ],
+          "answer": 0,
+          "refScript": "l_m5_p4_main",
+          "explanation": "He records the weather every hour."
+        },
+        {
+          "id": "l_m5_p4_q2",
+          "part": 4,
+          "type": "mcq",
+          "stem": "Who uses the information Tom sends?",
+          "options": [
+            "Only local schools.",
+            "The national weather service.",
+            "Mountain tourists."
+          ],
+          "answer": 1,
+          "refScript": "l_m5_p4_main",
+          "explanation": "He sends it to the national weather service."
+        },
+        {
+          "id": "l_m5_p4_q3",
+          "part": 4,
+          "type": "mcq",
+          "stem": "Why is his station important?",
+          "options": [
+            "Mountain weather changes very fast.",
+            "It is the oldest station.",
+            "It predicts earthquakes."
+          ],
+          "answer": 0,
+          "refScript": "l_m5_p4_main",
+          "explanation": "Mountain weather changes faster than anywhere else."
+        },
+        {
+          "id": "l_m5_p4_q4",
+          "part": 4,
+          "type": "mcq",
+          "stem": "What was the strongest wind measured last winter?",
+          "options": [
+            "100 km/h.",
+            "160 km/h.",
+            "60 km/h."
+          ],
+          "answer": 1,
+          "refScript": "l_m5_p4_main",
+          "explanation": "One hundred and sixty kilometres per hour."
+        },
+        {
+          "id": "l_m5_p4_q5",
+          "part": 4,
+          "type": "mcq",
+          "stem": "How does the team work?",
+          "options": [
+            "Alone for two weeks.",
+            "Three people for two weeks at a time.",
+            "Only in summer."
+          ],
+          "answer": 1,
+          "refScript": "l_m5_p4_main",
+          "explanation": "A team of three stays two weeks at a time."
+        },
+        {
+          "id": "l_m5_p4_q6",
+          "part": 4,
+          "type": "mcq",
+          "stem": "What does Tom love about his job?",
+          "options": [
+            "The card games.",
+            "The sunrise above the clouds.",
+            "The week's rest."
+          ],
+          "answer": 1,
+          "refScript": "l_m5_p4_main",
+          "explanation": "He watches the sun rise above the clouds every morning."
+        }
+      ],
+      "scripts": {
+        "l_m5_p3_main": [
+          {
+            "speaker": "M",
+            "text": "Good afternoon, and welcome to the presentation about the new school bus service for the eastern villages. I'm Mrs Palmer from the transport office."
+          },
+          {
+            "speaker": "M",
+            "text": "The new service starts on the first Monday of September. Buses leave the villages at seven forty in the morning and return home at four fifteen in the afternoon."
+          },
+          {
+            "speaker": "M",
+            "text": "The bus takes up to forty students, and the journey to school takes about thirty-five minutes. Students can do homework or simply relax — there is free Wi-Fi on board."
+          },
+          {
+            "speaker": "M",
+            "text": "The price for the whole term is one hundred and twenty pounds, paid through the school website. Families with two children pay only ninety pounds per child."
+          },
+          {
+            "speaker": "M",
+            "text": "To register, fill in the form on our website before the twentieth of August. For questions, phone the transport office on zero-one-eight-nine-two, four-four-seven, five-five-zero — that's 01892 447 550. Thank you!"
+          }
+        ],
+        "l_m5_p4_main": [
+          {
+            "speaker": "W",
+            "text": "Today in 'Unusual Jobs' we meet Tom Barker, who works as a weather watcher on the top of Snowdon, the highest mountain in Wales. Tom, what exactly do you do?"
+          },
+          {
+            "speaker": "M",
+            "text": "I record the weather — temperature, wind, rain, snow — every hour, from six in the morning until ten at night. I send the information to the national weather service. They use it to make forecasts for the whole region."
+          },
+          {
+            "speaker": "W",
+            "text": "Why is your station so important?"
+          },
+          {
+            "speaker": "M",
+            "text": "Because mountain weather changes faster than anywhere else. A sunny morning can become a storm in thirty minutes. Farmers, walkers and even aeroplane pilots use our data."
+          },
+          {
+            "speaker": "W",
+            "text": "What's the hardest part of the job?"
+          },
+          {
+            "speaker": "M",
+            "text": "The wind! Last winter we measured winds of one hundred and sixty kilometres per hour. On days like that, I can't even open the door. I have to wait for calmer moments to check the instruments outside."
+          },
+          {
+            "speaker": "W",
+            "text": "And do you live up there alone?"
+          },
+          {
+            "speaker": "M",
+            "text": "I work in a team of three, and we stay for two weeks at a time. We cook together, play cards, and talk a lot! Then we go down the mountain for a week's rest. My family say I have the world's best office view — and they're right. Every morning, I watch the sun rise above the clouds. You never get tired of that."
+          }
+        ]
+      }
+    },
+    "speaking": {
+      "parts": [
+        {
+          "part": 1,
+          "name": "Interview",
+          "desc": "Answer personal questions in full sentences.",
+          "time": "about 2 minutes",
+          "useful": [
+            "I usually ... but sometimes ...",
+            "What I like best about it is ..."
+          ],
+          "prompts": [
+            {
+              "q": "Tell me about your favourite teacher.",
+              "prep": 30,
+              "followUps": "What makes a good teacher?"
+            },
+            {
+              "q": "What do you enjoy learning at school?",
+              "prep": 30,
+              "followUps": "Why do you enjoy it?"
+            },
+            {
+              "q": "Tell me about something you learned recently.",
+              "prep": 30,
+              "followUps": "How did you learn it?"
+            }
+          ]
+        },
+        {
+          "part": 2,
+          "name": "Describe the photograph",
+          "desc": "Describe the photograph alone for about one minute.",
+          "time": "about 3 minutes",
+          "useful": [
+            "In the picture I can see ...",
+            "Perhaps they are ... because ..."
+          ],
+          "prompts": [
+            {
+              "q": "Describe a photograph of two girls studying together at a library table with books and a laptop. What can you see? What are they doing? How do they feel?",
+              "prep": 60
+            }
+          ]
+        },
+        {
+          "part": 3,
+          "name": "Collaborative task",
+          "desc": "Discuss with your partner and decide together.",
+          "time": "about 4 minutes",
+          "useful": [
+            "Why don't we ...?",
+            "That's a good idea, but ...",
+            "Shall we choose ...?"
+          ],
+          "prompts": [
+            {
+              "q": "A school wants to create a new club for students. Talk together about the different clubs they could create, and decide which would be the most useful.",
+              "prep": 60,
+              "followUps": "Ideas: a homework help club, a cooking club, a first aid club, a language exchange club, a recycling club."
+            }
+          ]
+        },
+        {
+          "part": 4,
+          "name": "Discussion",
+          "desc": "Give opinions with reasons.",
+          "time": "about 3 minutes",
+          "useful": [
+            "In my opinion, ...",
+            "It depends on ..."
+          ],
+          "prompts": [
+            {
+              "q": "Is it better to study alone or with other people? Why?",
+              "prep": 30
+            },
+            {
+              "q": "Should schools teach practical skills like cooking or first aid? Why?",
+              "prep": 30
+            },
+            {
+              "q": "What new skill would you like to learn? Why?",
+              "prep": 30
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

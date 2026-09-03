@@ -1,0 +1,1152 @@
+{
+  "id": "mock-04",
+  "title": "Mock Exam 4",
+  "description": "Full B1 Preliminary practice paper 4. Timed sections, exam conditions.",
+  "timings": {
+    "reading": 2700,
+    "writing": 2700,
+    "listening": 1800,
+    "speaking": 720
+  },
+  "sections": {
+    "reading": {
+      "questions": [
+        {
+          "id": "r_m4_p1_q1",
+          "part": 1,
+          "type": "mcq",
+          "context": "NIGHT BUS N7\nRuns every 30 minutes from 11 p.m. to 5 a.m.\nNormal tickets NOT valid — please buy on board.",
+          "stem": "On the night bus …",
+          "options": [
+            "normal tickets can be used.",
+            "passengers pay when they get on the bus.",
+            "the bus comes once an hour."
+          ],
+          "answer": 1,
+          "explanation": "Normal tickets are not valid; you buy on board."
+        },
+        {
+          "id": "r_m4_p1_q2",
+          "part": 1,
+          "type": "mcq",
+          "context": "SWIMMING CLUB\nNew members: first lesson free!\nBring swimming costume, towel and cap.\nGlasses not allowed in the pool.",
+          "stem": "New members of the club …",
+          "options": [
+            "must bring their own glasses.",
+            "don't pay for their first lesson.",
+            "should arrive before the lesson starts."
+          ],
+          "answer": 1,
+          "explanation": "The first lesson is free for new members."
+        },
+        {
+          "id": "r_m4_p1_q3",
+          "part": 1,
+          "type": "mcq",
+          "context": "PARKING: hospital visitors only\nMaximum stay: two hours\nCars parked longer will be moved.",
+          "stem": "Visitors …",
+          "options": [
+            "may park for up to two hours.",
+            "can park all day.",
+            "must move their cars every hour."
+          ],
+          "answer": 0,
+          "explanation": "Maximum stay is two hours."
+        },
+        {
+          "id": "r_m4_p1_q4",
+          "part": 1,
+          "type": "mcq",
+          "context": "Hi Dan,\nDon't forget the geography project! It's due on Wednesday.\nCan we meet at the library on Monday to finish it?\nSam",
+          "stem": "Sam wants Dan to …",
+          "options": [
+            "finish the project alone.",
+            "meet him on Monday.",
+            "return the geography book."
+          ],
+          "answer": 1,
+          "explanation": "Sam asks to meet at the library on Monday to finish the project."
+        },
+        {
+          "id": "r_m4_p1_q5",
+          "part": 1,
+          "type": "mcq",
+          "context": "ROSE TEA ROOM\nHomemade cakes daily.\nGroups of six or more, please book a table.",
+          "stem": "At Rose Tea Room …",
+          "options": [
+            "large groups should reserve a table.",
+            "cakes are made twice a week.",
+            "all visitors must book."
+          ],
+          "answer": 0,
+          "explanation": "Groups of six or more should book."
+        },
+        {
+          "id": "r_m4_p2_q1",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of groups (A–H).\nA. Wave School — surfing lessons for all ages, every weekend.\nB. Little Chefs — cooking classes for children aged 6–10, Saturdays.\nC. City Voices — community choir, no experience needed, Thursdays.\nD. Garden Friends — help plant flowers in the hospital garden, Sundays.\nE. Robot Lab — build and program small robots, for 12–15-year-olds, Tuesdays.\nF. Word Club — creative writing group for adults, Monday evenings.\nG. Silver Steps — gentle dance classes for people over 60, Wednesdays.\nH. Night Sky Team — telescope group watching stars, clear Friday nights.",
+          "stem": "Rosa is 65 and wants a fun, gentle way to keep active.",
+          "options": [
+            "A. Wave School — surfing lessons for all ages, every weekend.",
+            "B. Little Chefs — cooking classes for children aged 6–10, Saturdays.",
+            "C. City Voices — community choir, no experience needed, Thursdays.",
+            "D. Garden Friends — help plant flowers in the hospital garden, Sundays.",
+            "E. Robot Lab — build and program small robots, for 12–15-year-olds, Tuesdays.",
+            "F. Word Club — creative writing group for adults, Monday evenings.",
+            "G. Silver Steps — gentle dance classes for people over 60, Wednesdays.",
+            "H. Night Sky Team — telescope group watching stars, clear Friday nights."
+          ],
+          "answer": 6,
+          "explanation": "Silver Steps offers gentle dance for over-60s."
+        },
+        {
+          "id": "r_m4_p2_q2",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of groups (A–H).\nA. Wave School — surfing lessons for all ages, every weekend.\nB. Little Chefs — cooking classes for children aged 6–10, Saturdays.\nC. City Voices — community choir, no experience needed, Thursdays.\nD. Garden Friends — help plant flowers in the hospital garden, Sundays.\nE. Robot Lab — build and program small robots, for 12–15-year-olds, Tuesdays.\nF. Word Club — creative writing group for adults, Monday evenings.\nG. Silver Steps — gentle dance classes for people over 60, Wednesdays.\nH. Night Sky Team — telescope group watching stars, clear Friday nights.",
+          "stem": "Felix loves technology and wants to make things that move.",
+          "options": [
+            "A. Wave School — surfing lessons for all ages, every weekend.",
+            "B. Little Chefs — cooking classes for children aged 6–10, Saturdays.",
+            "C. City Voices — community choir, no experience needed, Thursdays.",
+            "D. Garden Friends — help plant flowers in the hospital garden, Sundays.",
+            "E. Robot Lab — build and program small robots, for 12–15-year-olds, Tuesdays.",
+            "F. Word Club — creative writing group for adults, Monday evenings.",
+            "G. Silver Steps — gentle dance classes for people over 60, Wednesdays.",
+            "H. Night Sky Team — telescope group watching stars, clear Friday nights."
+          ],
+          "answer": 4,
+          "explanation": "Robot Lab builds and programs robots."
+        },
+        {
+          "id": "r_m4_p2_q3",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of groups (A–H).\nA. Wave School — surfing lessons for all ages, every weekend.\nB. Little Chefs — cooking classes for children aged 6–10, Saturdays.\nC. City Voices — community choir, no experience needed, Thursdays.\nD. Garden Friends — help plant flowers in the hospital garden, Sundays.\nE. Robot Lab — build and program small robots, for 12–15-year-olds, Tuesdays.\nF. Word Club — creative writing group for adults, Monday evenings.\nG. Silver Steps — gentle dance classes for people over 60, Wednesdays.\nH. Night Sky Team — telescope group watching stars, clear Friday nights.",
+          "stem": "Nadia enjoys singing and wants to join a friendly group.",
+          "options": [
+            "A. Wave School — surfing lessons for all ages, every weekend.",
+            "B. Little Chefs — cooking classes for children aged 6–10, Saturdays.",
+            "C. City Voices — community choir, no experience needed, Thursdays.",
+            "D. Garden Friends — help plant flowers in the hospital garden, Sundays.",
+            "E. Robot Lab — build and program small robots, for 12–15-year-olds, Tuesdays.",
+            "F. Word Club — creative writing group for adults, Monday evenings.",
+            "G. Silver Steps — gentle dance classes for people over 60, Wednesdays.",
+            "H. Night Sky Team — telescope group watching stars, clear Friday nights."
+          ],
+          "answer": 2,
+          "explanation": "City Voices is a choir with no experience needed."
+        },
+        {
+          "id": "r_m4_p2_q4",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of groups (A–H).\nA. Wave School — surfing lessons for all ages, every weekend.\nB. Little Chefs — cooking classes for children aged 6–10, Saturdays.\nC. City Voices — community choir, no experience needed, Thursdays.\nD. Garden Friends — help plant flowers in the hospital garden, Sundays.\nE. Robot Lab — build and program small robots, for 12–15-year-olds, Tuesdays.\nF. Word Club — creative writing group for adults, Monday evenings.\nG. Silver Steps — gentle dance classes for people over 60, Wednesdays.\nH. Night Sky Team — telescope group watching stars, clear Friday nights.",
+          "stem": "Marco wants to do something kind for sick people.",
+          "options": [
+            "A. Wave School — surfing lessons for all ages, every weekend.",
+            "B. Little Chefs — cooking classes for children aged 6–10, Saturdays.",
+            "C. City Voices — community choir, no experience needed, Thursdays.",
+            "D. Garden Friends — help plant flowers in the hospital garden, Sundays.",
+            "E. Robot Lab — build and program small robots, for 12–15-year-olds, Tuesdays.",
+            "F. Word Club — creative writing group for adults, Monday evenings.",
+            "G. Silver Steps — gentle dance classes for people over 60, Wednesdays.",
+            "H. Night Sky Team — telescope group watching stars, clear Friday nights."
+          ],
+          "answer": 3,
+          "explanation": "Garden Friends plants flowers in the hospital garden."
+        },
+        {
+          "id": "r_m4_p2_q5",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of groups (A–H).\nA. Wave School — surfing lessons for all ages, every weekend.\nB. Little Chefs — cooking classes for children aged 6–10, Saturdays.\nC. City Voices — community choir, no experience needed, Thursdays.\nD. Garden Friends — help plant flowers in the hospital garden, Sundays.\nE. Robot Lab — build and program small robots, for 12–15-year-olds, Tuesdays.\nF. Word Club — creative writing group for adults, Monday evenings.\nG. Silver Steps — gentle dance classes for people over 60, Wednesdays.\nH. Night Sky Team — telescope group watching stars, clear Friday nights.",
+          "stem": "Iris writes short stories and wants to meet other writers.",
+          "options": [
+            "A. Wave School — surfing lessons for all ages, every weekend.",
+            "B. Little Chefs — cooking classes for children aged 6–10, Saturdays.",
+            "C. City Voices — community choir, no experience needed, Thursdays.",
+            "D. Garden Friends — help plant flowers in the hospital garden, Sundays.",
+            "E. Robot Lab — build and program small robots, for 12–15-year-olds, Tuesdays.",
+            "F. Word Club — creative writing group for adults, Monday evenings.",
+            "G. Silver Steps — gentle dance classes for people over 60, Wednesdays.",
+            "H. Night Sky Team — telescope group watching stars, clear Friday nights."
+          ],
+          "answer": 5,
+          "explanation": "Word Club is a creative writing group."
+        },
+        {
+          "id": "r_m4_p3_q1",
+          "part": 3,
+          "type": "mcq",
+          "context": "When the old railway station in Branton closed in 1987, most people forgot about it. The tracks were removed, weeds grew between the stones, and the building slowly fell apart. Then, three years ago, a group of local teenagers had an unusual idea: let's turn it into a skate park.\n\nNobody believed it was possible. The council said the building was dangerous, and some older residents wanted it pulled down completely. But the teenagers refused to give up. They made a video showing their plan, collected over two thousand signatures, and presented their idea at a council meeting. 'We don't have anywhere to go after school,' said Mia Torres, one of the organisers. 'This could change everything.'\n\nThe council finally agreed to help — but only if the teenagers found the money themselves. So they organised concerts, sold cakes, and cleaned cars. Eighteen months later, they had enough.\n\nToday, the Branton Skate Station welcomes around a hundred young people every day. It has ramps, a small café run by volunteers, and even a room for art classes. Mia, now at university, comes back every holiday. 'People told us we were dreaming,' she says. 'But sometimes dreams just need a bit of concrete.'",
+          "stem": "What happened to the station after it closed?",
+          "options": [
+            "It became a skate park immediately.",
+            "It was forgotten and became ruined.",
+            "It was turned into a café.",
+            "The council repaired it."
+          ],
+          "answer": 1,
+          "explanation": "The tracks were removed, weeds grew, and the building fell apart."
+        },
+        {
+          "id": "r_m4_p3_q2",
+          "part": 3,
+          "type": "mcq",
+          "context": "When the old railway station in Branton closed in 1987, most people forgot about it. The tracks were removed, weeds grew between the stones, and the building slowly fell apart. Then, three years ago, a group of local teenagers had an unusual idea: let's turn it into a skate park.\n\nNobody believed it was possible. The council said the building was dangerous, and some older residents wanted it pulled down completely. But the teenagers refused to give up. They made a video showing their plan, collected over two thousand signatures, and presented their idea at a council meeting. 'We don't have anywhere to go after school,' said Mia Torres, one of the organisers. 'This could change everything.'\n\nThe council finally agreed to help — but only if the teenagers found the money themselves. So they organised concerts, sold cakes, and cleaned cars. Eighteen months later, they had enough.\n\nToday, the Branton Skate Station welcomes around a hundred young people every day. It has ramps, a small café run by volunteers, and even a room for art classes. Mia, now at university, comes back every holiday. 'People told us we were dreaming,' she says. 'But sometimes dreams just need a bit of concrete.'",
+          "stem": "What did the teenagers do to support their idea?",
+          "options": [
+            "They built ramps themselves.",
+            "They made a video and collected signatures.",
+            "They opened a café.",
+            "They moved to another town."
+          ],
+          "answer": 1,
+          "explanation": "They made a video and collected over two thousand signatures."
+        },
+        {
+          "id": "r_m4_p3_q3",
+          "part": 3,
+          "type": "mcq",
+          "context": "When the old railway station in Branton closed in 1987, most people forgot about it. The tracks were removed, weeds grew between the stones, and the building slowly fell apart. Then, three years ago, a group of local teenagers had an unusual idea: let's turn it into a skate park.\n\nNobody believed it was possible. The council said the building was dangerous, and some older residents wanted it pulled down completely. But the teenagers refused to give up. They made a video showing their plan, collected over two thousand signatures, and presented their idea at a council meeting. 'We don't have anywhere to go after school,' said Mia Torres, one of the organisers. 'This could change everything.'\n\nThe council finally agreed to help — but only if the teenagers found the money themselves. So they organised concerts, sold cakes, and cleaned cars. Eighteen months later, they had enough.\n\nToday, the Branton Skate Station welcomes around a hundred young people every day. It has ramps, a small café run by volunteers, and even a room for art classes. Mia, now at university, comes back every holiday. 'People told us we were dreaming,' she says. 'But sometimes dreams just need a bit of concrete.'",
+          "stem": "What condition did the council set?",
+          "options": [
+            "The teenagers had to find the money.",
+            "The park must close at night.",
+            "Only adults could use it.",
+            "Mia had to leave university."
+          ],
+          "answer": 0,
+          "explanation": "The council helped only if the teenagers found the money themselves."
+        },
+        {
+          "id": "r_m4_p3_q4",
+          "part": 3,
+          "type": "mcq",
+          "context": "When the old railway station in Branton closed in 1987, most people forgot about it. The tracks were removed, weeds grew between the stones, and the building slowly fell apart. Then, three years ago, a group of local teenagers had an unusual idea: let's turn it into a skate park.\n\nNobody believed it was possible. The council said the building was dangerous, and some older residents wanted it pulled down completely. But the teenagers refused to give up. They made a video showing their plan, collected over two thousand signatures, and presented their idea at a council meeting. 'We don't have anywhere to go after school,' said Mia Torres, one of the organisers. 'This could change everything.'\n\nThe council finally agreed to help — but only if the teenagers found the money themselves. So they organised concerts, sold cakes, and cleaned cars. Eighteen months later, they had enough.\n\nToday, the Branton Skate Station welcomes around a hundred young people every day. It has ramps, a small café run by volunteers, and even a room for art classes. Mia, now at university, comes back every holiday. 'People told us we were dreaming,' she says. 'But sometimes dreams just need a bit of concrete.'",
+          "stem": "How did the teenagers raise money?",
+          "options": [
+            "They sold the station.",
+            "They organised concerts and sold cakes.",
+            "They asked their parents.",
+            "They got a bank loan."
+          ],
+          "answer": 1,
+          "explanation": "Concerts, cake sales and car cleaning."
+        },
+        {
+          "id": "r_m4_p3_q5",
+          "part": 3,
+          "type": "mcq",
+          "context": "When the old railway station in Branton closed in 1987, most people forgot about it. The tracks were removed, weeds grew between the stones, and the building slowly fell apart. Then, three years ago, a group of local teenagers had an unusual idea: let's turn it into a skate park.\n\nNobody believed it was possible. The council said the building was dangerous, and some older residents wanted it pulled down completely. But the teenagers refused to give up. They made a video showing their plan, collected over two thousand signatures, and presented their idea at a council meeting. 'We don't have anywhere to go after school,' said Mia Torres, one of the organisers. 'This could change everything.'\n\nThe council finally agreed to help — but only if the teenagers found the money themselves. So they organised concerts, sold cakes, and cleaned cars. Eighteen months later, they had enough.\n\nToday, the Branton Skate Station welcomes around a hundred young people every day. It has ramps, a small café run by volunteers, and even a room for art classes. Mia, now at university, comes back every holiday. 'People told us we were dreaming,' she says. 'But sometimes dreams just need a bit of concrete.'",
+          "stem": "What is the skate station like now?",
+          "options": [
+            "It is used by few people.",
+            "It is busy and offers several activities.",
+            "It is only for professionals.",
+            "It closes every holiday."
+          ],
+          "answer": 1,
+          "explanation": "Around a hundred young people visit daily; it has ramps, a café and art classes."
+        },
+        {
+          "id": "r_m4_p4_q1",
+          "part": 4,
+          "type": "mcq",
+          "context": "The school day in Finland often starts later than in other countries, and many experts believe this is a good __(16)__. Teenagers naturally feel tired in the early morning, so a later start helps them arrive at school awake and ready to learn.\n\nFinnish students also receive less homework than students in most other countries. Instead of __(17)__ long hours at home, they spend time on hobbies, sport and family. Surprisingly, Finnish schools are still among the best in the world.\n\nOf course, every country is __(18)__, and what works in Finland may not work everywhere. But researchers agree on one thing: rested students learn better. So perhaps schools around the world should think __(19)__ about their timetables. A small change could make a big __(20)__.",
+          "stem": "Choose the correct word for gap __16__.",
+          "options": [
+            "idea",
+            "thought",
+            "dream",
+            "plan"
+          ],
+          "answer": 0,
+          "explanation": "Experts believe it is a good idea."
+        },
+        {
+          "id": "r_m4_p4_q2",
+          "part": 4,
+          "type": "mcq",
+          "context": "The school day in Finland often starts later than in other countries, and many experts believe this is a good __(16)__. Teenagers naturally feel tired in the early morning, so a later start helps them arrive at school awake and ready to learn.\n\nFinnish students also receive less homework than students in most other countries. Instead of __(17)__ long hours at home, they spend time on hobbies, sport and family. Surprisingly, Finnish schools are still among the best in the world.\n\nOf course, every country is __(18)__, and what works in Finland may not work everywhere. But researchers agree on one thing: rested students learn better. So perhaps schools around the world should think __(19)__ about their timetables. A small change could make a big __(20)__.",
+          "stem": "Choose the correct word for gap __17__.",
+          "options": [
+            "spending",
+            "passing",
+            "losing",
+            "wasting"
+          ],
+          "answer": 0,
+          "explanation": "You spend time — spending long hours."
+        },
+        {
+          "id": "r_m4_p4_q3",
+          "part": 4,
+          "type": "mcq",
+          "context": "The school day in Finland often starts later than in other countries, and many experts believe this is a good __(16)__. Teenagers naturally feel tired in the early morning, so a later start helps them arrive at school awake and ready to learn.\n\nFinnish students also receive less homework than students in most other countries. Instead of __(17)__ long hours at home, they spend time on hobbies, sport and family. Surprisingly, Finnish schools are still among the best in the world.\n\nOf course, every country is __(18)__, and what works in Finland may not work everywhere. But researchers agree on one thing: rested students learn better. So perhaps schools around the world should think __(19)__ about their timetables. A small change could make a big __(20)__.",
+          "stem": "Choose the correct word for gap __18__.",
+          "options": [
+            "different",
+            "same",
+            "similar",
+            "special"
+          ],
+          "answer": 0,
+          "explanation": "Every country is different."
+        },
+        {
+          "id": "r_m4_p4_q4",
+          "part": 4,
+          "type": "mcq",
+          "context": "The school day in Finland often starts later than in other countries, and many experts believe this is a good __(16)__. Teenagers naturally feel tired in the early morning, so a later start helps them arrive at school awake and ready to learn.\n\nFinnish students also receive less homework than students in most other countries. Instead of __(17)__ long hours at home, they spend time on hobbies, sport and family. Surprisingly, Finnish schools are still among the best in the world.\n\nOf course, every country is __(18)__, and what works in Finland may not work everywhere. But researchers agree on one thing: rested students learn better. So perhaps schools around the world should think __(19)__ about their timetables. A small change could make a big __(20)__.",
+          "stem": "Choose the correct word for gap __19__.",
+          "options": [
+            "carefully",
+            "quickly",
+            "loudly",
+            "happily"
+          ],
+          "answer": 0,
+          "explanation": "Schools should think carefully about timetables."
+        },
+        {
+          "id": "r_m4_p4_q5",
+          "part": 4,
+          "type": "mcq",
+          "context": "The school day in Finland often starts later than in other countries, and many experts believe this is a good __(16)__. Teenagers naturally feel tired in the early morning, so a later start helps them arrive at school awake and ready to learn.\n\nFinnish students also receive less homework than students in most other countries. Instead of __(17)__ long hours at home, they spend time on hobbies, sport and family. Surprisingly, Finnish schools are still among the best in the world.\n\nOf course, every country is __(18)__, and what works in Finland may not work everywhere. But researchers agree on one thing: rested students learn better. So perhaps schools around the world should think __(19)__ about their timetables. A small change could make a big __(20)__.",
+          "stem": "Choose the correct word for gap __20__.",
+          "options": [
+            "difference",
+            "change",
+            "surprise",
+            "mistake"
+          ],
+          "answer": 0,
+          "explanation": "'Make a big difference' — fixed phrase."
+        },
+        {
+          "id": "r_m4_p5_q1",
+          "part": 5,
+          "type": "mcq",
+          "context": "Shopping online is convenient, but have you ever __(21)__ how much packaging comes with it? A small phone case can arrive in a huge box filled with plastic. Scientists estimate that online shopping creates millions of tonnes of __(22)__ every year.\n\nSome companies are trying to improve. They now use boxes that can be __(23)__ again, and plastic is slowly disappearing. Customers can also help: they can choose slower delivery, which lets companies __(24)__ more orders into fewer journeys.\n\nNext time you shop online, think before you click. One big order is greener than five small __(25)__. And remember — the best package is the one you never __(26)__.",
+          "stem": "Choose the correct word for gap __21__.",
+          "options": [
+            "thought",
+            "said",
+            "told",
+            "spoken"
+          ],
+          "answer": 0,
+          "explanation": "'Have you ever thought how much...' — think about."
+        },
+        {
+          "id": "r_m4_p5_q2",
+          "part": 5,
+          "type": "mcq",
+          "context": "Shopping online is convenient, but have you ever __(21)__ how much packaging comes with it? A small phone case can arrive in a huge box filled with plastic. Scientists estimate that online shopping creates millions of tonnes of __(22)__ every year.\n\nSome companies are trying to improve. They now use boxes that can be __(23)__ again, and plastic is slowly disappearing. Customers can also help: they can choose slower delivery, which lets companies __(24)__ more orders into fewer journeys.\n\nNext time you shop online, think before you click. One big order is greener than five small __(25)__. And remember — the best package is the one you never __(26)__.",
+          "stem": "Choose the correct word for gap __22__.",
+          "options": [
+            "waste",
+            "energy",
+            "space",
+            "money"
+          ],
+          "answer": 0,
+          "explanation": "Packaging creates waste."
+        },
+        {
+          "id": "r_m4_p5_q3",
+          "part": 5,
+          "type": "mcq",
+          "context": "Shopping online is convenient, but have you ever __(21)__ how much packaging comes with it? A small phone case can arrive in a huge box filled with plastic. Scientists estimate that online shopping creates millions of tonnes of __(22)__ every year.\n\nSome companies are trying to improve. They now use boxes that can be __(23)__ again, and plastic is slowly disappearing. Customers can also help: they can choose slower delivery, which lets companies __(24)__ more orders into fewer journeys.\n\nNext time you shop online, think before you click. One big order is greener than five small __(25)__. And remember — the best package is the one you never __(26)__.",
+          "stem": "Choose the correct word for gap __23__.",
+          "options": [
+            "used",
+            "thrown",
+            "broken",
+            "sold"
+          ],
+          "answer": 0,
+          "explanation": "Boxes that can be used again."
+        },
+        {
+          "id": "r_m4_p5_q4",
+          "part": 5,
+          "type": "mcq",
+          "context": "Shopping online is convenient, but have you ever __(21)__ how much packaging comes with it? A small phone case can arrive in a huge box filled with plastic. Scientists estimate that online shopping creates millions of tonnes of __(22)__ every year.\n\nSome companies are trying to improve. They now use boxes that can be __(23)__ again, and plastic is slowly disappearing. Customers can also help: they can choose slower delivery, which lets companies __(24)__ more orders into fewer journeys.\n\nNext time you shop online, think before you click. One big order is greener than five small __(25)__. And remember — the best package is the one you never __(26)__.",
+          "stem": "Choose the correct word for gap __24__.",
+          "options": [
+            "combine",
+            "divide",
+            "separate",
+            "cancel"
+          ],
+          "answer": 0,
+          "explanation": "Slower delivery lets them combine orders."
+        },
+        {
+          "id": "r_m4_p5_q5",
+          "part": 5,
+          "type": "mcq",
+          "context": "Shopping online is convenient, but have you ever __(21)__ how much packaging comes with it? A small phone case can arrive in a huge box filled with plastic. Scientists estimate that online shopping creates millions of tonnes of __(22)__ every year.\n\nSome companies are trying to improve. They now use boxes that can be __(23)__ again, and plastic is slowly disappearing. Customers can also help: they can choose slower delivery, which lets companies __(24)__ more orders into fewer journeys.\n\nNext time you shop online, think before you click. One big order is greener than five small __(25)__. And remember — the best package is the one you never __(26)__.",
+          "stem": "Choose the correct word for gap __25__.",
+          "options": [
+            "ones",
+            "them",
+            "it",
+            "those"
+          ],
+          "answer": 0,
+          "explanation": "'Five small ones' — replacing 'orders'."
+        },
+        {
+          "id": "r_m4_p5_q6",
+          "part": 5,
+          "type": "mcq",
+          "context": "Shopping online is convenient, but have you ever __(21)__ how much packaging comes with it? A small phone case can arrive in a huge box filled with plastic. Scientists estimate that online shopping creates millions of tonnes of __(22)__ every year.\n\nSome companies are trying to improve. They now use boxes that can be __(23)__ again, and plastic is slowly disappearing. Customers can also help: they can choose slower delivery, which lets companies __(24)__ more orders into fewer journeys.\n\nNext time you shop online, think before you click. One big order is greener than five small __(25)__. And remember — the best package is the one you never __(26)__.",
+          "stem": "Choose the correct word for gap __26__.",
+          "options": [
+            "receive",
+            "send",
+            "give",
+            "take"
+          ],
+          "answer": 0,
+          "explanation": "The best package is the one you never receive."
+        },
+        {
+          "id": "r_m4_p6_q1",
+          "part": 6,
+          "type": "cloze",
+          "context": "Yesterday was my grandmother's eightieth birthday, and our whole family gathered at her house. We arrived early in the morning to help her prepare __(27)__ the party.\n\nMy cousins and I decorated the garden with balloons, __(28)__ my uncle cooked his famous vegetable soup. Grandmother sat in her favourite chair and watched us with a smile.\n\nAt lunchtime, more than thirty people were sitting around the tables. My aunt played the guitar, and everyone sang. Grandmother told us stories __(29)__ her childhood — some of them we had heard before, but we laughed just the same.\n\nThe best moment came when we brought out the cake. It had eighty candles, and it took grandmother two minutes to blow them __(30)__! Everyone clapped and cheered.\n\nI will never forget her face at that moment. She looked so happy that I felt tears in my __(31)__. Family is the greatest present of __(32)__, and yesterday we all remembered it.",
+          "stem": "Write ONE word for gap __27__.",
+          "answer": "for",
+          "answerAlt": [
+            "for"
+          ],
+          "explanation": "Prepare for the party."
+        },
+        {
+          "id": "r_m4_p6_q2",
+          "part": 6,
+          "type": "cloze",
+          "context": "Yesterday was my grandmother's eightieth birthday, and our whole family gathered at her house. We arrived early in the morning to help her prepare __(27)__ the party.\n\nMy cousins and I decorated the garden with balloons, __(28)__ my uncle cooked his famous vegetable soup. Grandmother sat in her favourite chair and watched us with a smile.\n\nAt lunchtime, more than thirty people were sitting around the tables. My aunt played the guitar, and everyone sang. Grandmother told us stories __(29)__ her childhood — some of them we had heard before, but we laughed just the same.\n\nThe best moment came when we brought out the cake. It had eighty candles, and it took grandmother two minutes to blow them __(30)__! Everyone clapped and cheered.\n\nI will never forget her face at that moment. She looked so happy that I felt tears in my __(31)__. Family is the greatest present of __(32)__, and yesterday we all remembered it.",
+          "stem": "Write ONE word for gap __28__.",
+          "answer": "while",
+          "answerAlt": [
+            "while",
+            "and"
+          ],
+          "explanation": "Two actions at the same time: we decorated while my uncle cooked."
+        },
+        {
+          "id": "r_m4_p6_q3",
+          "part": 6,
+          "type": "cloze",
+          "context": "Yesterday was my grandmother's eightieth birthday, and our whole family gathered at her house. We arrived early in the morning to help her prepare __(27)__ the party.\n\nMy cousins and I decorated the garden with balloons, __(28)__ my uncle cooked his famous vegetable soup. Grandmother sat in her favourite chair and watched us with a smile.\n\nAt lunchtime, more than thirty people were sitting around the tables. My aunt played the guitar, and everyone sang. Grandmother told us stories __(29)__ her childhood — some of them we had heard before, but we laughed just the same.\n\nThe best moment came when we brought out the cake. It had eighty candles, and it took grandmother two minutes to blow them __(30)__! Everyone clapped and cheered.\n\nI will never forget her face at that moment. She looked so happy that I felt tears in my __(31)__. Family is the greatest present of __(32)__, and yesterday we all remembered it.",
+          "stem": "Write ONE word for gap __29__.",
+          "answer": "about",
+          "answerAlt": [
+            "about",
+            "of"
+          ],
+          "explanation": "Stories about her childhood."
+        },
+        {
+          "id": "r_m4_p6_q4",
+          "part": 6,
+          "type": "cloze",
+          "context": "Yesterday was my grandmother's eightieth birthday, and our whole family gathered at her house. We arrived early in the morning to help her prepare __(27)__ the party.\n\nMy cousins and I decorated the garden with balloons, __(28)__ my uncle cooked his famous vegetable soup. Grandmother sat in her favourite chair and watched us with a smile.\n\nAt lunchtime, more than thirty people were sitting around the tables. My aunt played the guitar, and everyone sang. Grandmother told us stories __(29)__ her childhood — some of them we had heard before, but we laughed just the same.\n\nThe best moment came when we brought out the cake. It had eighty candles, and it took grandmother two minutes to blow them __(30)__! Everyone clapped and cheered.\n\nI will never forget her face at that moment. She looked so happy that I felt tears in my __(31)__. Family is the greatest present of __(32)__, and yesterday we all remembered it.",
+          "stem": "Write ONE word for gap __30__.",
+          "answer": "out",
+          "answerAlt": [
+            "out"
+          ],
+          "explanation": "Blow out candles — fixed phrase."
+        },
+        {
+          "id": "r_m4_p6_q5",
+          "part": 6,
+          "type": "cloze",
+          "context": "Yesterday was my grandmother's eightieth birthday, and our whole family gathered at her house. We arrived early in the morning to help her prepare __(27)__ the party.\n\nMy cousins and I decorated the garden with balloons, __(28)__ my uncle cooked his famous vegetable soup. Grandmother sat in her favourite chair and watched us with a smile.\n\nAt lunchtime, more than thirty people were sitting around the tables. My aunt played the guitar, and everyone sang. Grandmother told us stories __(29)__ her childhood — some of them we had heard before, but we laughed just the same.\n\nThe best moment came when we brought out the cake. It had eighty candles, and it took grandmother two minutes to blow them __(30)__! Everyone clapped and cheered.\n\nI will never forget her face at that moment. She looked so happy that I felt tears in my __(31)__. Family is the greatest present of __(32)__, and yesterday we all remembered it.",
+          "stem": "Write ONE word for gap __31__.",
+          "answer": "eyes",
+          "answerAlt": [
+            "eyes"
+          ],
+          "explanation": "Tears in my eyes."
+        },
+        {
+          "id": "r_m4_p6_q6",
+          "part": 6,
+          "type": "cloze",
+          "context": "Yesterday was my grandmother's eightieth birthday, and our whole family gathered at her house. We arrived early in the morning to help her prepare __(27)__ the party.\n\nMy cousins and I decorated the garden with balloons, __(28)__ my uncle cooked his famous vegetable soup. Grandmother sat in her favourite chair and watched us with a smile.\n\nAt lunchtime, more than thirty people were sitting around the tables. My aunt played the guitar, and everyone sang. Grandmother told us stories __(29)__ her childhood — some of them we had heard before, but we laughed just the same.\n\nThe best moment came when we brought out the cake. It had eighty candles, and it took grandmother two minutes to blow them __(30)__! Everyone clapped and cheered.\n\nI will never forget her face at that moment. She looked so happy that I felt tears in my __(31)__. Family is the greatest present of __(32)__, and yesterday we all remembered it.",
+          "stem": "Write ONE word for gap __32__.",
+          "answer": "all",
+          "answerAlt": [
+            "all"
+          ],
+          "explanation": "The greatest present of all."
+        }
+      ]
+    },
+    "writing": {
+      "tasks": [
+        {
+          "id": "w_m4_t1",
+          "part": 1,
+          "type": "email",
+          "title": "Mock 4 · Part 1: Reply to Josh's email",
+          "rubric": "Read the email from your English friend Josh. Write a reply answering all four points (about 100 words).",
+          "inputText": "Hi!\nSorry I haven't written for ages — I've been really busy with football training.\nListen, our team is coming to your town for a tournament next month, and we'll have a free Sunday! Do you know any good places to visit near the sports centre?\nAlso, I'd love to try some traditional food while I'm there. What should I eat?\nAnd one more question — how do I get from the sports centre to the town centre? Is it far?\nHope to see you soon!\nJosh",
+          "points": [
+            "Suggest places to visit near the sports centre",
+            "Recommend traditional food",
+            "Explain how to get to the town centre",
+            "Say if you can meet him"
+          ],
+          "words": 100,
+          "model": "Hi Josh,\n\nGreat to hear from you — and good luck in the tournament!\n\nNear the sports centre, you should visit the river park. It's beautiful and perfect for relaxing after a match. There's also a small museum about the town's history.\n\nFor food, you must try our traditional meat pies — the best ones are at Miller's Bakery, just off the main square.\n\nThe town centre is only a fifteen-minute walk from the sports centre: go straight down King Street, and you're there.\n\nI'd love to meet you on Sunday — phone me when you arrive!\n\nAlex",
+          "modelNotes": "Each point gets a clear answer; directions use imperatives; the closing arranges the meeting.",
+          "checklist": [
+            "All four content points are answered",
+            "Suggestions and a recommendation are given",
+            "Directions are clear",
+            "The email arranges a meeting",
+            "About 100 words"
+          ]
+        },
+        {
+          "id": "w_m4_t2",
+          "part": 2,
+          "type": "story",
+          "title": "Mock 4 · Part 2: The message in the bottle",
+          "rubric": "Your teacher has asked you to write a story with the title 'The message in the bottle'. Write your story (about 100 words).",
+          "points": [
+            "Set the scene",
+            "Introduce the bottle and message",
+            "Show what happened next",
+            "End with a feeling or surprise"
+          ],
+          "words": 100,
+          "model": "The Message in the Bottle\n\nLast summer, I was walking alone along the beach when I saw something green between the rocks. It was a bottle — and inside there was a piece of paper!\n\nMy hands were shaking as I opened it. The message said: 'If you find this bottle, meet me at the lighthouse at sunset. — E.'\n\nWho was E? I thought about it all afternoon. In the end, curiosity won, and I went to the lighthouse.\n\nAn old man was waiting there, smiling. 'You found my bottle!' he said. 'I threw it into the sea forty years ago.' We talked until the stars appeared, and I learned the most amazing story of my life.",
+          "modelNotes": "Clear scene, mystery built with questions, resolved meeting, memorable ending.",
+          "checklist": [
+            "The title is included",
+            "The scene is set with past tenses",
+            "There is a clear mystery and resolution",
+            "Sequence words are used",
+            "About 100 words"
+          ]
+        }
+      ]
+    },
+    "listening": {
+      "questions": [
+        {
+          "id": "l_m4_p1_q1",
+          "part": 1,
+          "type": "mcq",
+          "stem": "What is the girl going to do after school?",
+          "options": [
+            "go to the skate park",
+            "have a piano lesson",
+            "do homework"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Do you want to come to the skate park after school?"
+            },
+            {
+              "speaker": "W",
+              "text": "I can't today — I have a piano lesson at five. Maybe tomorrow?"
+            }
+          ],
+          "explanation": "She has a piano lesson at five."
+        },
+        {
+          "id": "l_m4_p1_q2",
+          "part": 1,
+          "type": "mcq",
+          "stem": "Which train will the man take?",
+          "options": [
+            "the 9.15",
+            "the 9.30",
+            "the 10.00"
+          ],
+          "answer": 0,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "I need to be in Weston by ten o'clock."
+            },
+            {
+              "speaker": "W",
+              "text": "The nine fifteen arrives at ten exactly, but there's a nine thirty if you want to be early."
+            },
+            {
+              "speaker": "M",
+              "text": "I'll take the nine fifteen — I don't mind arriving just on time."
+            }
+          ],
+          "explanation": "He chooses the nine fifteen."
+        },
+        {
+          "id": "l_m4_p1_q3",
+          "part": 1,
+          "type": "mcq",
+          "stem": "What did the girl's brother buy?",
+          "options": [
+            "a watch",
+            "a wallet",
+            "a shirt"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Did your brother get the present for Dad?"
+            },
+            {
+              "speaker": "W",
+              "text": "Yes! He wanted to get a watch, but it was too expensive, so he bought a wallet instead. Dad loves wallets."
+            }
+          ],
+          "explanation": "The watch was too expensive, so he bought a wallet."
+        },
+        {
+          "id": "l_m4_p1_q4",
+          "part": 1,
+          "type": "mcq",
+          "stem": "Where does the woman want to sit?",
+          "options": [
+            "near the window",
+            "in the corner",
+            "near the door"
+          ],
+          "answer": 0,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "Could we sit near the window? I love watching the street."
+            },
+            {
+              "speaker": "M",
+              "text": "I'm sorry, that table is reserved. But the corner table is free, and it's quieter there."
+            }
+          ],
+          "explanation": "She asks for the window table."
+        },
+        {
+          "id": "l_m4_p1_q5",
+          "part": 1,
+          "type": "mcq",
+          "stem": "What will the boy wear tomorrow?",
+          "options": [
+            "his uniform",
+            "his trainers",
+            "a jacket"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "Don't forget it's sports day tomorrow — no uniform!"
+            },
+            {
+              "speaker": "M",
+              "text": "Great! I'll wear my new trainers. The weather says sun, so I don't need a jacket."
+            }
+          ],
+          "explanation": "He'll wear his new trainers."
+        },
+        {
+          "id": "l_m4_p1_q6",
+          "part": 1,
+          "type": "mcq",
+          "stem": "What is the man looking for?",
+          "options": [
+            "his glasses",
+            "a book",
+            "his keys"
+          ],
+          "answer": 0,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Have you seen my glasses anywhere? I left them on the kitchen table."
+            },
+            {
+              "speaker": "W",
+              "text": "Check the living room — you were reading there last night."
+            }
+          ],
+          "explanation": "He's looking for his glasses."
+        },
+        {
+          "id": "l_m4_p1_q7",
+          "part": 1,
+          "type": "mcq",
+          "stem": "How long is the film?",
+          "options": [
+            "one hour",
+            "two hours",
+            "three hours"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "The film starts at seven and it's two hours long."
+            },
+            {
+              "speaker": "M",
+              "text": "Perfect — I have to be home by ten, so there's even time for ice cream afterwards."
+            }
+          ],
+          "explanation": "She says the film is two hours long."
+        },
+        {
+          "id": "l_m4_p2_q1",
+          "part": 2,
+          "type": "mcq",
+          "stem": "The speaker says the science fair …",
+          "options": [
+            "costs ten pounds",
+            "is at the City Hall",
+            "has no school projects"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "The regional science fair takes place on the tenth of May at the City Hall. Over sixty school projects will be shown, and visitors can vote for their favourite. Entry is free for families."
+            }
+          ],
+          "explanation": "It takes place at the City Hall; entry is free."
+        },
+        {
+          "id": "l_m4_p2_q2",
+          "part": 2,
+          "type": "mcq",
+          "stem": "The man is calling to …",
+          "options": [
+            "rent a room",
+            "offer a room",
+            "cancel a visit"
+          ],
+          "answer": 0,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Hello, I'm calling about the room you're renting. Is it still available? I'm a student, and I'd like to come and see it this weekend if possible."
+            }
+          ],
+          "explanation": "He's calling about the room for rent."
+        },
+        {
+          "id": "l_m4_p2_q3",
+          "part": 2,
+          "type": "mcq",
+          "stem": "According to the announcement, the flight …",
+          "options": [
+            "is cancelled",
+            "leaves forty-five minutes late",
+            "leaves earlier"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Attention please. Flight 209 to Lisbon is delayed by forty-five minutes because of bad weather. We apologise for the inconvenience."
+            }
+          ],
+          "explanation": "It is delayed by 45 minutes."
+        },
+        {
+          "id": "l_m4_p2_q4",
+          "part": 2,
+          "type": "mcq",
+          "stem": "The girl says about the new restaurant …",
+          "options": [
+            "the food was bad",
+            "it was too expensive",
+            "the music was too loud"
+          ],
+          "answer": 2,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "I tried the new burger place yesterday. The food was delicious and the prices were low. The only thing — the music was so loud we couldn't talk!"
+            }
+          ],
+          "explanation": "Her complaint was the loud music."
+        },
+        {
+          "id": "l_m4_p2_q5",
+          "part": 2,
+          "type": "mcq",
+          "stem": "This weekend will be …",
+          "options": [
+            "warm and sunny",
+            "cold on Saturday",
+            "rainy on Sunday"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Weekend weather: cold winds on Saturday with temperatures around eight degrees. Sunday brings no rain, but clouds stay all day. Warmer weather arrives on Monday."
+            }
+          ],
+          "explanation": "Saturday is cold with winds around eight degrees."
+        },
+        {
+          "id": "l_m4_p2_q6",
+          "part": 2,
+          "type": "mcq",
+          "stem": "The woman is calling because …",
+          "options": [
+            "she wants to stop lessons",
+            "she wants to move her lesson",
+            "she wants a cheaper lesson"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "Hello, I'd like to change my piano lesson from Thursdays to Mondays, if Mr Reed has a free place. Thursday evenings are difficult for our family now."
+            }
+          ],
+          "explanation": "She wants to change the day of her lesson."
+        },
+        {
+          "id": "l_m4_p3_q1",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Janet talking about a community garden. Complete the notes.",
+          "stem": "The garden is open every day from 8 a.m. until ____ p.m.",
+          "answer": "eight",
+          "answerAlt": [
+            "eight",
+            "8"
+          ],
+          "refScript": "l_m4_p3_main",
+          "explanation": "Open from eight in the morning until eight in the evening."
+        },
+        {
+          "id": "l_m4_p3_q2",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Janet talking about a community garden. Complete the notes.",
+          "stem": "They grow more than ____ kinds of vegetables and fruit.",
+          "answer": "thirty",
+          "answerAlt": [
+            "thirty",
+            "30"
+          ],
+          "refScript": "l_m4_p3_main",
+          "explanation": "More than thirty kinds."
+        },
+        {
+          "id": "l_m4_p3_q3",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Janet talking about a community garden. Complete the notes.",
+          "stem": "Membership costs ____ pounds a year.",
+          "answer": "twenty",
+          "answerAlt": [
+            "twenty",
+            "20"
+          ],
+          "refScript": "l_m4_p3_main",
+          "explanation": "Membership is twenty pounds a year."
+        },
+        {
+          "id": "l_m4_p3_q4",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Janet talking about a community garden. Complete the notes.",
+          "stem": "There is space for ____ more members.",
+          "answer": "ten",
+          "answerAlt": [
+            "ten",
+            "10"
+          ],
+          "refScript": "l_m4_p3_main",
+          "explanation": "Space for ten more members."
+        },
+        {
+          "id": "l_m4_p3_q5",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Janet talking about a community garden. Complete the notes.",
+          "stem": "Next month's workshop is about ____.",
+          "answer": "beekeeping",
+          "answerAlt": [
+            "beekeeping"
+          ],
+          "refScript": "l_m4_p3_main",
+          "explanation": "This month composting, next month beekeeping."
+        },
+        {
+          "id": "l_m4_p3_q6",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Janet talking about a community garden. Complete the notes.",
+          "stem": "More than ____ neighbours come to the harvest festival.",
+          "answer": "three hundred",
+          "answerAlt": [
+            "three hundred",
+            "300"
+          ],
+          "refScript": "l_m4_p3_main",
+          "explanation": "More than three hundred neighbours come."
+        },
+        {
+          "id": "l_m4_p4_q1",
+          "part": 4,
+          "type": "mcq",
+          "stem": "How far does Kai cycle to school?",
+          "options": [
+            "Twelve kilometres.",
+            "Twenty kilometres.",
+            "Fifty kilometres."
+          ],
+          "answer": 1,
+          "refScript": "l_m4_p4_main",
+          "explanation": "He cycles twenty kilometres each way."
+        },
+        {
+          "id": "l_m4_p4_q2",
+          "part": 4,
+          "type": "mcq",
+          "stem": "Who suggested cycling to school?",
+          "options": [
+            "His teacher.",
+            "His father.",
+            "His friend."
+          ],
+          "answer": 1,
+          "refScript": "l_m4_p4_main",
+          "explanation": "His father suggested the bike."
+        },
+        {
+          "id": "l_m4_p4_q3",
+          "part": 4,
+          "type": "mcq",
+          "stem": "How did Kai learn most of his English?",
+          "options": [
+            "At school.",
+            "From podcasts while cycling.",
+            "From his father."
+          ],
+          "answer": 1,
+          "refScript": "l_m4_p4_main",
+          "explanation": "He listens to English podcasts on the road."
+        },
+        {
+          "id": "l_m4_p4_q4",
+          "part": 4,
+          "type": "mcq",
+          "stem": "What does Kai take photos of?",
+          "options": [
+            "The rice fields.",
+            "The city streets.",
+            "His school."
+          ],
+          "answer": 0,
+          "refScript": "l_m4_p4_main",
+          "explanation": "He stops to take photos of the rice fields."
+        },
+        {
+          "id": "l_m4_p4_q5",
+          "part": 4,
+          "type": "mcq",
+          "stem": "What happened in the junior cycling race?",
+          "options": [
+            "He won first place.",
+            "He finished fifth.",
+            "He didn't finish."
+          ],
+          "answer": 1,
+          "refScript": "l_m4_p4_main",
+          "explanation": "He finished fifth."
+        },
+        {
+          "id": "l_m4_p4_q6",
+          "part": 4,
+          "type": "mcq",
+          "stem": "What stops Kai from cycling?",
+          "options": [
+            "Rain.",
+            "Snow.",
+            "Wind."
+          ],
+          "answer": 1,
+          "refScript": "l_m4_p4_main",
+          "explanation": "Only snow stops him — about five days a year."
+        }
+      ],
+      "scripts": {
+        "l_m4_p3_main": [
+          {
+            "speaker": "W",
+            "text": "Good morning, everyone. Welcome to the Open Day at Westfield Community Garden. I'm Janet, and I started this garden eight years ago."
+          },
+          {
+            "speaker": "W",
+            "text": "Westfield Garden is open every day from eight in the morning until eight in the evening. It covers about half of a hectare — small, but full of life. We grow more than thirty kinds of vegetables and fruit, from tomatoes to strawberries."
+          },
+          {
+            "speaker": "W",
+            "text": "Anyone can join us. The membership costs twenty pounds a year, and members get their own small piece of land. We currently have seventy members, and there is space for ten more."
+          },
+          {
+            "speaker": "W",
+            "text": "We also run free workshops every month. This month it's composting, next month beekeeping. Our most popular event is the harvest festival in September, when more than three hundred neighbours come to eat and celebrate together."
+          },
+          {
+            "speaker": "W",
+            "text": "To join, just visit us during opening hours or email us at hello@westfieldgarden.org. Come and get your hands dirty!"
+          }
+        ],
+        "l_m4_p4_main": [
+          {
+            "speaker": "M",
+            "text": "My guest today is sixteen-year-old Kai Nakamura, who cycles twenty kilometres to school every day — in Japan. Welcome, Kai."
+          },
+          {
+            "speaker": "M2",
+            "text": "Thank you! Yes, I live in the countryside, and my school is in the city. The journey takes about fifty minutes each way."
+          },
+          {
+            "speaker": "M",
+            "text": "Why do you cycle? Isn't there a bus?"
+          },
+          {
+            "speaker": "M2",
+            "text": "There is a bus, but it's crowded and slow. My father suggested the bike when I was twelve. At first I hated it, especially in winter. But after a few months, I started to enjoy it. Now I can't imagine my mornings without it."
+          },
+          {
+            "speaker": "M",
+            "text": "What do you do with all that time on the road?"
+          },
+          {
+            "speaker": "M2",
+            "text": "I listen to English podcasts — that's actually how I learned most of my English! I also think about my day, and sometimes I stop to take photos. The rice fields look amazing in autumn."
+          },
+          {
+            "speaker": "M",
+            "text": "Has cycling changed you in any way?"
+          },
+          {
+            "speaker": "M2",
+            "text": "Definitely. I'm stronger, of course, but more importantly, I'm calmer. And my marks improved — my teachers say I concentrate better in the morning. Last year I even joined a junior cycling race and finished fifth!"
+          },
+          {
+            "speaker": "M",
+            "text": "What about bad weather?"
+          },
+          {
+            "speaker": "M2",
+            "text": "Good rain gear solves ninety percent of the problem! Only snow stops me — maybe five days a year. Then I take the bus, and I miss my bike immediately."
+          }
+        ]
+      }
+    },
+    "speaking": {
+      "parts": [
+        {
+          "part": 1,
+          "name": "Interview",
+          "desc": "Answer personal questions in full sentences.",
+          "time": "about 2 minutes",
+          "useful": [
+            "I usually ... but sometimes ...",
+            "What I like best about it is ..."
+          ],
+          "prompts": [
+            {
+              "q": "Tell me about your home town or village.",
+              "prep": 30,
+              "followUps": "What do visitors like about it?"
+            },
+            {
+              "q": "What do you usually do in the evenings?",
+              "prep": 30,
+              "followUps": "Would you like to change anything?"
+            },
+            {
+              "q": "Tell me about sport or exercise in your life.",
+              "prep": 30,
+              "followUps": "Do you prefer watching or playing?"
+            }
+          ]
+        },
+        {
+          "part": 2,
+          "name": "Describe the photograph",
+          "desc": "Describe the photograph alone for about one minute.",
+          "time": "about 3 minutes",
+          "useful": [
+            "In the picture I can see ...",
+            "He/She might be ... because ..."
+          ],
+          "prompts": [
+            {
+              "q": "Describe a photograph of a young man playing the guitar in a park while people listen. What can you see? What is happening? How do the people feel?",
+              "prep": 60
+            }
+          ]
+        },
+        {
+          "part": 3,
+          "name": "Collaborative task",
+          "desc": "Discuss with your partner and decide together.",
+          "time": "about 4 minutes",
+          "useful": [
+            "Why don't we ...?",
+            "I see what you mean, however ...",
+            "Let's decide on ..."
+          ],
+          "prompts": [
+            {
+              "q": "A school wants to make one day a 'no phones' day. Talk together about the different activities students could do that day, and decide which would be the most enjoyable.",
+              "prep": 60,
+              "followUps": "Ideas: a sports tournament, board games in the hall, a cooking class, a treasure hunt, an art project."
+            }
+          ]
+        },
+        {
+          "part": 4,
+          "name": "Discussion",
+          "desc": "Give opinions with reasons.",
+          "time": "about 3 minutes",
+          "useful": [
+            "In my opinion, ...",
+            "I couldn't agree more / I see what you mean, but ..."
+          ],
+          "prompts": [
+            {
+              "q": "Do young people spend too much time on their phones? Why?",
+              "prep": 30
+            },
+            {
+              "q": "What are the advantages of a 'no phones' day?",
+              "prep": 30
+            },
+            {
+              "q": "Could you live without your phone for a week? Why / why not?",
+              "prep": 30
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

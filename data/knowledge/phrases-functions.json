@@ -1,0 +1,162 @@
+{
+  "id": "phrases-functions",
+  "type": "phrases",
+  "title": "Phrases: Everyday Functions",
+  "topic": "functions",
+  "objective": "Master the functional language PET expects: suggesting, inviting, apologising, requesting and keeping conversation going.",
+  "sections": [
+    {
+      "heading": "How to use these",
+      "body": "Speaking Part 3 is a **collaborative task**: you suggest, discuss and agree with a partner. Part 1 and Part 4 need social phrases (inviting, reacting, asking opinions). Practise these aloud until they feel automatic.",
+      "bodyZh": "口语第三部分是合作任务：你要提建议、讨论并达成一致。第一、四部分需要社交用语。把这些短语练到脱口而出。",
+      "tip": "In Part 3, interact! Say Why don't we...? then react to your partner: That's a good idea, but..."
+    }
+  ],
+  "items": [
+    {
+      "id": "p_fn_001",
+      "phrase": "Why don't we …? / How about …-ing?",
+      "meaning": "making suggestions",
+      "meaningZh": "提建议",
+      "example": "Why don't we take the earlier train?",
+      "exampleZh": "我们坐早一点的火车怎么样？"
+    },
+    {
+      "id": "p_fn_002",
+      "phrase": "Let's …, shall we?",
+      "meaning": "suggesting together action",
+      "meaningZh": "让我们一起……",
+      "example": "Let's meet at the station, shall we?",
+      "exampleZh": "我们在车站碰头，好吗？"
+    },
+    {
+      "id": "p_fn_003",
+      "phrase": "That sounds great / I'm not sure about that.",
+      "meaning": "reacting to suggestions",
+      "meaningZh": "回应建议",
+      "example": "Cinema tonight? That sounds great!",
+      "exampleZh": "今晚看电影？好啊！"
+    },
+    {
+      "id": "p_fn_004",
+      "phrase": "Would you like to …?",
+      "meaning": "inviting someone",
+      "meaningZh": "邀请",
+      "example": "Would you like to come to the barbecue on Saturday?",
+      "exampleZh": "周六想来参加烧烤吗？"
+    },
+    {
+      "id": "p_fn_005",
+      "phrase": "I'd love to, but …",
+      "meaning": "declining politely",
+      "meaningZh": "婉拒",
+      "example": "I'd love to, but I have to babysit my sister.",
+      "exampleZh": "我很想去，但我得照顾妹妹。"
+    },
+    {
+      "id": "p_fn_006",
+      "phrase": "I'm sorry, I'm afraid I can't.",
+      "meaning": "declining politely (formal)",
+      "meaningZh": "抱歉我不能。",
+      "example": "I'm sorry, I'm afraid I can't make it on Friday.",
+      "exampleZh": "抱歉，我周五来不了。"
+    },
+    {
+      "id": "p_fn_007",
+      "phrase": "I'm really sorry about …",
+      "meaning": "apologising",
+      "meaningZh": "道歉",
+      "example": "I'm really sorry about the mess.",
+      "exampleZh": "真抱歉弄得一团糟。"
+    },
+    {
+      "id": "p_fn_008",
+      "phrase": "It doesn't matter. / No problem.",
+      "meaning": "accepting an apology",
+      "meaningZh": "接受道歉",
+      "example": "You broke my pencil? It doesn't matter.",
+      "exampleZh": "你弄断了我的铅笔？没关系。"
+    },
+    {
+      "id": "p_fn_009",
+      "phrase": "Could you possibly …?",
+      "meaning": "polite request",
+      "meaningZh": "礼貌请求",
+      "example": "Could you possibly give me a lift to school?",
+      "exampleZh": "能顺便载我去学校吗？"
+    },
+    {
+      "id": "p_fn_010",
+      "phrase": "Do you mind …-ing?",
+      "meaning": "polite request / permission",
+      "meaningZh": "你介意……吗？",
+      "example": "Do you mind closing the window?",
+      "exampleZh": "你介意关一下窗户吗？"
+    },
+    {
+      "id": "p_fn_011",
+      "phrase": "What do you reckon?",
+      "meaning": "asking for an opinion (informal)",
+      "meaningZh": "你怎么看？",
+      "example": "Two films on tonight — what do you reckon?",
+      "exampleZh": "今晚有两部电影——你怎么看？"
+    },
+    {
+      "id": "p_fn_012",
+      "phrase": "By the way, …",
+      "meaning": "changing/adding a topic",
+      "meaningZh": "顺便说一下……",
+      "example": "By the way, did you finish the project?",
+      "exampleZh": "顺便问一下，你做完了那个项目吗？"
+    },
+    {
+      "id": "p_fn_013",
+      "phrase": "That reminds me …",
+      "meaning": "adding a connected idea",
+      "meaningZh": "这让我想起……",
+      "example": "That reminds me, I need to return your book.",
+      "exampleZh": "这让我想起，我得还你书。"
+    },
+    {
+      "id": "p_fn_014",
+      "phrase": "What I mean is …",
+      "meaning": "explaining yourself more clearly",
+      "meaningZh": "我的意思是……",
+      "example": "What I mean is we should start earlier.",
+      "exampleZh": "我的意思是我们应该早点开始。"
+    }
+  ],
+  "summary": {
+    "keyPoints": [
+      "Suggestions: Why don't we...? / How about...?",
+      "Reactions make the dialogue real: That sounds great!",
+      "Decline politely: I'd love to, but...",
+      "Ask opinions: What do you reckon?"
+    ],
+    "mustKnow": [
+      "Why don't we...?",
+      "I'd love to, but...",
+      "Do you mind...?",
+      "That sounds great"
+    ]
+  },
+  "linkedPractice": [
+    "speaking"
+  ],
+  "reviewItems": [
+    "p_fn_001",
+    "p_fn_002",
+    "p_fn_003",
+    "p_fn_004",
+    "p_fn_005",
+    "p_fn_006",
+    "p_fn_007",
+    "p_fn_008",
+    "p_fn_009",
+    "p_fn_010",
+    "p_fn_011",
+    "p_fn_012",
+    "p_fn_013",
+    "p_fn_014"
+  ]
+}

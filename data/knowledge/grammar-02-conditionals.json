@@ -1,0 +1,91 @@
+{
+  "id": "grammar-02",
+  "type": "grammar",
+  "title": "Conditionals",
+  "objective": "Use zero, first and second conditionals correctly, including unless and time clauses.",
+  "sections": [
+    {
+      "heading": "Zero & First Conditional",
+      "body": "**Zero conditional** (general truths): `if + present simple, present simple` — `If you heat ice, it melts.`\n**First conditional** (real future possibilities): `if + present simple, will + verb` — `If it rains tomorrow, we will stay at home.`",
+      "bodyZh": "零条件句表示普遍事实（if + 一般现在时，一般现在时）；第一条件句表示将来真实可能发生的事（if + 一般现在时，will + 动词）。",
+      "examples": [
+        {
+          "en": "If you study every day, your English will improve quickly.",
+          "zh": "如果你每天学习，你的英语会进步很快。"
+        },
+        {
+          "en": "What will you do if you miss the bus?",
+          "zh": "如果你错过公交车，你会怎么办？"
+        }
+      ],
+      "tip": "Never put `will` in the if-clause: `If it will rain` is wrong. The if-clause takes the present simple."
+    },
+    {
+      "heading": "Second Conditional",
+      "body": "**Second conditional** (imaginary or unlikely present/future): `if + past simple, would + verb` — `If I had more money, I would travel around the world.`\nWith `be`, use `were` for all persons in formal English: `If I were you, I would accept the job.`",
+      "bodyZh": "第二条件句表示想象中或不太可能的情况（if + 过去时，would + 动词）。正式用法中 be 动词一律用 were。",
+      "examples": [
+        {
+          "en": "If I lived near the sea, I would swim every morning.",
+          "zh": "如果我住在海边，我会每天早上游泳。"
+        },
+        {
+          "en": "She would be happier if she had more free time.",
+          "zh": "如果她有更多空闲时间，她会更开心。"
+        }
+      ],
+      "tip": "`If I were you, I'd...` is the standard way to give advice in Speaking Part 4."
+    },
+    {
+      "heading": "unless & time clauses",
+      "body": "`unless` means 'if ... not': `You won't pass unless you practise.` (= if you don't practise)\nAfter `when, as soon as, before, after, until` referring to the future, use the present simple: `I'll call you when I arrive.` (not 'when I will arrive')",
+      "bodyZh": "unless 意为「如果不」；在表示将来的 when、as soon as、before、after、until 从句中用一般现在时。",
+      "examples": [
+        {
+          "en": "We'll have a picnic unless it rains.",
+          "zh": "除非下雨，否则我们去野餐。"
+        },
+        {
+          "en": "As soon as the film finishes, I'll go home.",
+          "zh": "电影一结束我就回家。"
+        }
+      ],
+      "tip": "The same 'no will' rule applies to unless and all time clauses: the future idea is shown in the main clause."
+    }
+  ],
+  "commonErrors": [
+    {
+      "wrong": "If I will see him, I will tell him.",
+      "right": "If I see him, I will tell him.",
+      "why": "No 'will' in the if-clause."
+    },
+    {
+      "wrong": "If I would have time, I would help.",
+      "right": "If I had time, I would help.",
+      "why": "Second conditional uses past simple in the if-clause, not would."
+    },
+    {
+      "wrong": "You will be late until you hurry.",
+      "right": "You will be late unless you hurry.",
+      "why": "'until' is about time; 'unless' means 'if not'."
+    }
+  ],
+  "summary": {
+    "keyPoints": [
+      "Zero: if + present, present (facts).",
+      "First: if + present, will + verb (real future).",
+      "Second: if + past, would + verb (imaginary).",
+      "unless = if ... not; time clauses take present simple."
+    ],
+    "mustKnow": [
+      "if it rains, I will...",
+      "if I had..., I would...",
+      "if I were you",
+      "unless"
+    ]
+  },
+  "linkedPractice": [
+    "reading"
+  ],
+  "reviewItems": []
+}

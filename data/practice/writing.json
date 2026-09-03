@@ -1,0 +1,100 @@
+{
+  "skill": "writing",
+  "description": "Guided Writing tasks with model answers and rubric checklists.",
+  "tasks": [
+    {
+      "id": "w_prac_email_01",
+      "part": 1,
+      "type": "email",
+      "title": "Reply to Jo's email about a weekend trip",
+      "rubric": "Read the email from your English friend Jo. Write a reply answering all four points (about 100 words).",
+      "inputText": "Hi!\nHow are you? I'm planning a weekend trip to your town next month and I'm so excited!\nCan you tell me the best way to get from the train station to your house? And what's the weather usually like this time of year?\nI'd love to do something outdoors — do you have any ideas? Also, is there a good place where we could have dinner on Saturday evening?\nCan't wait to see you!\nJo",
+      "points": [
+        "Say how Jo can get from the station to your house",
+        "Describe the usual weather",
+        "Suggest an outdoor activity",
+        "Recommend a place for dinner on Saturday"
+      ],
+      "words": 100,
+      "model": "Hi Jo,\n\nGreat to hear from you! I'm really looking forward to your visit.\n\nThe easiest way to my house is bus number 12 — it stops right outside the station, and you get off at Green Park. It takes about ten minutes.\n\nThe weather in May is usually warm and sunny, but it can rain a little, so bring a light jacket.\n\nFor something outdoors, how about cycling around the lake? We can rent bikes cheaply near the park.\n\nOn Saturday evening, let's eat at Luigi's — the best pizza in town!\n\nSee you soon!\n\nMaria",
+      "modelNotes": "Notice how each of the four content points gets its own short paragraph, the opening is friendly and warm, and it closes with 'See you soon'. Range structure: 'how about cycling' (suggestion) and 'looking forward to + -ing'.",
+      "checklist": [
+        "All four content points are answered",
+        "The email opens and closes politely",
+        "There is at least one suggestion (why don't we / how about)",
+        "Linking words connect the ideas (and, but, so, because)",
+        "About 100 words"
+      ]
+    },
+    {
+      "id": "w_prac_email_02",
+      "part": 1,
+      "type": "email",
+      "title": "Reply to Ben's email about learning English",
+      "rubric": "Read the email from your English friend Ben. Write a reply answering all four points (about 100 words).",
+      "inputText": "Hi!\nThanks for your last email. I have some news — I'm coming to study in your country for three months this autumn!\nI want to improve my English before I arrive. How do you usually learn new words? Do you think watching films in English is a good idea?\nAlso, what should I bring with me for the first week? I don't want to carry too much.\nAnd could you introduce me to some of your friends before I come?\nWrite soon!\nBen",
+      "points": [
+        "Explain how you usually learn new words",
+        "Give your opinion about watching English films",
+        "Say what Ben should bring for the first week",
+        "Answer his question about meeting friends"
+      ],
+      "words": 100,
+      "model": "Hi Ben,\n\nThanks for your email — what fantastic news! Three months here will be amazing.\n\nI usually learn new words by writing them in a small notebook and using them in sentences. It really works!\n\nI think watching English films is a great idea, especially with English subtitles. You'll hear natural, everyday language.\n\nFor the first week, don't bring too much — just comfortable shoes, a warm jacket and something nice to wear when you meet people.\n\nOf course I'll introduce you to my friends! I'm looking forward to showing you around.\n\nBest wishes,\nLena",
+      "modelNotes": "Every content point is answered in order. 'I think ... is a great idea' gives an opinion, and 'looking forward to showing' adds range.",
+      "checklist": [
+        "All four content points are answered",
+        "An opinion is clearly given about films",
+        "Advice uses should / don't + verb",
+        "The tone is friendly, not formal",
+        "About 100 words"
+      ]
+    },
+    {
+      "id": "w_prac_article_01",
+      "part": 2,
+      "type": "article",
+      "title": "Article: My favourite place in my town",
+      "rubric": "An English website asks readers to write articles about their favourite places. Write your article (about 100 words), saying where the place is, what people can do there, and why you like it.",
+      "points": [
+        "Say where the place is",
+        "Describe what people can do there",
+        "Explain why you like it",
+        "Recommend it to the reader"
+      ],
+      "words": 100,
+      "model": "The Old Harbour\n\nHave you ever found a place that feels like another world? For me, that place is the Old Harbour in the south of my town.\n\nIn the morning, you can watch the fishing boats coming in, and at weekends there is a small market with local food. Many people walk along the sea wall or sit in the little cafés.\n\nI love it because it is peaceful and beautiful, especially at sunset. The colours are so wonderful that I have taken hundreds of photos there.\n\nIf you visit my town, you should certainly go to the Old Harbour. You won't forget it!",
+      "modelNotes": "The article opens with a question to the reader, organises ideas into clear paragraphs, and uses 'so ... that' — a range structure. It ends with a direct recommendation.",
+      "checklist": [
+        "The article has a title",
+        "It speaks to the reader (question / you)",
+        "Ideas are organised in paragraphs",
+        "There is at least one range structure (so...that, not only...but also)",
+        "About 100 words"
+      ]
+    },
+    {
+      "id": "w_prac_story_01",
+      "part": 2,
+      "type": "story",
+      "title": "Story: A surprise at the station",
+      "rubric": "Your teacher has asked you to write a story with the title 'A surprise at the station'. Write your story (about 100 words).",
+      "points": [
+        "Set the scene at a station",
+        "Introduce a problem or surprise",
+        "Show what you did",
+        "End with your feelings"
+      ],
+      "words": 100,
+      "model": "A Surprise at the Station\n\nIt was a rainy Friday afternoon, and I was waiting for the train to visit my grandmother. The platform was crowded, and everyone looked tired.\n\nSuddenly, I heard someone calling my name. I turned around — and I couldn't believe my eyes. It was my cousin Tom, who lives in Australia! I hadn't seen him for five years.\n\nHe laughed and explained that he had arrived that morning to surprise the family. We talked and talked until my train came.\n\nIn the end, I missed my train — but I didn't care. It was the best surprise of my life.",
+      "modelNotes": "The story sets the scene with past tenses (was waiting / was crowded), builds the moment with 'suddenly', and closes with a feeling. Sequence words: suddenly, in the end.",
+      "checklist": [
+        "The title is included",
+        "The scene is set with past tenses",
+        "There is a clear surprise/problem and a resolution",
+        "Sequence words are used (suddenly, then, in the end)",
+        "About 100 words"
+      ]
+    }
+  ]
+}

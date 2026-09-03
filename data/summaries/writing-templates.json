@@ -1,0 +1,40 @@
+{
+  "title": "Writing Templates & Exam Tips",
+  "description": "Ready-made structures for the email, the article and the story — with examiner tips.",
+  "blocks": [
+    {
+      "heading": "Part 1: Email — structure",
+      "body": "Hi Sam,\n\nThanks for your email! *(open politely)*\n\n[Point 1 — answer it directly.]\n[Point 2 — add a detail or reason.]\n[Point 3 — give information/opinion.]\n[Point 4 — make a suggestion or future plan.]\n\nLooking forward to hearing from you. *(close warmly)*\n\nBest wishes,\n[Your name]",
+      "tip": "Tick off the four content points one by one. Miss one and you lose Content marks, however beautiful the English."
+    },
+    {
+      "heading": "Part 2: Article — structure",
+      "body": "**Title** (catchy): A Day to Remember / Why You Should Try Camping\n\n**Paragraph 1 — hook + opinion:** Have you ever...? In my opinion...\n**Paragraph 2 — main idea + example:** Firstly... For example...\n**Paragraph 3 — another idea + personal detail:** What's more... Last summer I...\n**Paragraph 4 — conclusion:** All in all, I believe...",
+      "items": [
+        "Ask the reader a question — articles talk TO the reader.",
+        "Use linking words: firstly, however, what's more, all in all.",
+        "Give your opinion clearly twice (start and end)."
+      ]
+    },
+    {
+      "heading": "Part 2: Story — structure",
+      "body": "**Paragraph 1 — set the scene:** It was a cold Friday evening. I was walking home when...\n**Paragraph 2 — build the problem:** Suddenly... At first I didn't know what to do.\n**Paragraph 3 — action:** In the end, I decided to...\n**Paragraph 4 — ending + feeling:** It turned out that... I'll never forget that day.",
+      "items": [
+        "Open with a scene (past tenses: Past Continuous + Past Simple).",
+        "Use sequence words: at first, then, suddenly, in the end.",
+        "Finish with a feeling or lesson — examiners love it."
+      ],
+      "tip": "A story without a clear ending loses marks. Always resolve it in the last two sentences."
+    },
+    {
+      "heading": "Language checklist (all tasks)",
+      "items": [
+        "About 100 words — not 60, not 160.",
+        "At least one range structure: so...that, not only...but also, looking forward to -ing.",
+        "Variety of adjectives — not just good/bad/nice.",
+        "Connectors in every paragraph.",
+        "2 minutes at the end to check spelling and the content points."
+      ]
+    }
+  ]
+}

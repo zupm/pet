@@ -1,0 +1,139 @@
+{
+  "id": "vocab-hobbies",
+  "type": "vocab",
+  "title": "Vocabulary: Hobbies & Entertainment",
+  "topic": "hobbies",
+  "objective": "Free-time vocabulary for Speaking Part 1 and personal-interest articles.",
+  "sections": [],
+  "items": [
+    {
+      "id": "v_hob_001",
+      "word": "keen on",
+      "pos": "adjective phrase",
+      "phonetic": "/kiːn ɒn/",
+      "meaning": "very interested in",
+      "meaningZh": "热衷于",
+      "example": "I'm keen on photography.",
+      "exampleZh": "我热爱摄影。"
+    },
+    {
+      "id": "v_hob_002",
+      "word": "collection",
+      "pos": "noun",
+      "phonetic": "/kəˈlekʃn/",
+      "meaning": "things someone collects as a hobby",
+      "meaningZh": "收藏",
+      "example": "He has a huge collection of old coins.",
+      "exampleZh": "他收藏了很多旧硬币。"
+    },
+    {
+      "id": "v_hob_003",
+      "word": "instrument",
+      "pos": "noun",
+      "phonetic": "/ˈɪnstrəmənt/",
+      "meaning": "something you play music with (piano, guitar…)",
+      "meaningZh": "乐器",
+      "example": "She's learning to play a string instrument.",
+      "exampleZh": "她在学拉弦乐器。"
+    },
+    {
+      "id": "v_hob_004",
+      "word": "performance",
+      "pos": "noun",
+      "phonetic": "/pəˈfɔːməns/",
+      "meaning": "when someone sings, acts or plays for an audience",
+      "meaningZh": "演出",
+      "example": "The band gave an amazing performance.",
+      "exampleZh": "乐队的演出精彩极了。"
+    },
+    {
+      "id": "v_hob_005",
+      "word": "audience",
+      "pos": "noun",
+      "phonetic": "/ˈɔːdiəns/",
+      "meaning": "the people watching a show",
+      "meaningZh": "观众",
+      "example": "The audience clapped for ten minutes.",
+      "exampleZh": "观众鼓掌了十分钟。"
+    },
+    {
+      "id": "v_hob_006",
+      "word": "competition",
+      "pos": "noun",
+      "phonetic": "/ˌkɒmpəˈtɪʃn/",
+      "meaning": "an event where people try to win",
+      "meaningZh": "比赛",
+      "example": "She won first prize in the drawing competition.",
+      "exampleZh": "她在绘画比赛中得了一等奖。"
+    },
+    {
+      "id": "v_hob_007",
+      "word": "exhibition",
+      "pos": "noun",
+      "phonetic": "/ˌeksɪˈbɪʃn/",
+      "meaning": "a public show of art or objects",
+      "meaningZh": "展览",
+      "example": "There's a photography exhibition at the library.",
+      "exampleZh": "图书馆有个摄影展。"
+    },
+    {
+      "id": "v_hob_008",
+      "word": "amateur",
+      "pos": "noun / adjective",
+      "phonetic": "/ˈæmətər/",
+      "meaning": "someone who does an activity for pleasure, not money",
+      "meaningZh": "业余爱好者",
+      "example": "He's an amateur but he paints beautifully.",
+      "exampleZh": "他是业余的，但画得很美。"
+    },
+    {
+      "id": "v_hob_009",
+      "word": "leisure",
+      "pos": "noun",
+      "phonetic": "/ˈleʒər/",
+      "meaning": "free time when you can relax",
+      "meaningZh": "闲暇",
+      "example": "What do you do in your leisure time?",
+      "exampleZh": "你闲暇时做什么？"
+    },
+    {
+      "id": "v_hob_010",
+      "word": "hang out",
+      "pos": "verb",
+      "phonetic": "/hæŋ aʊt/",
+      "meaning": "to spend relaxed time with friends",
+      "meaningZh": "（和朋友）闲逛、聚会",
+      "example": "We usually hang out at the skate park.",
+      "exampleZh": "我们常在滑板公园玩。"
+    }
+  ],
+  "summary": {
+    "keyPoints": [
+      "Learn each word with its example sentence — context is what PET tests.",
+      "Say the word aloud, then use it in your own sentence about your life.",
+      "Review these words in the flashcard system until they reach mastered."
+    ],
+    "mustKnow": [
+      "keen on",
+      "collection",
+      "instrument",
+      "performance",
+      "audience"
+    ]
+  },
+  "linkedPractice": [
+    "review"
+  ],
+  "reviewItems": [
+    "v_hob_001",
+    "v_hob_002",
+    "v_hob_003",
+    "v_hob_004",
+    "v_hob_005",
+    "v_hob_006",
+    "v_hob_007",
+    "v_hob_008",
+    "v_hob_009",
+    "v_hob_010"
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "id": "patterns-library",
+  "type": "patterns",
+  "title": "Sentence Pattern Library",
+  "topic": "writing",
+  "objective": "Use high-scoring sentence structures in Writing and Speaking — each pattern instantly raises your language score.",
+  "sections": [
+    {
+      "heading": "How to use these",
+      "body": "Examiners reward **range of structure**. In any 100-word answer, try to include 2–3 of these patterns naturally. Learn each pattern with its example, then make your own sentence about your own life.",
+      "bodyZh": "考官奖励结构的多样性。任何一篇100词的作文里，自然地用上2-3个这样的句式。每个句式先记例句，再用它造一个关于自己生活的句子。",
+      "tip": "looking forward to + -ing is tested constantly in emails (Writing Part 1). Memorise it with the -ing!"
+    }
+  ],
+  "items": [
+    {
+      "id": "pat_001",
+      "pattern": "It takes (+ somebody) + time + to + verb",
+      "meaning": "say how long something needs",
+      "meaningZh": "某事需要（某人）多少时间",
+      "example": "It takes me twenty minutes to walk to school.",
+      "exampleZh": "我走路去学校要二十分钟。"
+    },
+    {
+      "id": "pat_002",
+      "pattern": "There is / There are …",
+      "meaning": "say something exists",
+      "meaningZh": "有……",
+      "example": "There are several reasons to learn English.",
+      "exampleZh": "学英语有几个理由。"
+    },
+    {
+      "id": "pat_003",
+      "pattern": "so + adjective/adverb + that …",
+      "meaning": "show a result of degree",
+      "meaningZh": "如此……以至于……",
+      "example": "The film was so funny that everyone laughed.",
+      "exampleZh": "电影太好笑了，大家都笑了。"
+    },
+    {
+      "id": "pat_004",
+      "pattern": "such (+ a) + adjective + noun + that …",
+      "meaning": "show a result (noun version)",
+      "meaningZh": "如此……（名词）以至于……",
+      "example": "It was such a hot day that we went swimming.",
+      "exampleZh": "那天太热了，我们去游泳了。"
+    },
+    {
+      "id": "pat_005",
+      "pattern": "too + adjective + to + verb",
+      "meaning": "more than is good/possible",
+      "meaningZh": "太……而不能……",
+      "example": "The box was too heavy to carry.",
+      "exampleZh": "箱子太重，搬不动。"
+    },
+    {
+      "id": "pat_006",
+      "pattern": "adjective + enough + to + verb",
+      "meaning": "sufficient for something",
+      "meaningZh": "足够……可以……",
+      "example": "She is tall enough to reach the shelf.",
+      "exampleZh": "她够高，能够到架子。"
+    },
+    {
+      "id": "pat_007",
+      "pattern": "not only … but also …",
+      "meaning": "add emphasis to two ideas",
+      "meaningZh": "不但……而且……",
+      "example": "He is not only clever but also hard-working.",
+      "exampleZh": "他不但聪明而且勤奋。"
+    },
+    {
+      "id": "pat_008",
+      "pattern": "The more …, the more …",
+      "meaning": "two things increase together",
+      "meaningZh": "越……越……",
+      "example": "The more you practise, the better you become.",
+      "exampleZh": "你练得越多，就越好。"
+    },
+    {
+      "id": "pat_009",
+      "pattern": "I'm looking forward to …-ing",
+      "meaning": "express happy expectation (note: to + -ing!)",
+      "meaningZh": "期待……",
+      "example": "I'm looking forward to hearing from you.",
+      "exampleZh": "期待你的来信。"
+    },
+    {
+      "id": "pat_010",
+      "pattern": "Would you mind …-ing?",
+      "meaning": "polite request",
+      "meaningZh": "你介意……吗？",
+      "example": "Would you mind helping me with this box?",
+      "exampleZh": "你介意帮我搬一下这个箱子吗？"
+    },
+    {
+      "id": "pat_011",
+      "pattern": "It's (high) time (that) + past simple",
+      "meaning": "say something should happen now",
+      "meaningZh": "是时候……了",
+      "example": "It's time we left for the station.",
+      "exampleZh": "我们该出发去车站了。"
+    },
+    {
+      "id": "pat_012",
+      "pattern": "What + noun phrase + subject + verb! (exclamation)",
+      "meaning": "strong feeling",
+      "meaningZh": "多么……啊！",
+      "example": "What a wonderful surprise!",
+      "exampleZh": "多么惊喜啊！"
+    }
+  ],
+  "summary": {
+    "keyPoints": [
+      "2–3 range structures per answer is the target.",
+      "so...that / such...that show results — very useful in stories.",
+      "too...to and adjective+enough+to compare situations.",
+      "looking forward to + -ing for emails."
+    ],
+    "mustKnow": [
+      "It takes...",
+      "so...that",
+      "too...to",
+      "looking forward to -ing"
+    ]
+  },
+  "linkedPractice": [
+    "writing"
+  ],
+  "reviewItems": [
+    "pat_001",
+    "pat_002",
+    "pat_003",
+    "pat_004",
+    "pat_005",
+    "pat_006",
+    "pat_007",
+    "pat_008",
+    "pat_009",
+    "pat_010",
+    "pat_011",
+    "pat_012"
+  ]
+}

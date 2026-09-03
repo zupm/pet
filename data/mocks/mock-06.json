@@ -1,0 +1,1148 @@
+{
+  "id": "mock-06",
+  "title": "Mock Exam 6",
+  "description": "Full B1 Preliminary practice paper 6. Timed sections, exam conditions.",
+  "timings": {
+    "reading": 2700,
+    "writing": 2700,
+    "listening": 1800,
+    "speaking": 720
+  },
+  "sections": {
+    "reading": {
+      "questions": [
+        {
+          "id": "r_m6_p1_q1",
+          "part": 1,
+          "type": "mcq",
+          "context": "HOTEL SUNRISE\nBreakfast: 7–10 a.m.\nPlease leave your room key at reception when you go out.",
+          "stem": "Guests of Hotel Sunrise …",
+          "options": [
+            "can have breakfast until 10 a.m.",
+            "must keep their keys all day.",
+            "have breakfast in their rooms."
+          ],
+          "answer": 0,
+          "explanation": "Breakfast is served 7–10 a.m."
+        },
+        {
+          "id": "r_m6_p1_q2",
+          "part": 1,
+          "type": "mcq",
+          "context": "YOUNG WRITERS' COMPETITION\nStories up to 500 words.\nClosing date: 15 November.\nPrize: your story in the city magazine!",
+          "stem": "To enter the competition, you must …",
+          "options": [
+            "write a story of 500 words or less.",
+            "buy the city magazine.",
+            "send your story after November."
+          ],
+          "answer": 0,
+          "explanation": "Stories must be up to 500 words and sent before 15 November."
+        },
+        {
+          "id": "r_m6_p1_q3",
+          "part": 1,
+          "type": "mcq",
+          "context": "DOG SHOW\nSaturday, Riverside Park, 2 p.m.\nDogs must arrive one hour before the show starts.",
+          "stem": "Dogs in the show …",
+          "options": [
+            "can arrive at any time.",
+            "should be there by 1 p.m.",
+            "start at 1 p.m."
+          ],
+          "answer": 1,
+          "explanation": "The show starts at 2 p.m.; dogs must arrive an hour before — by 1 p.m."
+        },
+        {
+          "id": "r_m6_p1_q4",
+          "part": 1,
+          "type": "mcq",
+          "context": "Hi Lisa,\nThe concert is on Friday at 8, but I can only get tickets for the 6 p.m. showing.\nDoes that work for you?\nBen",
+          "stem": "Ben is asking Lisa …",
+          "options": [
+            "to buy tickets herself.",
+            "if an earlier time is OK.",
+            "to choose the day."
+          ],
+          "answer": 1,
+          "explanation": "He can only get 6 p.m. tickets and asks if that works."
+        },
+        {
+          "id": "r_m6_p1_q5",
+          "part": 1,
+          "type": "mcq",
+          "context": "GYM MEMBERS\nPlease clean the equipment after use.\nTowels are free at the front desk.",
+          "stem": "Members should …",
+          "options": [
+            "bring their own towels.",
+            "clean the machines they use.",
+            "pay extra for towels."
+          ],
+          "answer": 1,
+          "explanation": "They must clean equipment after use."
+        },
+        {
+          "id": "r_m6_p2_q1",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of clubs (A–H).\nA. Time Travellers — history club visiting castles and museums, monthly.\nB. Sound Garden — learn to DJ, Fridays after school.\nC. Little Hands — help build birdhouses for the park, Saturday mornings.\nD. Mindful Teens — relaxation and breathing classes, Tuesday evenings.\nE. City Sketchers — draw buildings around town, Sunday afternoons.\nF. Green Wheels — cycle to beautiful places and learn bike care, Saturdays.\nG. Story Box — write and record podcasts, Wednesdays.\nH. Number Ninjas — fun maths puzzles and games, Thursdays.",
+          "stem": "Kira feels stressed with exams and wants to relax her mind.",
+          "options": [
+            "A. Time Travellers — history club visiting castles and museums, monthly.",
+            "B. Sound Garden — learn to DJ, Fridays after school.",
+            "C. Little Hands — help build birdhouses for the park, Saturday mornings.",
+            "D. Mindful Teens — relaxation and breathing classes, Tuesday evenings.",
+            "E. City Sketchers — draw buildings around town, Sunday afternoons.",
+            "F. Green Wheels — cycle to beautiful places and learn bike care, Saturdays.",
+            "G. Story Box — write and record podcasts, Wednesdays.",
+            "H. Number Ninjas — fun maths puzzles and games, Thursdays."
+          ],
+          "answer": 3,
+          "explanation": "Mindful Teens offers relaxation classes."
+        },
+        {
+          "id": "r_m6_p2_q2",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of clubs (A–H).\nA. Time Travellers — history club visiting castles and museums, monthly.\nB. Sound Garden — learn to DJ, Fridays after school.\nC. Little Hands — help build birdhouses for the park, Saturday mornings.\nD. Mindful Teens — relaxation and breathing classes, Tuesday evenings.\nE. City Sketchers — draw buildings around town, Sunday afternoons.\nF. Green Wheels — cycle to beautiful places and learn bike care, Saturdays.\nG. Story Box — write and record podcasts, Wednesdays.\nH. Number Ninjas — fun maths puzzles and games, Thursdays.",
+          "stem": "Ravi loves cycling and wants to explore nature.",
+          "options": [
+            "A. Time Travellers — history club visiting castles and museums, monthly.",
+            "B. Sound Garden — learn to DJ, Fridays after school.",
+            "C. Little Hands — help build birdhouses for the park, Saturday mornings.",
+            "D. Mindful Teens — relaxation and breathing classes, Tuesday evenings.",
+            "E. City Sketchers — draw buildings around town, Sunday afternoons.",
+            "F. Green Wheels — cycle to beautiful places and learn bike care, Saturdays.",
+            "G. Story Box — write and record podcasts, Wednesdays.",
+            "H. Number Ninjas — fun maths puzzles and games, Thursdays."
+          ],
+          "answer": 5,
+          "explanation": "Green Wheels cycles to beautiful places."
+        },
+        {
+          "id": "r_m6_p2_q3",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of clubs (A–H).\nA. Time Travellers — history club visiting castles and museums, monthly.\nB. Sound Garden — learn to DJ, Fridays after school.\nC. Little Hands — help build birdhouses for the park, Saturday mornings.\nD. Mindful Teens — relaxation and breathing classes, Tuesday evenings.\nE. City Sketchers — draw buildings around town, Sunday afternoons.\nF. Green Wheels — cycle to beautiful places and learn bike care, Saturdays.\nG. Story Box — write and record podcasts, Wednesdays.\nH. Number Ninjas — fun maths puzzles and games, Thursdays.",
+          "stem": "Nina enjoys drawing and wants to sketch outdoors.",
+          "options": [
+            "A. Time Travellers — history club visiting castles and museums, monthly.",
+            "B. Sound Garden — learn to DJ, Fridays after school.",
+            "C. Little Hands — help build birdhouses for the park, Saturday mornings.",
+            "D. Mindful Teens — relaxation and breathing classes, Tuesday evenings.",
+            "E. City Sketchers — draw buildings around town, Sunday afternoons.",
+            "F. Green Wheels — cycle to beautiful places and learn bike care, Saturdays.",
+            "G. Story Box — write and record podcasts, Wednesdays.",
+            "H. Number Ninjas — fun maths puzzles and games, Thursdays."
+          ],
+          "answer": 4,
+          "explanation": "City Sketchers draw buildings around town."
+        },
+        {
+          "id": "r_m6_p2_q4",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of clubs (A–H).\nA. Time Travellers — history club visiting castles and museums, monthly.\nB. Sound Garden — learn to DJ, Fridays after school.\nC. Little Hands — help build birdhouses for the park, Saturday mornings.\nD. Mindful Teens — relaxation and breathing classes, Tuesday evenings.\nE. City Sketchers — draw buildings around town, Sunday afternoons.\nF. Green Wheels — cycle to beautiful places and learn bike care, Saturdays.\nG. Story Box — write and record podcasts, Wednesdays.\nH. Number Ninjas — fun maths puzzles and games, Thursdays.",
+          "stem": "Oscar loves numbers and wants to play with them.",
+          "options": [
+            "A. Time Travellers — history club visiting castles and museums, monthly.",
+            "B. Sound Garden — learn to DJ, Fridays after school.",
+            "C. Little Hands — help build birdhouses for the park, Saturday mornings.",
+            "D. Mindful Teens — relaxation and breathing classes, Tuesday evenings.",
+            "E. City Sketchers — draw buildings around town, Sunday afternoons.",
+            "F. Green Wheels — cycle to beautiful places and learn bike care, Saturdays.",
+            "G. Story Box — write and record podcasts, Wednesdays.",
+            "H. Number Ninjas — fun maths puzzles and games, Thursdays."
+          ],
+          "answer": 7,
+          "explanation": "Number Ninjas is maths puzzles and games."
+        },
+        {
+          "id": "r_m6_p2_q5",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of clubs (A–H).\nA. Time Travellers — history club visiting castles and museums, monthly.\nB. Sound Garden — learn to DJ, Fridays after school.\nC. Little Hands — help build birdhouses for the park, Saturday mornings.\nD. Mindful Teens — relaxation and breathing classes, Tuesday evenings.\nE. City Sketchers — draw buildings around town, Sunday afternoons.\nF. Green Wheels — cycle to beautiful places and learn bike care, Saturdays.\nG. Story Box — write and record podcasts, Wednesdays.\nH. Number Ninjas — fun maths puzzles and games, Thursdays.",
+          "stem": "Freya wants to do something practical for animals and nature.",
+          "options": [
+            "A. Time Travellers — history club visiting castles and museums, monthly.",
+            "B. Sound Garden — learn to DJ, Fridays after school.",
+            "C. Little Hands — help build birdhouses for the park, Saturday mornings.",
+            "D. Mindful Teens — relaxation and breathing classes, Tuesday evenings.",
+            "E. City Sketchers — draw buildings around town, Sunday afternoons.",
+            "F. Green Wheels — cycle to beautiful places and learn bike care, Saturdays.",
+            "G. Story Box — write and record podcasts, Wednesdays.",
+            "H. Number Ninjas — fun maths puzzles and games, Thursdays."
+          ],
+          "answer": 2,
+          "explanation": "Little Hands builds birdhouses for the park."
+        },
+        {
+          "id": "r_m6_p3_q1",
+          "part": 3,
+          "type": "mcq",
+          "context": "When the small fishing village of Porto Azul lost its only school five years ago, everyone thought the village would slowly die. Young families moved away, and the old houses stood empty. Then two teachers, Clara and Miguel Santos, arrived with a strange idea: a school without classrooms.\n\nTheir school uses the whole village. Mathematics happens in the market, where children weigh fruit and count change. Biology takes place on the boats with the fishermen. History is taught by the oldest villagers, who tell stories of storms and celebrations. Art is painted on walls that were once grey.\n\nAt first, only six children joined. But the idea spread. Today, forty-two students come from villages all around the region, travelling by minibus every morning. The fishermen, who once worried about noisy children, now fight to take them out to sea. 'They are our future,' says one.\n\nThe village has changed too. Three empty houses became a bakery, a small hotel and a bookshop. 'A school is not a building,' Clara says. 'It is the heart of a place. When the heart beats, everything wakes up.'",
+          "stem": "What problem did Porto Azul have five years ago?",
+          "options": [
+            "It lost its school.",
+            "It had too many children.",
+            "The boats disappeared.",
+            "There were no teachers."
+          ],
+          "answer": 0,
+          "explanation": "The village lost its only school and families moved away."
+        },
+        {
+          "id": "r_m6_p3_q2",
+          "part": 3,
+          "type": "mcq",
+          "context": "When the small fishing village of Porto Azul lost its only school five years ago, everyone thought the village would slowly die. Young families moved away, and the old houses stood empty. Then two teachers, Clara and Miguel Santos, arrived with a strange idea: a school without classrooms.\n\nTheir school uses the whole village. Mathematics happens in the market, where children weigh fruit and count change. Biology takes place on the boats with the fishermen. History is taught by the oldest villagers, who tell stories of storms and celebrations. Art is painted on walls that were once grey.\n\nAt first, only six children joined. But the idea spread. Today, forty-two students come from villages all around the region, travelling by minibus every morning. The fishermen, who once worried about noisy children, now fight to take them out to sea. 'They are our future,' says one.\n\nThe village has changed too. Three empty houses became a bakery, a small hotel and a bookshop. 'A school is not a building,' Clara says. 'It is the heart of a place. When the heart beats, everything wakes up.'",
+          "stem": "What is special about Clara and Miguel's school?",
+          "options": [
+            "It has no lessons.",
+            "It uses the whole village as classrooms.",
+            "It only teaches fishing.",
+            "It is for adults."
+          ],
+          "answer": 1,
+          "explanation": "The school uses the whole village — market, boats, walls."
+        },
+        {
+          "id": "r_m6_p3_q3",
+          "part": 3,
+          "type": "mcq",
+          "context": "When the small fishing village of Porto Azul lost its only school five years ago, everyone thought the village would slowly die. Young families moved away, and the old houses stood empty. Then two teachers, Clara and Miguel Santos, arrived with a strange idea: a school without classrooms.\n\nTheir school uses the whole village. Mathematics happens in the market, where children weigh fruit and count change. Biology takes place on the boats with the fishermen. History is taught by the oldest villagers, who tell stories of storms and celebrations. Art is painted on walls that were once grey.\n\nAt first, only six children joined. But the idea spread. Today, forty-two students come from villages all around the region, travelling by minibus every morning. The fishermen, who once worried about noisy children, now fight to take them out to sea. 'They are our future,' says one.\n\nThe village has changed too. Three empty houses became a bakery, a small hotel and a bookshop. 'A school is not a building,' Clara says. 'It is the heart of a place. When the heart beats, everything wakes up.'",
+          "stem": "Where do the students come from now?",
+          "options": [
+            "Only Porto Azul.",
+            "From villages around the region.",
+            "From the city.",
+            "From other countries."
+          ],
+          "answer": 1,
+          "explanation": "Forty-two students come from villages all around the region."
+        },
+        {
+          "id": "r_m6_p3_q4",
+          "part": 3,
+          "type": "mcq",
+          "context": "When the small fishing village of Porto Azul lost its only school five years ago, everyone thought the village would slowly die. Young families moved away, and the old houses stood empty. Then two teachers, Clara and Miguel Santos, arrived with a strange idea: a school without classrooms.\n\nTheir school uses the whole village. Mathematics happens in the market, where children weigh fruit and count change. Biology takes place on the boats with the fishermen. History is taught by the oldest villagers, who tell stories of storms and celebrations. Art is painted on walls that were once grey.\n\nAt first, only six children joined. But the idea spread. Today, forty-two students come from villages all around the region, travelling by minibus every morning. The fishermen, who once worried about noisy children, now fight to take them out to sea. 'They are our future,' says one.\n\nThe village has changed too. Three empty houses became a bakery, a small hotel and a bookshop. 'A school is not a building,' Clara says. 'It is the heart of a place. When the heart beats, everything wakes up.'",
+          "stem": "How do the fishermen feel about the school now?",
+          "options": [
+            "They complain about the noise.",
+            "They want to help.",
+            "They don't care.",
+            "They moved away."
+          ],
+          "answer": 1,
+          "explanation": "They now fight to take the children out to sea."
+        },
+        {
+          "id": "r_m6_p3_q5",
+          "part": 3,
+          "type": "mcq",
+          "context": "When the small fishing village of Porto Azul lost its only school five years ago, everyone thought the village would slowly die. Young families moved away, and the old houses stood empty. Then two teachers, Clara and Miguel Santos, arrived with a strange idea: a school without classrooms.\n\nTheir school uses the whole village. Mathematics happens in the market, where children weigh fruit and count change. Biology takes place on the boats with the fishermen. History is taught by the oldest villagers, who tell stories of storms and celebrations. Art is painted on walls that were once grey.\n\nAt first, only six children joined. But the idea spread. Today, forty-two students come from villages all around the region, travelling by minibus every morning. The fishermen, who once worried about noisy children, now fight to take them out to sea. 'They are our future,' says one.\n\nThe village has changed too. Three empty houses became a bakery, a small hotel and a bookshop. 'A school is not a building,' Clara says. 'It is the heart of a place. When the heart beats, everything wakes up.'",
+          "stem": "What does Clara mean by 'the heart beats'?",
+          "options": [
+            "The village needs doctors.",
+            "A school brings life to a place.",
+            "Villages need hospitals.",
+            "Children should exercise."
+          ],
+          "answer": 1,
+          "explanation": "She means a school is the heart of a place — when it works, everything wakes up."
+        },
+        {
+          "id": "r_m6_p4_q1",
+          "part": 4,
+          "type": "mcq",
+          "context": "People often say that breakfast is the most important meal of the day, and science seems to __(16)__. Studies show that students who eat breakfast concentrate better and remember more.\n\nBut what should a good breakfast look __(17)__? Experts say it needs three things: grain, like bread or oats; fruit, for vitamins; and something with protein, such as eggs or yoghurt. Together, these give the brain energy for the whole __(18)__.__\n\nThe problem is time. Many teenagers skip breakfast __(19)__ they wake up late. The solution is simple: prepare something the night before, or choose quick options like a banana and a handful of nuts.\n\nSo tomorrow morning, don't leave the house with an empty stomach. Your brain will __(20)__ you for it.",
+          "stem": "Choose the correct word for gap __16__.",
+          "options": [
+            "agree",
+            "argue",
+            "refuse",
+            "forget"
+          ],
+          "answer": 0,
+          "explanation": "Science seems to agree with the saying."
+        },
+        {
+          "id": "r_m6_p4_q2",
+          "part": 4,
+          "type": "mcq",
+          "context": "People often say that breakfast is the most important meal of the day, and science seems to __(16)__. Studies show that students who eat breakfast concentrate better and remember more.\n\nBut what should a good breakfast look __(17)__? Experts say it needs three things: grain, like bread or oats; fruit, for vitamins; and something with protein, such as eggs or yoghurt. Together, these give the brain energy for the whole __(18)__.__\n\nThe problem is time. Many teenagers skip breakfast __(19)__ they wake up late. The solution is simple: prepare something the night before, or choose quick options like a banana and a handful of nuts.\n\nSo tomorrow morning, don't leave the house with an empty stomach. Your brain will __(20)__ you for it.",
+          "stem": "Choose the correct word for gap __17__.",
+          "options": [
+            "like",
+            "as",
+            "for",
+            "at"
+          ],
+          "answer": 0,
+          "explanation": "'What should it look like?' — fixed question."
+        },
+        {
+          "id": "r_m6_p4_q3",
+          "part": 4,
+          "type": "mcq",
+          "context": "People often say that breakfast is the most important meal of the day, and science seems to __(16)__. Studies show that students who eat breakfast concentrate better and remember more.\n\nBut what should a good breakfast look __(17)__? Experts say it needs three things: grain, like bread or oats; fruit, for vitamins; and something with protein, such as eggs or yoghurt. Together, these give the brain energy for the whole __(18)__.__\n\nThe problem is time. Many teenagers skip breakfast __(19)__ they wake up late. The solution is simple: prepare something the night before, or choose quick options like a banana and a handful of nuts.\n\nSo tomorrow morning, don't leave the house with an empty stomach. Your brain will __(20)__ you for it.",
+          "stem": "Choose the correct word for gap __18__.",
+          "options": [
+            "morning",
+            "night",
+            "week",
+            "year"
+          ],
+          "answer": 0,
+          "explanation": "Energy for the whole morning."
+        },
+        {
+          "id": "r_m6_p4_q4",
+          "part": 4,
+          "type": "mcq",
+          "context": "People often say that breakfast is the most important meal of the day, and science seems to __(16)__. Studies show that students who eat breakfast concentrate better and remember more.\n\nBut what should a good breakfast look __(17)__? Experts say it needs three things: grain, like bread or oats; fruit, for vitamins; and something with protein, such as eggs or yoghurt. Together, these give the brain energy for the whole __(18)__.__\n\nThe problem is time. Many teenagers skip breakfast __(19)__ they wake up late. The solution is simple: prepare something the night before, or choose quick options like a banana and a handful of nuts.\n\nSo tomorrow morning, don't leave the house with an empty stomach. Your brain will __(20)__ you for it.",
+          "stem": "Choose the correct word for gap __19__.",
+          "options": [
+            "because",
+            "although",
+            "unless",
+            "while"
+          ],
+          "answer": 0,
+          "explanation": "They skip it because they wake up late."
+        },
+        {
+          "id": "r_m6_p4_q5",
+          "part": 4,
+          "type": "mcq",
+          "context": "People often say that breakfast is the most important meal of the day, and science seems to __(16)__. Studies show that students who eat breakfast concentrate better and remember more.\n\nBut what should a good breakfast look __(17)__? Experts say it needs three things: grain, like bread or oats; fruit, for vitamins; and something with protein, such as eggs or yoghurt. Together, these give the brain energy for the whole __(18)__.__\n\nThe problem is time. Many teenagers skip breakfast __(19)__ they wake up late. The solution is simple: prepare something the night before, or choose quick options like a banana and a handful of nuts.\n\nSo tomorrow morning, don't leave the house with an empty stomach. Your brain will __(20)__ you for it.",
+          "stem": "Choose the correct word for gap __20__.",
+          "options": [
+            "thank",
+            "pay",
+            "ask",
+            "tell"
+          ],
+          "answer": 0,
+          "explanation": "Your brain will thank you — a common expression."
+        },
+        {
+          "id": "r_m6_p5_q1",
+          "part": 5,
+          "type": "mcq",
+          "context": "Everyone knows that sleep is important, but did you know that your brain works __(21)__ hard while you sleep? During the night, the brain sorts the information from the day, keeping what is important and throwing away the rest.\n\nThis is why scientists advise students to sleep well before exams. A tired brain can remember much __(22)__ than a rested one. One study showed that students who slept eight hours before a test got marks twenty percent __(23)__ than those who studied all night.\n\nTeenagers need around nine hours of sleep, but most get only seven. The main __(24)__? Screens. The light from phones tricks the brain into thinking it is daytime. Experts suggest turning screens off one hour __(25)__ bed. Your brain will thank you — and so __(26)__ your exam results!",
+          "stem": "Choose the correct word for gap __21__.",
+          "options": [
+            "very",
+            "much",
+            "more",
+            "most"
+          ],
+          "answer": 0,
+          "explanation": "'Works very hard' — adverb of degree."
+        },
+        {
+          "id": "r_m6_p5_q2",
+          "part": 5,
+          "type": "mcq",
+          "context": "Everyone knows that sleep is important, but did you know that your brain works __(21)__ hard while you sleep? During the night, the brain sorts the information from the day, keeping what is important and throwing away the rest.\n\nThis is why scientists advise students to sleep well before exams. A tired brain can remember much __(22)__ than a rested one. One study showed that students who slept eight hours before a test got marks twenty percent __(23)__ than those who studied all night.\n\nTeenagers need around nine hours of sleep, but most get only seven. The main __(24)__? Screens. The light from phones tricks the brain into thinking it is daytime. Experts suggest turning screens off one hour __(25)__ bed. Your brain will thank you — and so __(26)__ your exam results!",
+          "stem": "Choose the correct word for gap __22__.",
+          "options": [
+            "less",
+            "fewer",
+            "little",
+            "least"
+          ],
+          "answer": 0,
+          "explanation": "A tired brain remembers much less."
+        },
+        {
+          "id": "r_m6_p5_q3",
+          "part": 5,
+          "type": "mcq",
+          "context": "Everyone knows that sleep is important, but did you know that your brain works __(21)__ hard while you sleep? During the night, the brain sorts the information from the day, keeping what is important and throwing away the rest.\n\nThis is why scientists advise students to sleep well before exams. A tired brain can remember much __(22)__ than a rested one. One study showed that students who slept eight hours before a test got marks twenty percent __(23)__ than those who studied all night.\n\nTeenagers need around nine hours of sleep, but most get only seven. The main __(24)__? Screens. The light from phones tricks the brain into thinking it is daytime. Experts suggest turning screens off one hour __(25)__ bed. Your brain will thank you — and so __(26)__ your exam results!",
+          "stem": "Choose the correct word for gap __23__.",
+          "options": [
+            "higher",
+            "better",
+            "stronger",
+            "bigger"
+          ],
+          "answer": 0,
+          "explanation": "Marks were twenty percent higher."
+        },
+        {
+          "id": "r_m6_p5_q4",
+          "part": 5,
+          "type": "mcq",
+          "context": "Everyone knows that sleep is important, but did you know that your brain works __(21)__ hard while you sleep? During the night, the brain sorts the information from the day, keeping what is important and throwing away the rest.\n\nThis is why scientists advise students to sleep well before exams. A tired brain can remember much __(22)__ than a rested one. One study showed that students who slept eight hours before a test got marks twenty percent __(23)__ than those who studied all night.\n\nTeenagers need around nine hours of sleep, but most get only seven. The main __(24)__? Screens. The light from phones tricks the brain into thinking it is daytime. Experts suggest turning screens off one hour __(25)__ bed. Your brain will thank you — and so __(26)__ your exam results!",
+          "stem": "Choose the correct word for gap __24__.",
+          "options": [
+            "reason",
+            "result",
+            "problem",
+            "answer"
+          ],
+          "answer": 0,
+          "explanation": "The main reason is screens."
+        },
+        {
+          "id": "r_m6_p5_q5",
+          "part": 5,
+          "type": "mcq",
+          "context": "Everyone knows that sleep is important, but did you know that your brain works __(21)__ hard while you sleep? During the night, the brain sorts the information from the day, keeping what is important and throwing away the rest.\n\nThis is why scientists advise students to sleep well before exams. A tired brain can remember much __(22)__ than a rested one. One study showed that students who slept eight hours before a test got marks twenty percent __(23)__ than those who studied all night.\n\nTeenagers need around nine hours of sleep, but most get only seven. The main __(24)__? Screens. The light from phones tricks the brain into thinking it is daytime. Experts suggest turning screens off one hour __(25)__ bed. Your brain will thank you — and so __(26)__ your exam results!",
+          "stem": "Choose the correct word for gap __25__.",
+          "options": [
+            "before",
+            "after",
+            "until",
+            "since"
+          ],
+          "answer": 0,
+          "explanation": "Turn screens off one hour before bed."
+        },
+        {
+          "id": "r_m6_p5_q6",
+          "part": 5,
+          "type": "mcq",
+          "context": "Everyone knows that sleep is important, but did you know that your brain works __(21)__ hard while you sleep? During the night, the brain sorts the information from the day, keeping what is important and throwing away the rest.\n\nThis is why scientists advise students to sleep well before exams. A tired brain can remember much __(22)__ than a rested one. One study showed that students who slept eight hours before a test got marks twenty percent __(23)__ than those who studied all night.\n\nTeenagers need around nine hours of sleep, but most get only seven. The main __(24)__? Screens. The light from phones tricks the brain into thinking it is daytime. Experts suggest turning screens off one hour __(25)__ bed. Your brain will thank you — and so __(26)__ your exam results!",
+          "stem": "Choose the correct word for gap __26__.",
+          "options": [
+            "will",
+            "would",
+            "did",
+            "do"
+          ],
+          "answer": 0,
+          "explanation": "'And so will your exam results' — future, matching the first clause."
+        },
+        {
+          "id": "r_m6_p6_q1",
+          "part": 6,
+          "type": "cloze",
+          "context": "Last summer I got my first job — working in my aunt's ice cream shop by the sea. At first, I was very nervous __(27)__ I had never worked before. But my aunt taught me everything patiently.\n\nMy job was to serve customers and keep the shop clean. On hot days, the queue went right __(28)__ of the door, and I worked as fast as I could. Sometimes I gave the children an extra taste of a new flavour. They always smiled, __(29)__ made me happy too.\n\nThe best part was the last hour of the day, when my aunt let me choose any ice cream I wanted. I tried __(30)__ single flavour that summer — my favourite was lemon and mint.\n\nI didn't earn much money, but I learned something more important: how to work hard and stay friendly, even on the busiest days. I'll never forget __(31)__ summer, and I've already asked my aunt if I can work there again next year. She says yes — but only __(32)__ I pass my exams first!",
+          "stem": "Write ONE word for gap __27__.",
+          "answer": "because",
+          "answerAlt": [
+            "because"
+          ],
+          "explanation": "Reason: nervous because she had never worked."
+        },
+        {
+          "id": "r_m6_p6_q2",
+          "part": 6,
+          "type": "cloze",
+          "context": "Last summer I got my first job — working in my aunt's ice cream shop by the sea. At first, I was very nervous __(27)__ I had never worked before. But my aunt taught me everything patiently.\n\nMy job was to serve customers and keep the shop clean. On hot days, the queue went right __(28)__ of the door, and I worked as fast as I could. Sometimes I gave the children an extra taste of a new flavour. They always smiled, __(29)__ made me happy too.\n\nThe best part was the last hour of the day, when my aunt let me choose any ice cream I wanted. I tried __(30)__ single flavour that summer — my favourite was lemon and mint.\n\nI didn't earn much money, but I learned something more important: how to work hard and stay friendly, even on the busiest days. I'll never forget __(31)__ summer, and I've already asked my aunt if I can work there again next year. She says yes — but only __(32)__ I pass my exams first!",
+          "stem": "Write ONE word for gap __28__.",
+          "answer": "out",
+          "answerAlt": [
+            "out"
+          ],
+          "explanation": "'Went right out of the door' — extended beyond the door."
+        },
+        {
+          "id": "r_m6_p6_q3",
+          "part": 6,
+          "type": "cloze",
+          "context": "Last summer I got my first job — working in my aunt's ice cream shop by the sea. At first, I was very nervous __(27)__ I had never worked before. But my aunt taught me everything patiently.\n\nMy job was to serve customers and keep the shop clean. On hot days, the queue went right __(28)__ of the door, and I worked as fast as I could. Sometimes I gave the children an extra taste of a new flavour. They always smiled, __(29)__ made me happy too.\n\nThe best part was the last hour of the day, when my aunt let me choose any ice cream I wanted. I tried __(30)__ single flavour that summer — my favourite was lemon and mint.\n\nI didn't earn much money, but I learned something more important: how to work hard and stay friendly, even on the busiest days. I'll never forget __(31)__ summer, and I've already asked my aunt if I can work there again next year. She says yes — but only __(32)__ I pass my exams first!",
+          "stem": "Write ONE word for gap __29__.",
+          "answer": "which",
+          "answerAlt": [
+            "which"
+          ],
+          "explanation": "Relative pronoun referring to the whole previous idea."
+        },
+        {
+          "id": "r_m6_p6_q4",
+          "part": 6,
+          "type": "cloze",
+          "context": "Last summer I got my first job — working in my aunt's ice cream shop by the sea. At first, I was very nervous __(27)__ I had never worked before. But my aunt taught me everything patiently.\n\nMy job was to serve customers and keep the shop clean. On hot days, the queue went right __(28)__ of the door, and I worked as fast as I could. Sometimes I gave the children an extra taste of a new flavour. They always smiled, __(29)__ made me happy too.\n\nThe best part was the last hour of the day, when my aunt let me choose any ice cream I wanted. I tried __(30)__ single flavour that summer — my favourite was lemon and mint.\n\nI didn't earn much money, but I learned something more important: how to work hard and stay friendly, even on the busiest days. I'll never forget __(31)__ summer, and I've already asked my aunt if I can work there again next year. She says yes — but only __(32)__ I pass my exams first!",
+          "stem": "Write ONE word for gap __30__.",
+          "answer": "every",
+          "answerAlt": [
+            "every",
+            "all"
+          ],
+          "explanation": "I tried every single flavour."
+        },
+        {
+          "id": "r_m6_p6_q5",
+          "part": 6,
+          "type": "cloze",
+          "context": "Last summer I got my first job — working in my aunt's ice cream shop by the sea. At first, I was very nervous __(27)__ I had never worked before. But my aunt taught me everything patiently.\n\nMy job was to serve customers and keep the shop clean. On hot days, the queue went right __(28)__ of the door, and I worked as fast as I could. Sometimes I gave the children an extra taste of a new flavour. They always smiled, __(29)__ made me happy too.\n\nThe best part was the last hour of the day, when my aunt let me choose any ice cream I wanted. I tried __(30)__ single flavour that summer — my favourite was lemon and mint.\n\nI didn't earn much money, but I learned something more important: how to work hard and stay friendly, even on the busiest days. I'll never forget __(31)__ summer, and I've already asked my aunt if I can work there again next year. She says yes — but only __(32)__ I pass my exams first!",
+          "stem": "Write ONE word for gap __31__.",
+          "answer": "that",
+          "answerAlt": [
+            "that"
+          ],
+          "explanation": "'That summer' — specific past time."
+        },
+        {
+          "id": "r_m6_p6_q6",
+          "part": 6,
+          "type": "cloze",
+          "context": "Last summer I got my first job — working in my aunt's ice cream shop by the sea. At first, I was very nervous __(27)__ I had never worked before. But my aunt taught me everything patiently.\n\nMy job was to serve customers and keep the shop clean. On hot days, the queue went right __(28)__ of the door, and I worked as fast as I could. Sometimes I gave the children an extra taste of a new flavour. They always smiled, __(29)__ made me happy too.\n\nThe best part was the last hour of the day, when my aunt let me choose any ice cream I wanted. I tried __(30)__ single flavour that summer — my favourite was lemon and mint.\n\nI didn't earn much money, but I learned something more important: how to work hard and stay friendly, even on the busiest days. I'll never forget __(31)__ summer, and I've already asked my aunt if I can work there again next year. She says yes — but only __(32)__ I pass my exams first!",
+          "stem": "Write ONE word for gap __32__.",
+          "answer": "if",
+          "answerAlt": [
+            "if"
+          ],
+          "explanation": "Condition: only if I pass my exams."
+        }
+      ]
+    },
+    "writing": {
+      "tasks": [
+        {
+          "id": "w_m6_t1",
+          "part": 1,
+          "type": "email",
+          "title": "Mock 6 · Part 1: Reply to Sam's email",
+          "rubric": "Read the email from your English friend Sam. Write a reply answering all four points (about 100 words).",
+          "inputText": "Hi!\nThanks for your last email — your photos from the trip looked amazing!\nI've got news: I'm going to learn to cook this summer. Can you give me some advice for a beginner? What's the easiest dish to start with?\nAlso, my family wants to eat more healthily. Do you know any easy healthy recipes?\nAnd finally — would you like to cook something together when we meet in August? We could try a new recipe!\nSpeak soon!\nSam",
+          "points": [
+            "Give advice for a beginner cook",
+            "Suggest an easy first dish",
+            "Give a healthy recipe idea",
+            "Answer about cooking together in August"
+          ],
+          "words": 100,
+          "model": "Hi Sam,\n\nGreat idea — cooking is a skill for life!\n\nMy advice for beginners: start with simple recipes and always read them completely before you begin. Don't worry about mistakes — everyone makes them!\n\nThe easiest first dish is pasta with tomato sauce. You need only five ingredients, and it's almost impossible to make badly.\n\nFor something healthy, try a big salad with chicken, nuts and fruit. It's quick, colourful, and your family will love it.\n\nAnd yes — I'd love to cook together in August! Let's try a pizza recipe from zero. I'll bring the flour!\n\nSpeak soon,\nDiego",
+          "modelNotes": "Advice, a dish, a healthy idea and an enthusiastic answer — all four points in order.",
+          "checklist": [
+            "All four content points are answered",
+            "Advice is clear and practical",
+            "Two recipes are suggested",
+            "The closing is warm and concrete",
+            "About 100 words"
+          ]
+        },
+        {
+          "id": "w_m6_t2",
+          "part": 2,
+          "type": "article",
+          "title": "Mock 6 · Part 2: The best present I ever received",
+          "rubric": "A magazine asks readers to write articles about presents. Write your article about the best present you ever received (about 100 words), saying what it was, who gave it to you, and why it was special.",
+          "points": [
+            "Say what the present was",
+            "Say who gave it to you",
+            "Describe when/how you received it",
+            "Explain why it was special"
+          ],
+          "words": 100,
+          "model": "The Best Present I Ever Received\n\nWhat is the best present you have ever received? An expensive phone? A new bike? Mine cost almost nothing — and it's the most valuable thing I own.\n\nWhen I was ten, my grandfather gave me his old camera. It was heavy, silver, and older than my parents! 'This camera saw the world,' he said. 'Now show me yours.'\n\nThat summer, I photographed everything: my dog, the market, rain on the window. My grandfather taught me to look slowly and carefully.\n\nHe died two years later, but the camera is still with me. Every photo I take connects us. All in all, he didn't give me a camera — he gave me a way of seeing.",
+          "modelNotes": "Emotional personal story, direct speech, clear structure, memorable closing line.",
+          "checklist": [
+            "The article has a title",
+            "It speaks to the reader",
+            "The story is clear and personal",
+            "The reason it was special is explained",
+            "About 100 words"
+          ]
+        }
+      ]
+    },
+    "listening": {
+      "questions": [
+        {
+          "id": "l_m6_p1_q1",
+          "part": 1,
+          "type": "mcq",
+          "stem": "What will the girl have for breakfast?",
+          "options": [
+            "toast only",
+            "toast, juice and an egg",
+            "juice only"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "I'm in a hurry! Just toast and juice for me."
+            },
+            {
+              "speaker": "M",
+              "text": "You'll be hungry by ten. Have an egg too — it's already cooked."
+            }
+          ],
+          "explanation": "She takes toast and juice, plus the egg."
+        },
+        {
+          "id": "l_m6_p1_q2",
+          "part": 1,
+          "type": "mcq",
+          "stem": "Where does the man want to go?",
+          "options": [
+            "to the zoo",
+            "to the museum",
+            "to the park"
+          ],
+          "answer": 0,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Excuse me, is this the bus to the zoo?"
+            },
+            {
+              "speaker": "W",
+              "text": "No, this one goes to the museum. You need number 14 — it stops just over there."
+            }
+          ],
+          "explanation": "He asks if the bus goes to the zoo."
+        },
+        {
+          "id": "l_m6_p1_q3",
+          "part": 1,
+          "type": "mcq",
+          "stem": "What did the girl win?",
+          "options": [
+            "a calendar",
+            "first prize in a drawing competition",
+            "a painting lesson"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Did you hear? Mia won the drawing competition!"
+            },
+            {
+              "speaker": "W",
+              "text": "I know! First prize — her picture will be on the school calendar. She's so talented."
+            }
+          ],
+          "explanation": "She won first prize in the drawing competition."
+        },
+        {
+          "id": "l_m6_p1_q4",
+          "part": 1,
+          "type": "mcq",
+          "stem": "What time does the shop close?",
+          "options": [
+            "6 p.m.",
+            "8 p.m.",
+            "9 p.m."
+          ],
+          "answer": 0,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "I need to buy a present for Dad. Is the shop open till nine?"
+            },
+            {
+              "speaker": "M",
+              "text": "Not today — Saturday hours. It closes at six."
+            }
+          ],
+          "explanation": "Saturday hours — it closes at six."
+        },
+        {
+          "id": "l_m6_p1_q5",
+          "part": 1,
+          "type": "mcq",
+          "stem": "How will the boy get home?",
+          "options": [
+            "by car",
+            "on foot",
+            "by bus"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "It's raining heavily. Do you want me to ask Mum to pick you up?"
+            },
+            {
+              "speaker": "M",
+              "text": "No, it's only ten minutes. I'll walk — I've got my umbrella."
+            }
+          ],
+          "explanation": "He'll walk with his umbrella."
+        },
+        {
+          "id": "l_m6_p1_q6",
+          "part": 1,
+          "type": "mcq",
+          "stem": "What is the woman looking for?",
+          "options": [
+            "her library book",
+            "her desk",
+            "her bag"
+          ],
+          "answer": 0,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "What are you searching for?"
+            },
+            {
+              "speaker": "W",
+              "text": "My library book! It's due back today, and I can't find it anywhere. I'm sure I left it on my desk."
+            }
+          ],
+          "explanation": "She's looking for her library book."
+        },
+        {
+          "id": "l_m6_p1_q7",
+          "part": 1,
+          "type": "mcq",
+          "stem": "Which club will the boy join?",
+          "options": [
+            "the chess club",
+            "the drama club",
+            "no club"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "Have you chosen a club this year? Chess or drama?"
+            },
+            {
+              "speaker": "M",
+              "text": "I love chess, but my friend is starting drama, so I'm joining him there. Maybe next year."
+            }
+          ],
+          "explanation": "He joins drama to be with his friend."
+        },
+        {
+          "id": "l_m6_p2_q1",
+          "part": 2,
+          "type": "mcq",
+          "stem": "The speaker says the art exhibition …",
+          "options": [
+            "shows professional artists",
+            "lets visitors buy paintings",
+            "closes at six"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "The young artists' exhibition opens today at the Riverside Gallery. It shows work from thirty local teenagers, and visitors can buy the paintings. The gallery is open until eight this evening."
+            }
+          ],
+          "explanation": "Visitors can buy the paintings."
+        },
+        {
+          "id": "l_m6_p2_q2",
+          "part": 2,
+          "type": "mcq",
+          "stem": "The man is calling to …",
+          "options": [
+            "apply for a job",
+            "order food",
+            "complain about service"
+          ],
+          "answer": 0,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Hello, I'm phoning about the part-time job in your café. Is it still available? I'm free every weekend and on Wednesday afternoons."
+            }
+          ],
+          "explanation": "He is calling about the part-time job."
+        },
+        {
+          "id": "l_m6_p2_q3",
+          "part": 2,
+          "type": "mcq",
+          "stem": "According to the announcement, the train …",
+          "options": [
+            "is delayed",
+            "is cancelled",
+            "leaves earlier"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Attention please. The 18.45 train to Dover is cancelled due to a signal problem. Passengers should take the 19.10, which stops at all stations."
+            }
+          ],
+          "explanation": "It is cancelled; take the 19.10."
+        },
+        {
+          "id": "l_m6_p2_q4",
+          "part": 2,
+          "type": "mcq",
+          "stem": "The girl says about the film …",
+          "options": [
+            "was boring all the way",
+            "had a fantastic ending",
+            "had terrible music"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "We watched the new space film yesterday. The story was a bit slow at the start, but the ending was fantastic. And the music! I'm going to download the soundtrack."
+            }
+          ],
+          "explanation": "The ending was fantastic and she loved the music."
+        },
+        {
+          "id": "l_m6_p2_q5",
+          "part": 2,
+          "type": "mcq",
+          "stem": "This weekend will be …",
+          "options": [
+            "nice on both days",
+            "better on Sunday",
+            "windy on Sunday"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Weekend forecast: Saturday brings strong winds and showers, so keep indoors in the morning. Sunday looks lovely everywhere — sunny, twenty-one degrees, and no wind."
+            }
+          ],
+          "explanation": "Sunday is lovely; Saturday has wind and showers."
+        },
+        {
+          "id": "l_m6_p2_q6",
+          "part": 2,
+          "type": "mcq",
+          "stem": "The woman is calling because …",
+          "options": [
+            "she wants to cancel lessons",
+            "she wants to change her lesson date",
+            "she passed her test"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "Hello, I'd like to change the date of my driving lesson. Thursday doesn't work any more — could I move it to the same time on Friday instead?"
+            }
+          ],
+          "explanation": "She wants to move Thursday's lesson to Friday."
+        },
+        {
+          "id": "l_m6_p3_q1",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear David talking about a farm shop. Complete the notes.",
+          "stem": "The farm shop opened ____ years ago.",
+          "answer": "fifteen",
+          "answerAlt": [
+            "fifteen",
+            "15"
+          ],
+          "refScript": "l_m6_p3_main",
+          "explanation": "It opened fifteen years ago."
+        },
+        {
+          "id": "l_m6_p3_q2",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear David talking about a farm shop. Complete the notes.",
+          "stem": "The shop closes at ____ in the afternoon.",
+          "answer": "half past five",
+          "answerAlt": [
+            "half past five",
+            "5.30",
+            "5:30"
+          ],
+          "refScript": "l_m6_p3_main",
+          "explanation": "Open until half past five."
+        },
+        {
+          "id": "l_m6_p3_q3",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear David talking about a farm shop. Complete the notes.",
+          "stem": "The apple juice is made from ____ kinds of apples.",
+          "answer": "six",
+          "answerAlt": [
+            "six",
+            "6"
+          ],
+          "refScript": "l_m6_p3_main",
+          "explanation": "Made from six kinds of apples."
+        },
+        {
+          "id": "l_m6_p3_q4",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear David talking about a farm shop. Complete the notes.",
+          "stem": "Children can feed the animals at ____ o'clock.",
+          "answer": "eleven",
+          "answerAlt": [
+            "eleven",
+            "11"
+          ],
+          "refScript": "l_m6_p3_main",
+          "explanation": "Feeding time is eleven o'clock."
+        },
+        {
+          "id": "l_m6_p3_q5",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear David talking about a farm shop. Complete the notes.",
+          "stem": "The farm tour at two o'clock is ____.",
+          "answer": "free",
+          "answerAlt": [
+            "free"
+          ],
+          "refScript": "l_m6_p3_main",
+          "explanation": "There is a free farm tour at two."
+        },
+        {
+          "id": "l_m6_p3_q6",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear David talking about a farm shop. Complete the notes.",
+          "stem": "The farm is ____ kilometres north of the town centre.",
+          "answer": "three",
+          "answerAlt": [
+            "three",
+            "3"
+          ],
+          "refScript": "l_m6_p3_main",
+          "explanation": "Three kilometres north."
+        },
+        {
+          "id": "l_m6_p4_q1",
+          "part": 4,
+          "type": "mcq",
+          "stem": "What does Rosa make her products from?",
+          "options": [
+            "Old festival banners.",
+            "Plastic bottles.",
+            "Old clothes."
+          ],
+          "answer": 0,
+          "refScript": "l_m6_p4_main",
+          "explanation": "She makes bags from old festival banners."
+        },
+        {
+          "id": "l_m6_p4_q2",
+          "part": 4,
+          "type": "mcq",
+          "stem": "How did she get the first banners?",
+          "options": [
+            "She bought them online.",
+            "Her mother's company threw them away.",
+            "She found them at school."
+          ],
+          "answer": 1,
+          "refScript": "l_m6_p4_main",
+          "explanation": "Her mother's company throws banners away; she took some home."
+        },
+        {
+          "id": "l_m6_p4_q3",
+          "part": 4,
+          "type": "mcq",
+          "stem": "Why is each bag unique?",
+          "options": [
+            "Each banner is different.",
+            "She signs each one.",
+            "Customers design them."
+          ],
+          "answer": 0,
+          "refScript": "l_m6_p4_main",
+          "explanation": "Every banner is different."
+        },
+        {
+          "id": "l_m6_p4_q4",
+          "part": 4,
+          "type": "mcq",
+          "stem": "How many bags did she sell last year?",
+          "options": [
+            "About 40.",
+            "About 400.",
+            "About 4,000."
+          ],
+          "answer": 1,
+          "refScript": "l_m6_p4_main",
+          "explanation": "Over four hundred bags."
+        },
+        {
+          "id": "l_m6_p4_q5",
+          "part": 4,
+          "type": "mcq",
+          "stem": "What did she do with part of the money?",
+          "options": [
+            "She bought a car.",
+            "She donated ten percent to charity.",
+            "She saved it all."
+          ],
+          "answer": 1,
+          "refScript": "l_m6_p4_main",
+          "explanation": "Ten percent went to an environmental charity."
+        },
+        {
+          "id": "l_m6_p4_q6",
+          "part": 4,
+          "type": "mcq",
+          "stem": "What is Rosa's dream?",
+          "options": [
+            "To organise festivals.",
+            "A workshop teaching young people to create from waste.",
+            "To leave school."
+          ],
+          "answer": 1,
+          "refScript": "l_m6_p4_main",
+          "explanation": "She dreams of a workshop where young people learn to make things from waste."
+        }
+      ],
+      "scripts": {
+        "l_m6_p3_main": [
+          {
+            "speaker": "W",
+            "text": "Welcome, everyone, to today's talk about the Millbrook Farm Shop. I'm David, the owner's son, and I'll tell you our story."
+          },
+          {
+            "speaker": "W",
+            "text": "Millbrook Farm Shop opened fifteen years ago in an old barn. We are open every day except Christmas, from nine in the morning until half past five in the afternoon."
+          },
+          {
+            "speaker": "W",
+            "text": "Everything we sell comes from our own farm or from farms within twenty kilometres. You can buy our cheese, honey, and bread — and the most popular product of all, our apple juice, made from six kinds of apples."
+          },
+          {
+            "speaker": "W",
+            "text": "Families love our Saturday mornings: children can feed the animals at eleven o'clock, and there is a free farm tour at two in the afternoon."
+          },
+          {
+            "speaker": "W",
+            "text": "You'll find us on Millbrook Lane, three kilometres north of the town centre. Follow the brown signs from the main road. We hope to see you soon!"
+          }
+        ],
+        "l_m6_p4_main": [
+          {
+            "speaker": "M",
+            "text": "My guest today turned a hobby into a business before she was eighteen. Welcome, Rosa Martins — founder of 'Bags from Banners'."
+          },
+          {
+            "speaker": "W2",
+            "text": "Thanks for inviting me! Yes, I make bags and pencil cases out of old festival banners — the big colourful ones you see at concerts."
+          },
+          {
+            "speaker": "M",
+            "text": "How did this start?"
+          },
+          {
+            "speaker": "W2",
+            "text": "My mother works for a company that organises festivals. Two years ago, she told me they throw away hundreds of banners every year. I thought that was crazy — they're beautiful and strong! So I took some home and made a bag for school. My classmates all wanted one."
+          },
+          {
+            "speaker": "M",
+            "text": "And then?"
+          },
+          {
+            "speaker": "W2",
+            "text": "I started selling them online. Each bag is unique because every banner is different. Last year I sold over four hundred bags, and I donated ten percent of the money to an environmental charity."
+          },
+          {
+            "speaker": "M",
+            "text": "Is it difficult to run a business while studying?"
+          },
+          {
+            "speaker": "W2",
+            "text": "It takes organisation! I make bags at weekends and post them on Mondays. My school supports me — my economics teacher even uses my business as an example in class!"
+          },
+          {
+            "speaker": "M",
+            "text": "What's next?"
+          },
+          {
+            "speaker": "W2",
+            "text": "I'm designing a line of beach bags for summer. And my dream? A workshop where other young people can learn to make things from waste. Throwing away is easy — creating is better."
+          }
+        ]
+      }
+    },
+    "speaking": {
+      "parts": [
+        {
+          "part": 1,
+          "name": "Interview",
+          "desc": "Answer personal questions in full sentences.",
+          "time": "about 2 minutes",
+          "useful": [
+            "I usually ... but sometimes ...",
+            "What I enjoy most is ..."
+          ],
+          "prompts": [
+            {
+              "q": "Tell me about a present you received that you liked.",
+              "prep": 30,
+              "followUps": "Who gave it to you?"
+            },
+            {
+              "q": "Do you prefer giving or receiving presents? Why?",
+              "prep": 30,
+              "followUps": "What do you usually give?"
+            },
+            {
+              "q": "Tell me about how you celebrate special days in your family.",
+              "prep": 30,
+              "followUps": "What food do you usually have?"
+            }
+          ]
+        },
+        {
+          "part": 2,
+          "name": "Describe the photograph",
+          "desc": "Describe the photograph alone for about one minute.",
+          "time": "about 3 minutes",
+          "useful": [
+            "In the picture I can see ...",
+            "It seems like ..."
+          ],
+          "prompts": [
+            {
+              "q": "Describe a photograph of a family opening presents around a table. What can you see? What are they doing? How do they feel?",
+              "prep": 60
+            }
+          ]
+        },
+        {
+          "part": 3,
+          "name": "Collaborative task",
+          "desc": "Discuss with your partner and decide together.",
+          "time": "about 4 minutes",
+          "useful": [
+            "How about ...?",
+            "That's a good point, but ...",
+            "So we agree on ...?"
+          ],
+          "prompts": [
+            {
+              "q": "Some students want to make a present for their retiring teacher. Talk together about the different presents they could make, and decide which would be the best.",
+              "prep": 60,
+              "followUps": "Ideas: a photo book of the class, a handmade card with messages from everyone, a video with thank-you messages, a painted picture of the school, a memory box with small objects."
+            }
+          ]
+        },
+        {
+          "part": 4,
+          "name": "Discussion",
+          "desc": "Give opinions with reasons.",
+          "time": "about 3 minutes",
+          "useful": [
+            "In my opinion, ...",
+            "I agree up to a point, but ..."
+          ],
+          "prompts": [
+            {
+              "q": "Are handmade presents better than bought ones? Why?",
+              "prep": 30
+            },
+            {
+              "q": "Do people give too many presents nowadays? Why?",
+              "prep": 30
+            },
+            {
+              "q": "What makes a present memorable, in your opinion?",
+              "prep": 30
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

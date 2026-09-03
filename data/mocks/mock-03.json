@@ -1,0 +1,1150 @@
+{
+  "id": "mock-03",
+  "title": "Mock Exam 3",
+  "description": "Full B1 Preliminary practice paper 3. Timed sections, exam conditions.",
+  "timings": {
+    "reading": 2700,
+    "writing": 2700,
+    "listening": 1800,
+    "speaking": 720
+  },
+  "sections": {
+    "reading": {
+      "questions": [
+        {
+          "id": "r_m3_p1_q1",
+          "part": 1,
+          "type": "mcq",
+          "context": "MARKET HALL\nFresh fruit and vegetables every day except Sunday.\nOpen 8 a.m. – 6 p.m.",
+          "stem": "The Market Hall …",
+          "options": [
+            "is closed on Saturdays.",
+            "sells fresh food six days a week.",
+            "opens at eight in the evening."
+          ],
+          "answer": 1,
+          "explanation": "It is open every day except Sunday — six days."
+        },
+        {
+          "id": "r_m3_p1_q2",
+          "part": 1,
+          "type": "mcq",
+          "context": "FOUND: black umbrella in Bus 12 on Monday morning.\nPlease describe it to claim.\nCall the Lost Property Office: 0155 552 299",
+          "stem": "Someone who lost an umbrella …",
+          "options": [
+            "must say what it looks like.",
+            "should wait for Bus 12.",
+            "can get it back on Monday."
+          ],
+          "answer": 0,
+          "explanation": "To claim it, they must describe it."
+        },
+        {
+          "id": "r_m3_p1_q3",
+          "part": 1,
+          "type": "mcq",
+          "context": "STUDENT DISCOUNT\nShow your student card at any of our three shops\nand get 10% off everything, including sale items.",
+          "stem": "Students …",
+          "options": [
+            "pay 10% less in three shops.",
+            "get free sale items.",
+            "must buy a student card."
+          ],
+          "answer": 0,
+          "explanation": "With a student card they get 10% off in any of the three shops."
+        },
+        {
+          "id": "r_m3_p1_q4",
+          "part": 1,
+          "type": "mcq",
+          "context": "Dear neighbours,\nThe water will be off on Thursday between 9 a.m. and noon while we repair the pipes.\nPlease store enough water for the morning.\n— Building Manager",
+          "stem": "Neighbours should …",
+          "options": [
+            "repair the pipes themselves.",
+            "keep some water before Thursday morning.",
+            "leave the building on Thursday."
+          ],
+          "answer": 1,
+          "explanation": "They should store water because the supply stops 9–12 on Thursday."
+        },
+        {
+          "id": "r_m3_p1_q5",
+          "part": 1,
+          "type": "mcq",
+          "context": "CLIMBING WALL\nNo experience needed — we teach you!\nMinimum age 8. Children under 12 must come with an adult.",
+          "stem": "The climbing wall …",
+          "options": [
+            "is only for experienced climbers.",
+            "is not for very young children alone.",
+            "is closed to adults."
+          ],
+          "answer": 1,
+          "explanation": "Under-12s must come with an adult, so young children cannot climb alone."
+        },
+        {
+          "id": "r_m3_p2_q1",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of volunteer groups (A–H).\nA. Story Time — volunteers reading to young children, Saturday mornings.\nB. Tech Team — help older people use phones and computers, weekday evenings.\nC. Green Kitchen — learn to cook healthy meals from vegetables, Mondays.\nD. Word Wizards — fun English word games for 9–12-year-olds, Wednesdays.\nE. Park Patrol — keep the town park clean, first Sunday of every month.\nF. Photo Walk — guided photo trips around the city, Sunday afternoons.\nG. Bike Fix — learn to repair bicycles, then fix them for others, Thursdays.\nH. Buddy Club — spend time with new students and show them around, Fridays.",
+          "stem": "Karim is good with computers and wants to help people in the evenings.",
+          "options": [
+            "A. Story Time — volunteers reading to young children, Saturday mornings.",
+            "B. Tech Team — help older people use phones and computers, weekday evenings.",
+            "C. Green Kitchen — learn to cook healthy meals from vegetables, Mondays.",
+            "D. Word Wizards — fun English word games for 9–12-year-olds, Wednesdays.",
+            "E. Park Patrol — keep the town park clean, first Sunday of every month.",
+            "F. Photo Walk — guided photo trips around the city, Sunday afternoons.",
+            "G. Bike Fix — learn to repair bicycles, then fix them for others, Thursdays.",
+            "H. Buddy Club — spend time with new students and show them around, Fridays."
+          ],
+          "answer": 1,
+          "explanation": "Tech Team helps older people with phones/computers on weekday evenings."
+        },
+        {
+          "id": "r_m3_p2_q2",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of volunteer groups (A–H).\nA. Story Time — volunteers reading to young children, Saturday mornings.\nB. Tech Team — help older people use phones and computers, weekday evenings.\nC. Green Kitchen — learn to cook healthy meals from vegetables, Mondays.\nD. Word Wizards — fun English word games for 9–12-year-olds, Wednesdays.\nE. Park Patrol — keep the town park clean, first Sunday of every month.\nF. Photo Walk — guided photo trips around the city, Sunday afternoons.\nG. Bike Fix — learn to repair bicycles, then fix them for others, Thursdays.\nH. Buddy Club — spend time with new students and show them around, Fridays.",
+          "stem": "Sara wants to do something outdoors and loves taking photos.",
+          "options": [
+            "A. Story Time — volunteers reading to young children, Saturday mornings.",
+            "B. Tech Team — help older people use phones and computers, weekday evenings.",
+            "C. Green Kitchen — learn to cook healthy meals from vegetables, Mondays.",
+            "D. Word Wizards — fun English word games for 9–12-year-olds, Wednesdays.",
+            "E. Park Patrol — keep the town park clean, first Sunday of every month.",
+            "F. Photo Walk — guided photo trips around the city, Sunday afternoons.",
+            "G. Bike Fix — learn to repair bicycles, then fix them for others, Thursdays.",
+            "H. Buddy Club — spend time with new students and show them around, Fridays."
+          ],
+          "answer": 5,
+          "explanation": "Photo Walk is guided photo trips around the city."
+        },
+        {
+          "id": "r_m3_p2_q3",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of volunteer groups (A–H).\nA. Story Time — volunteers reading to young children, Saturday mornings.\nB. Tech Team — help older people use phones and computers, weekday evenings.\nC. Green Kitchen — learn to cook healthy meals from vegetables, Mondays.\nD. Word Wizards — fun English word games for 9–12-year-olds, Wednesdays.\nE. Park Patrol — keep the town park clean, first Sunday of every month.\nF. Photo Walk — guided photo trips around the city, Sunday afternoons.\nG. Bike Fix — learn to repair bicycles, then fix them for others, Thursdays.\nH. Buddy Club — spend time with new students and show them around, Fridays.",
+          "stem": "Milo wants to make new students feel welcome at his school.",
+          "options": [
+            "A. Story Time — volunteers reading to young children, Saturday mornings.",
+            "B. Tech Team — help older people use phones and computers, weekday evenings.",
+            "C. Green Kitchen — learn to cook healthy meals from vegetables, Mondays.",
+            "D. Word Wizards — fun English word games for 9–12-year-olds, Wednesdays.",
+            "E. Park Patrol — keep the town park clean, first Sunday of every month.",
+            "F. Photo Walk — guided photo trips around the city, Sunday afternoons.",
+            "G. Bike Fix — learn to repair bicycles, then fix them for others, Thursdays.",
+            "H. Buddy Club — spend time with new students and show them around, Fridays."
+          ],
+          "answer": 7,
+          "explanation": "Buddy Club spends time with new students and shows them around."
+        },
+        {
+          "id": "r_m3_p2_q4",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of volunteer groups (A–H).\nA. Story Time — volunteers reading to young children, Saturday mornings.\nB. Tech Team — help older people use phones and computers, weekday evenings.\nC. Green Kitchen — learn to cook healthy meals from vegetables, Mondays.\nD. Word Wizards — fun English word games for 9–12-year-olds, Wednesdays.\nE. Park Patrol — keep the town park clean, first Sunday of every month.\nF. Photo Walk — guided photo trips around the city, Sunday afternoons.\nG. Bike Fix — learn to repair bicycles, then fix them for others, Thursdays.\nH. Buddy Club — spend time with new students and show them around, Fridays.",
+          "stem": "Elsa wants to learn to prepare meals without meat.",
+          "options": [
+            "A. Story Time — volunteers reading to young children, Saturday mornings.",
+            "B. Tech Team — help older people use phones and computers, weekday evenings.",
+            "C. Green Kitchen — learn to cook healthy meals from vegetables, Mondays.",
+            "D. Word Wizards — fun English word games for 9–12-year-olds, Wednesdays.",
+            "E. Park Patrol — keep the town park clean, first Sunday of every month.",
+            "F. Photo Walk — guided photo trips around the city, Sunday afternoons.",
+            "G. Bike Fix — learn to repair bicycles, then fix them for others, Thursdays.",
+            "H. Buddy Club — spend time with new students and show them around, Fridays."
+          ],
+          "answer": 2,
+          "explanation": "Green Kitchen cooks healthy meals from vegetables."
+        },
+        {
+          "id": "r_m3_p2_q5",
+          "part": 2,
+          "type": "matching",
+          "context": "Read the list of volunteer groups (A–H).\nA. Story Time — volunteers reading to young children, Saturday mornings.\nB. Tech Team — help older people use phones and computers, weekday evenings.\nC. Green Kitchen — learn to cook healthy meals from vegetables, Mondays.\nD. Word Wizards — fun English word games for 9–12-year-olds, Wednesdays.\nE. Park Patrol — keep the town park clean, first Sunday of every month.\nF. Photo Walk — guided photo trips around the city, Sunday afternoons.\nG. Bike Fix — learn to repair bicycles, then fix them for others, Thursdays.\nH. Buddy Club — spend time with new students and show them around, Fridays.",
+          "stem": "Jonas likes fixing things and wants to use the skill to help others.",
+          "options": [
+            "A. Story Time — volunteers reading to young children, Saturday mornings.",
+            "B. Tech Team — help older people use phones and computers, weekday evenings.",
+            "C. Green Kitchen — learn to cook healthy meals from vegetables, Mondays.",
+            "D. Word Wizards — fun English word games for 9–12-year-olds, Wednesdays.",
+            "E. Park Patrol — keep the town park clean, first Sunday of every month.",
+            "F. Photo Walk — guided photo trips around the city, Sunday afternoons.",
+            "G. Bike Fix — learn to repair bicycles, then fix them for others, Thursdays.",
+            "H. Buddy Club — spend time with new students and show them around, Fridays."
+          ],
+          "answer": 6,
+          "explanation": "Bike Fix teaches repairs, then you fix bikes for others."
+        },
+        {
+          "id": "r_m3_p3_q1",
+          "part": 3,
+          "type": "mcq",
+          "context": "Twenty years ago, there were no bookshops left in the small town of Millford. People bought books online or in the big city, and reading seemed to be disappearing from daily life. Then one woman, Helen Marsh, decided to change that.\n\nHelen had no business experience — she was a retired nurse. She sold her car, borrowed some money from her brother, and rented a tiny room next to the bakery. Her first shop had only three hundred books, most of them second-hand.\n\nAt first, very few people came. But Helen had an idea: she put a table outside with free tea and comfortable chairs, and invited people to sit and read, whether they bought anything or not. Slowly, the room filled with conversation. Neighbours began donating books, and local writers came to read from their work.\n\nToday, Millford Books is three times bigger, and it has become the heart of the town. 'A bookshop isn't really about books,' Helen says. 'It's about people meeting each other.' She is seventy now, but she still opens the shop every morning — and the tea is still free.",
+          "stem": "What was the situation in Millford twenty years ago?",
+          "options": [
+            "There were many bookshops.",
+            "The town had no bookshop.",
+            "People read more than today.",
+            "Helen opened her first shop."
+          ],
+          "answer": 1,
+          "explanation": "There were no bookshops left in Millford."
+        },
+        {
+          "id": "r_m3_p3_q2",
+          "part": 3,
+          "type": "mcq",
+          "context": "Twenty years ago, there were no bookshops left in the small town of Millford. People bought books online or in the big city, and reading seemed to be disappearing from daily life. Then one woman, Helen Marsh, decided to change that.\n\nHelen had no business experience — she was a retired nurse. She sold her car, borrowed some money from her brother, and rented a tiny room next to the bakery. Her first shop had only three hundred books, most of them second-hand.\n\nAt first, very few people came. But Helen had an idea: she put a table outside with free tea and comfortable chairs, and invited people to sit and read, whether they bought anything or not. Slowly, the room filled with conversation. Neighbours began donating books, and local writers came to read from their work.\n\nToday, Millford Books is three times bigger, and it has become the heart of the town. 'A bookshop isn't really about books,' Helen says. 'It's about people meeting each other.' She is seventy now, but she still opens the shop every morning — and the tea is still free.",
+          "stem": "What did Helen do to open her shop?",
+          "options": [
+            "She won some money.",
+            "She sold her car and borrowed money.",
+            "She worked as a nurse.",
+            "She moved to the big city."
+          ],
+          "answer": 1,
+          "explanation": "She sold her car and borrowed money from her brother."
+        },
+        {
+          "id": "r_m3_p3_q3",
+          "part": 3,
+          "type": "mcq",
+          "context": "Twenty years ago, there were no bookshops left in the small town of Millford. People bought books online or in the big city, and reading seemed to be disappearing from daily life. Then one woman, Helen Marsh, decided to change that.\n\nHelen had no business experience — she was a retired nurse. She sold her car, borrowed some money from her brother, and rented a tiny room next to the bakery. Her first shop had only three hundred books, most of them second-hand.\n\nAt first, very few people came. But Helen had an idea: she put a table outside with free tea and comfortable chairs, and invited people to sit and read, whether they bought anything or not. Slowly, the room filled with conversation. Neighbours began donating books, and local writers came to read from their work.\n\nToday, Millford Books is three times bigger, and it has become the heart of the town. 'A bookshop isn't really about books,' Helen says. 'It's about people meeting each other.' She is seventy now, but she still opens the shop every morning — and the tea is still free.",
+          "stem": "What was Helen's idea to attract people?",
+          "options": [
+            "Selling cheaper books.",
+            "Free tea and chairs outside.",
+            "Opening a bigger shop.",
+            "Writing her own books."
+          ],
+          "answer": 1,
+          "explanation": "She put a table outside with free tea and comfortable chairs."
+        },
+        {
+          "id": "r_m3_p3_q4",
+          "part": 3,
+          "type": "mcq",
+          "context": "Twenty years ago, there were no bookshops left in the small town of Millford. People bought books online or in the big city, and reading seemed to be disappearing from daily life. Then one woman, Helen Marsh, decided to change that.\n\nHelen had no business experience — she was a retired nurse. She sold her car, borrowed some money from her brother, and rented a tiny room next to the bakery. Her first shop had only three hundred books, most of them second-hand.\n\nAt first, very few people came. But Helen had an idea: she put a table outside with free tea and comfortable chairs, and invited people to sit and read, whether they bought anything or not. Slowly, the room filled with conversation. Neighbours began donating books, and local writers came to read from their work.\n\nToday, Millford Books is three times bigger, and it has become the heart of the town. 'A bookshop isn't really about books,' Helen says. 'It's about people meeting each other.' She is seventy now, but she still opens the shop every morning — and the tea is still free.",
+          "stem": "What does the shop mean to the town now?",
+          "options": [
+            "It is the centre of community life.",
+            "It sells the most books in the region.",
+            "It is only for local writers.",
+            "It is too small for visitors."
+          ],
+          "answer": 0,
+          "explanation": "It has become the heart of the town — people meeting each other."
+        },
+        {
+          "id": "r_m3_p3_q5",
+          "part": 3,
+          "type": "mcq",
+          "context": "Twenty years ago, there were no bookshops left in the small town of Millford. People bought books online or in the big city, and reading seemed to be disappearing from daily life. Then one woman, Helen Marsh, decided to change that.\n\nHelen had no business experience — she was a retired nurse. She sold her car, borrowed some money from her brother, and rented a tiny room next to the bakery. Her first shop had only three hundred books, most of them second-hand.\n\nAt first, very few people came. But Helen had an idea: she put a table outside with free tea and comfortable chairs, and invited people to sit and read, whether they bought anything or not. Slowly, the room filled with conversation. Neighbours began donating books, and local writers came to read from their work.\n\nToday, Millford Books is three times bigger, and it has become the heart of the town. 'A bookshop isn't really about books,' Helen says. 'It's about people meeting each other.' She is seventy now, but she still opens the shop every morning — and the tea is still free.",
+          "stem": "Which statement about Helen is true?",
+          "options": [
+            "She no longer works in the shop.",
+            "She charges for tea now.",
+            "She still opens the shop daily.",
+            "She sold the shop to her brother."
+          ],
+          "answer": 2,
+          "explanation": "She is seventy but still opens the shop every morning."
+        },
+        {
+          "id": "r_m3_p4_q1",
+          "part": 4,
+          "type": "mcq",
+          "context": "Have you ever tried to learn something new and given up after a few days? You are not __(16)__. Scientists say that most people stop new habits within two weeks. But there is good news: research shows there are simple ways to __(17)__ longer.\n\nFirst, start small. Instead of practising an hour, begin with ten minutes a day. It is better to do a little every day than a lot __(18)__. Second, choose the same time each day, so the habit becomes __(19)__. Finally, tell a friend about your plan — people who share their goals with others are more likely to __(20)__ them.",
+          "stem": "Choose the correct word for gap __16__.",
+          "options": [
+            "alone",
+            "only",
+            "single",
+            "one"
+          ],
+          "answer": 0,
+          "explanation": "'You are not alone' — a fixed phrase."
+        },
+        {
+          "id": "r_m3_p4_q2",
+          "part": 4,
+          "type": "mcq",
+          "context": "Have you ever tried to learn something new and given up after a few days? You are not __(16)__. Scientists say that most people stop new habits within two weeks. But there is good news: research shows there are simple ways to __(17)__ longer.\n\nFirst, start small. Instead of practising an hour, begin with ten minutes a day. It is better to do a little every day than a lot __(18)__. Second, choose the same time each day, so the habit becomes __(19)__. Finally, tell a friend about your plan — people who share their goals with others are more likely to __(20)__ them.",
+          "stem": "Choose the correct word for gap __17__.",
+          "options": [
+            "continue",
+            "stop",
+            "begin",
+            "forget"
+          ],
+          "answer": 0,
+          "explanation": "The good news is ways to continue longer."
+        },
+        {
+          "id": "r_m3_p4_q3",
+          "part": 4,
+          "type": "mcq",
+          "context": "Have you ever tried to learn something new and given up after a few days? You are not __(16)__. Scientists say that most people stop new habits within two weeks. But there is good news: research shows there are simple ways to __(17)__ longer.\n\nFirst, start small. Instead of practising an hour, begin with ten minutes a day. It is better to do a little every day than a lot __(18)__. Second, choose the same time each day, so the habit becomes __(19)__. Finally, tell a friend about your plan — people who share their goals with others are more likely to __(20)__ them.",
+          "stem": "Choose the correct word for gap __18__.",
+          "options": [
+            "sometimes",
+            "never",
+            "often",
+            "always"
+          ],
+          "answer": 0,
+          "explanation": "A little every day is better than a lot sometimes."
+        },
+        {
+          "id": "r_m3_p4_q4",
+          "part": 4,
+          "type": "mcq",
+          "context": "Have you ever tried to learn something new and given up after a few days? You are not __(16)__. Scientists say that most people stop new habits within two weeks. But there is good news: research shows there are simple ways to __(17)__ longer.\n\nFirst, start small. Instead of practising an hour, begin with ten minutes a day. It is better to do a little every day than a lot __(18)__. Second, choose the same time each day, so the habit becomes __(19)__. Finally, tell a friend about your plan — people who share their goals with others are more likely to __(20)__ them.",
+          "stem": "Choose the correct word for gap __19__.",
+          "options": [
+            "automatic",
+            "difficult",
+            "interesting",
+            "impossible"
+          ],
+          "answer": 0,
+          "explanation": "Same time each day makes the habit automatic."
+        },
+        {
+          "id": "r_m3_p4_q5",
+          "part": 4,
+          "type": "mcq",
+          "context": "Have you ever tried to learn something new and given up after a few days? You are not __(16)__. Scientists say that most people stop new habits within two weeks. But there is good news: research shows there are simple ways to __(17)__ longer.\n\nFirst, start small. Instead of practising an hour, begin with ten minutes a day. It is better to do a little every day than a lot __(18)__. Second, choose the same time each day, so the habit becomes __(19)__. Finally, tell a friend about your plan — people who share their goals with others are more likely to __(20)__ them.",
+          "stem": "Choose the correct word for gap __20__.",
+          "options": [
+            "reach",
+            "lose",
+            "miss",
+            "drop"
+          ],
+          "answer": 0,
+          "explanation": "You reach your goals — a fixed phrase."
+        },
+        {
+          "id": "r_m3_p5_q1",
+          "part": 5,
+          "type": "mcq",
+          "context": "Many teenagers believe that famous people had easy lives, but their stories often show the __(21)__. The singer Adele, for example, grew up in a small flat and sang in tiny clubs for years __(22)__ anyone knew her name. The footballer Cristiano Ronaldo left his family at eleven to train in another city, and he __(23)__ practised for hours every evening after school.\n\nWhat these stories teach us is that success usually comes __(24)__ hard work, not luck. Of course, talent helps, but without daily effort it __(25)__ nothing. So the next time you see a famous person, remember: you are seeing the result of thousands of quiet hours that nobody __(26)__ about.",
+          "stem": "Choose the correct word for gap __21__.",
+          "options": [
+            "opposite",
+            "same",
+            "answer",
+            "difference"
+          ],
+          "answer": 0,
+          "explanation": "Their stories show the opposite of what people believe."
+        },
+        {
+          "id": "r_m3_p5_q2",
+          "part": 5,
+          "type": "mcq",
+          "context": "Many teenagers believe that famous people had easy lives, but their stories often show the __(21)__. The singer Adele, for example, grew up in a small flat and sang in tiny clubs for years __(22)__ anyone knew her name. The footballer Cristiano Ronaldo left his family at eleven to train in another city, and he __(23)__ practised for hours every evening after school.\n\nWhat these stories teach us is that success usually comes __(24)__ hard work, not luck. Of course, talent helps, but without daily effort it __(25)__ nothing. So the next time you see a famous person, remember: you are seeing the result of thousands of quiet hours that nobody __(26)__ about.",
+          "stem": "Choose the correct word for gap __22__.",
+          "options": [
+            "before",
+            "after",
+            "while",
+            "until"
+          ],
+          "answer": 0,
+          "explanation": "She sang in clubs for years before anyone knew her."
+        },
+        {
+          "id": "r_m3_p5_q3",
+          "part": 5,
+          "type": "mcq",
+          "context": "Many teenagers believe that famous people had easy lives, but their stories often show the __(21)__. The singer Adele, for example, grew up in a small flat and sang in tiny clubs for years __(22)__ anyone knew her name. The footballer Cristiano Ronaldo left his family at eleven to train in another city, and he __(23)__ practised for hours every evening after school.\n\nWhat these stories teach us is that success usually comes __(24)__ hard work, not luck. Of course, talent helps, but without daily effort it __(25)__ nothing. So the next time you see a famous person, remember: you are seeing the result of thousands of quiet hours that nobody __(26)__ about.",
+          "stem": "Choose the correct word for gap __23__.",
+          "options": [
+            "also",
+            "never",
+            "hardly",
+            "seldom"
+          ],
+          "answer": 0,
+          "explanation": "He also practised — adding another example of effort."
+        },
+        {
+          "id": "r_m3_p5_q4",
+          "part": 5,
+          "type": "mcq",
+          "context": "Many teenagers believe that famous people had easy lives, but their stories often show the __(21)__. The singer Adele, for example, grew up in a small flat and sang in tiny clubs for years __(22)__ anyone knew her name. The footballer Cristiano Ronaldo left his family at eleven to train in another city, and he __(23)__ practised for hours every evening after school.\n\nWhat these stories teach us is that success usually comes __(24)__ hard work, not luck. Of course, talent helps, but without daily effort it __(25)__ nothing. So the next time you see a famous person, remember: you are seeing the result of thousands of quiet hours that nobody __(26)__ about.",
+          "stem": "Choose the correct word for gap __24__.",
+          "options": [
+            "from",
+            "by",
+            "with",
+            "for"
+          ],
+          "answer": 0,
+          "explanation": "Success comes from hard work."
+        },
+        {
+          "id": "r_m3_p5_q5",
+          "part": 5,
+          "type": "mcq",
+          "context": "Many teenagers believe that famous people had easy lives, but their stories often show the __(21)__. The singer Adele, for example, grew up in a small flat and sang in tiny clubs for years __(22)__ anyone knew her name. The footballer Cristiano Ronaldo left his family at eleven to train in another city, and he __(23)__ practised for hours every evening after school.\n\nWhat these stories teach us is that success usually comes __(24)__ hard work, not luck. Of course, talent helps, but without daily effort it __(25)__ nothing. So the next time you see a famous person, remember: you are seeing the result of thousands of quiet hours that nobody __(26)__ about.",
+          "stem": "Choose the correct word for gap __25__.",
+          "options": [
+            "means",
+            "takes",
+            "costs",
+            "makes"
+          ],
+          "answer": 0,
+          "explanation": "Without effort, talent means nothing."
+        },
+        {
+          "id": "r_m3_p5_q6",
+          "part": 5,
+          "type": "mcq",
+          "context": "Many teenagers believe that famous people had easy lives, but their stories often show the __(21)__. The singer Adele, for example, grew up in a small flat and sang in tiny clubs for years __(22)__ anyone knew her name. The footballer Cristiano Ronaldo left his family at eleven to train in another city, and he __(23)__ practised for hours every evening after school.\n\nWhat these stories teach us is that success usually comes __(24)__ hard work, not luck. Of course, talent helps, but without daily effort it __(25)__ nothing. So the next time you see a famous person, remember: you are seeing the result of thousands of quiet hours that nobody __(26)__ about.",
+          "stem": "Choose the correct word for gap __26__.",
+          "options": [
+            "knows",
+            "says",
+            "talks",
+            "thinks"
+          ],
+          "answer": 0,
+          "explanation": "Quiet hours that nobody knows about."
+        },
+        {
+          "id": "r_m3_p6_q1",
+          "part": 6,
+          "type": "cloze",
+          "context": "My brother Leo is three years older __(27)__ me, but sometimes he acts like a child! Last Saturday, he decided to make breakfast for the whole family. He wanted to cook pancakes __(28)__ he had never made them before.\n\nI watched from the kitchen door while he mixed flour, milk and eggs. Everything was going well __(29)__ he tried to turn the first pancake in the air. It flew up... and landed on the cat!\n\nWe laughed so much that we couldn't stop. In the __(30)__, Mum made the rest of the pancakes, and Leo cleaned the kitchen. He says he will never cook again, __(31)__ I'm not sure I believe him. He loves eating pancakes too much! Next time, I'll help him — but I'll stand much further __(32)__.",
+          "stem": "Write ONE word for gap __27__.",
+          "answer": "than",
+          "answerAlt": [
+            "than"
+          ],
+          "explanation": "Comparative: older than me."
+        },
+        {
+          "id": "r_m3_p6_q2",
+          "part": 6,
+          "type": "cloze",
+          "context": "My brother Leo is three years older __(27)__ me, but sometimes he acts like a child! Last Saturday, he decided to make breakfast for the whole family. He wanted to cook pancakes __(28)__ he had never made them before.\n\nI watched from the kitchen door while he mixed flour, milk and eggs. Everything was going well __(29)__ he tried to turn the first pancake in the air. It flew up... and landed on the cat!\n\nWe laughed so much that we couldn't stop. In the __(30)__, Mum made the rest of the pancakes, and Leo cleaned the kitchen. He says he will never cook again, __(31)__ I'm not sure I believe him. He loves eating pancakes too much! Next time, I'll help him — but I'll stand much further __(32)__.",
+          "stem": "Write ONE word for gap __28__.",
+          "answer": "although",
+          "answerAlt": [
+            "although",
+            "though",
+            "but"
+          ],
+          "explanation": "Contrast: he cooked them although he had never made them."
+        },
+        {
+          "id": "r_m3_p6_q3",
+          "part": 6,
+          "type": "cloze",
+          "context": "My brother Leo is three years older __(27)__ me, but sometimes he acts like a child! Last Saturday, he decided to make breakfast for the whole family. He wanted to cook pancakes __(28)__ he had never made them before.\n\nI watched from the kitchen door while he mixed flour, milk and eggs. Everything was going well __(29)__ he tried to turn the first pancake in the air. It flew up... and landed on the cat!\n\nWe laughed so much that we couldn't stop. In the __(30)__, Mum made the rest of the pancakes, and Leo cleaned the kitchen. He says he will never cook again, __(31)__ I'm not sure I believe him. He loves eating pancakes too much! Next time, I'll help him — but I'll stand much further __(32)__.",
+          "stem": "Write ONE word for gap __29__.",
+          "answer": "until",
+          "answerAlt": [
+            "until"
+          ],
+          "explanation": "Everything was fine until he tried to turn the pancake."
+        },
+        {
+          "id": "r_m3_p6_q4",
+          "part": 6,
+          "type": "cloze",
+          "context": "My brother Leo is three years older __(27)__ me, but sometimes he acts like a child! Last Saturday, he decided to make breakfast for the whole family. He wanted to cook pancakes __(28)__ he had never made them before.\n\nI watched from the kitchen door while he mixed flour, milk and eggs. Everything was going well __(29)__ he tried to turn the first pancake in the air. It flew up... and landed on the cat!\n\nWe laughed so much that we couldn't stop. In the __(30)__, Mum made the rest of the pancakes, and Leo cleaned the kitchen. He says he will never cook again, __(31)__ I'm not sure I believe him. He loves eating pancakes too much! Next time, I'll help him — but I'll stand much further __(32)__.",
+          "stem": "Write ONE word for gap __30__.",
+          "answer": "end",
+          "answerAlt": [
+            "end"
+          ],
+          "explanation": "'In the end' — fixed phrase."
+        },
+        {
+          "id": "r_m3_p6_q5",
+          "part": 6,
+          "type": "cloze",
+          "context": "My brother Leo is three years older __(27)__ me, but sometimes he acts like a child! Last Saturday, he decided to make breakfast for the whole family. He wanted to cook pancakes __(28)__ he had never made them before.\n\nI watched from the kitchen door while he mixed flour, milk and eggs. Everything was going well __(29)__ he tried to turn the first pancake in the air. It flew up... and landed on the cat!\n\nWe laughed so much that we couldn't stop. In the __(30)__, Mum made the rest of the pancakes, and Leo cleaned the kitchen. He says he will never cook again, __(31)__ I'm not sure I believe him. He loves eating pancakes too much! Next time, I'll help him — but I'll stand much further __(32)__.",
+          "stem": "Write ONE word for gap __31__.",
+          "answer": "but",
+          "answerAlt": [
+            "but"
+          ],
+          "explanation": "Contrast with what he says."
+        },
+        {
+          "id": "r_m3_p6_q6",
+          "part": 6,
+          "type": "cloze",
+          "context": "My brother Leo is three years older __(27)__ me, but sometimes he acts like a child! Last Saturday, he decided to make breakfast for the whole family. He wanted to cook pancakes __(28)__ he had never made them before.\n\nI watched from the kitchen door while he mixed flour, milk and eggs. Everything was going well __(29)__ he tried to turn the first pancake in the air. It flew up... and landed on the cat!\n\nWe laughed so much that we couldn't stop. In the __(30)__, Mum made the rest of the pancakes, and Leo cleaned the kitchen. He says he will never cook again, __(31)__ I'm not sure I believe him. He loves eating pancakes too much! Next time, I'll help him — but I'll stand much further __(32)__.",
+          "stem": "Write ONE word for gap __32__.",
+          "answer": "away",
+          "answerAlt": [
+            "away"
+          ],
+          "explanation": "'Stand further away' — distance."
+        }
+      ]
+    },
+    "writing": {
+      "tasks": [
+        {
+          "id": "w_m3_t1",
+          "part": 1,
+          "type": "email",
+          "title": "Mock 3 · Part 1: Reply to Lucy's email",
+          "rubric": "Read the email from your English friend Lucy. Write a reply answering all four points (about 100 words).",
+          "inputText": "Hi!\nThanks for your last email — it was great to hear your news.\nI've got an idea: why don't you come and stay with me in the summer holidays? My parents say it's OK!\nWhere would you like to go during your stay — the beach or the mountains? And what should we do on a rainy day?\nAlso, tell me about your town — is there anything interesting to see?\nFinally, what food should I prepare for you? I want to cook something you'll like!\nCan't wait!\nLucy",
+          "points": [
+            "Say if you'd like to stay with Lucy",
+            "Choose beach or mountains and say why",
+            "Suggest an activity for a rainy day",
+            "Tell her about your town and the food you like"
+          ],
+          "words": 100,
+          "model": "Hi Lucy,\n\nYour email made my day! Yes, I'd absolutely love to stay with you this summer — thank your parents for me!\n\nIf you ask me, I choose the beach. I love swimming, and the sea is never boring. We could spend whole days there!\n\nOn rainy days, why don't we watch films at home and make popcorn? Or we could play board games — I'll bring some.\n\nMy town is small but pretty, with an old castle and a lovely market square. As for food — don't worry about me! I eat almost everything, especially pasta.\n\nSee you in July!\n\nMarta",
+          "modelNotes": "All four points covered; a clear choice with a reason; friendly suggestions for rainy days.",
+          "checklist": [
+            "All four content points are answered",
+            "A choice is made with a reason",
+            "Suggestions are offered",
+            "The tone is warm and natural",
+            "About 100 words"
+          ]
+        },
+        {
+          "id": "w_m3_t2",
+          "part": 2,
+          "type": "article",
+          "title": "Mock 3 · Part 2: Are mobile phones good for young people?",
+          "rubric": "A website for teenagers asks: 'Are mobile phones good for young people?' Write your article giving your opinion with reasons and examples (about 100 words).",
+          "points": [
+            "Give a clear opinion",
+            "Support it with reasons",
+            "Give an example",
+            "Mention the other side briefly"
+          ],
+          "words": 100,
+          "model": "Mobile Phones: Friend or Enemy?\n\nAre mobile phones good for young people? In my opinion, the answer is yes — but only if we use them sensibly.\n\nFirstly, phones keep us safe. My parents can always reach me, which makes everyone feel better. Secondly, they help us learn: I use apps to revise vocabulary every evening, and my marks have improved.\n\nOf course, some people say phones waste time, and they are right that hours of scrolling are bad for us. That is why I always set a time limit.\n\nAll in all, phones are wonderful tools. It's up to us to be smarter than they are!",
+          "modelNotes": "Clear opinion in paragraph 1, two reasons with a personal example, the other side acknowledged, strong conclusion.",
+          "checklist": [
+            "A clear opinion is stated",
+            "Two reasons with examples are given",
+            "The other side is mentioned",
+            "A conclusion phrase closes the article",
+            "About 100 words"
+          ]
+        }
+      ]
+    },
+    "listening": {
+      "questions": [
+        {
+          "id": "l_m3_p1_q1",
+          "part": 1,
+          "type": "mcq",
+          "stem": "What present will the girl buy?",
+          "options": [
+            "flowers",
+            "a book",
+            "a film ticket"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "I need a birthday present for my mum. Flowers are nice, but she gets them every year."
+            },
+            {
+              "speaker": "M",
+              "text": "What about a book? She loves reading."
+            },
+            {
+              "speaker": "W",
+              "text": "Perfect — I'll get her the new novel by her favourite writer."
+            }
+          ],
+          "explanation": "She decides on a book — the new novel."
+        },
+        {
+          "id": "l_m3_p1_q2",
+          "part": 1,
+          "type": "mcq",
+          "stem": "Where are the speakers?",
+          "options": [
+            "in a bookshop",
+            "in a library",
+            "in a kitchen shop"
+          ],
+          "answer": 0,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Excuse me, which shelf are the cookery books on?"
+            },
+            {
+              "speaker": "W",
+              "text": "They're on the second floor, next to the travel section. Take the stairs over there."
+            }
+          ],
+          "explanation": "Shelves with books to buy — a bookshop. (Library also has shelves, but 'cookery books on a shelf' + no borrowing language: bookshop.)"
+        },
+        {
+          "id": "l_m3_p1_q3",
+          "part": 1,
+          "type": "mcq",
+          "stem": "What time will the lesson finish?",
+          "options": [
+            "5.45",
+            "6.00",
+            "6.15"
+          ],
+          "answer": 0,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "The guitar lesson is from five to six, right?"
+            },
+            {
+              "speaker": "M",
+              "text": "Usually, but today the teacher has another class after ours, so we'll finish fifteen minutes early."
+            }
+          ],
+          "explanation": "Six minus fifteen minutes = 5.45."
+        },
+        {
+          "id": "l_m3_p1_q4",
+          "part": 1,
+          "type": "mcq",
+          "stem": "What will the boy drink?",
+          "options": [
+            "orange juice",
+            "apple juice and water",
+            "water only"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "I'm really thirsty after football. Is there any juice?"
+            },
+            {
+              "speaker": "W",
+              "text": "The orange juice finished this morning, but there's apple juice and water."
+            },
+            {
+              "speaker": "M",
+              "text": "I'll have the apple juice, then — and a glass of water too."
+            }
+          ],
+          "explanation": "He'll have apple juice and a glass of water."
+        },
+        {
+          "id": "l_m3_p1_q5",
+          "part": 1,
+          "type": "mcq",
+          "stem": "How will the family travel to the wedding?",
+          "options": [
+            "on foot",
+            "by car",
+            "by bus"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "The wedding is in the next village. Shall we walk?"
+            },
+            {
+              "speaker": "M",
+              "text": "In these shoes? No way. Dad's driving us — he's picking us up at two."
+            }
+          ],
+          "explanation": "Dad is driving them."
+        },
+        {
+          "id": "l_m3_p1_q6",
+          "part": 1,
+          "type": "mcq",
+          "stem": "What has the woman lost?",
+          "options": [
+            "her phone",
+            "her gym bag",
+            "her house keys"
+          ],
+          "answer": 2,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "You look worried. What's wrong?"
+            },
+            {
+              "speaker": "W",
+              "text": "I can't find my house keys anywhere! I had them when I left the gym... or maybe they fell out in the park."
+            }
+          ],
+          "explanation": "She can't find her house keys."
+        },
+        {
+          "id": "l_m3_p1_q7",
+          "part": 1,
+          "type": "mcq",
+          "stem": "Which subject does the boy like best?",
+          "options": [
+            "maths",
+            "geography",
+            "history"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "What's your favourite subject at school?"
+            },
+            {
+              "speaker": "M",
+              "text": "I'm good at maths, but my favourite is definitely geography. I love learning about other countries."
+            }
+          ],
+          "explanation": "He is good at maths but his favourite is geography."
+        },
+        {
+          "id": "l_m3_p2_q1",
+          "part": 2,
+          "type": "mcq",
+          "stem": "The speaker says the swimming pool …",
+          "options": [
+            "has no café",
+            "opens on Saturday",
+            "is free for families"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "The new swimming pool in Eastgate opens this Saturday. It has a 25-metre pool, a children's area, and a café. Family tickets cost fourteen pounds and include all areas."
+            }
+          ],
+          "explanation": "It opens this Saturday."
+        },
+        {
+          "id": "l_m3_p2_q2",
+          "part": 2,
+          "type": "mcq",
+          "stem": "The woman is calling to …",
+          "options": [
+            "make a new appointment",
+            "change her appointment",
+            "ask about prices"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "Hello, I'd like to cancel my dentist appointment for tomorrow morning. Something important has come up. Could you give me the first free appointment next week instead?"
+            }
+          ],
+          "explanation": "She cancels tomorrow and asks for next week — changing it."
+        },
+        {
+          "id": "l_m3_p2_q3",
+          "part": 2,
+          "type": "mcq",
+          "stem": "According to the announcement, the shop …",
+          "options": [
+            "closes on Mondays",
+            "offers home delivery",
+            "sells cheaper bread"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Good news from Hartley's Bakery: from Monday we will deliver fresh bread to your home. Orders before 8 p.m. arrive the next morning. Delivery is free for orders over ten pounds."
+            }
+          ],
+          "explanation": "They will deliver bread to homes."
+        },
+        {
+          "id": "l_m3_p2_q4",
+          "part": 2,
+          "type": "mcq",
+          "stem": "The boy says the concert …",
+          "options": [
+            "had bad sound",
+            "was too hot and crowded",
+            "was cancelled"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "W",
+              "text": "How was the concert last night?"
+            },
+            {
+              "speaker": "M",
+              "text": "The band was brilliant, and the sound was perfect. The only problem was the heat — there were too many people inside. Next time I'll choose an outside concert."
+            }
+          ],
+          "explanation": "His problem was the heat and too many people."
+        },
+        {
+          "id": "l_m3_p2_q5",
+          "part": 2,
+          "type": "mcq",
+          "stem": "Tomorrow's weather will be …",
+          "options": [
+            "rainy all day",
+            "rainy then sunny",
+            "sunny all day"
+          ],
+          "answer": 1,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Weather for tomorrow: the day begins wet and grey, but don't worry — by two o'clock the rain stops and the sun appears. Temperatures around nineteen degrees."
+            }
+          ],
+          "explanation": "Wet morning, sun by two o'clock."
+        },
+        {
+          "id": "l_m3_p2_q6",
+          "part": 2,
+          "type": "mcq",
+          "stem": "The man is phoning because …",
+          "options": [
+            "he wants a bigger size",
+            "he wants his money back",
+            "he lost his receipt"
+          ],
+          "answer": 0,
+          "lines": [
+            {
+              "speaker": "M",
+              "text": "Hi, I bought a jacket in your shop on Saturday, size medium. When I got home I saw it was actually a small. Could I exchange it for the right size? I still have the receipt."
+            }
+          ],
+          "explanation": "He bought a medium but got a small — he wants to exchange it."
+        },
+        {
+          "id": "l_m3_p3_q1",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Greg talking about a new youth centre. Complete the notes.",
+          "stem": "The centre opens on the fifteenth of ____.",
+          "answer": "March",
+          "answerAlt": [
+            "march"
+          ],
+          "refScript": "l_m3_p3_main",
+          "explanation": "It opens on the 15th of March."
+        },
+        {
+          "id": "l_m3_p3_q2",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Greg talking about a new youth centre. Complete the notes.",
+          "stem": "On Saturdays the centre is open from ten until ____.",
+          "answer": "four",
+          "answerAlt": [
+            "four",
+            "4"
+          ],
+          "refScript": "l_m3_p3_main",
+          "explanation": "Saturdays: ten until four."
+        },
+        {
+          "id": "l_m3_p3_q3",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Greg talking about a new youth centre. Complete the notes.",
+          "stem": "The homework club meets every Tuesday and ____.",
+          "answer": "Thursday",
+          "answerAlt": [
+            "thursday"
+          ],
+          "refScript": "l_m3_p3_main",
+          "explanation": "Homework club: Tuesday and Thursday."
+        },
+        {
+          "id": "l_m3_p3_q4",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Greg talking about a new youth centre. Complete the notes.",
+          "stem": "The photography course runs every ____ evening.",
+          "answer": "Wednesday",
+          "answerAlt": [
+            "wednesday"
+          ],
+          "refScript": "l_m3_p3_main",
+          "explanation": "Photography course: every Wednesday evening."
+        },
+        {
+          "id": "l_m3_p3_q5",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Greg talking about a new youth centre. Complete the notes.",
+          "stem": "Photography places are limited to ____ students per term.",
+          "answer": "twelve",
+          "answerAlt": [
+            "twelve",
+            "12"
+          ],
+          "refScript": "l_m3_p3_main",
+          "explanation": "Limited to twelve students per term."
+        },
+        {
+          "id": "l_m3_p3_q6",
+          "part": 3,
+          "type": "cloze",
+          "context": "You will hear Greg talking about a new youth centre. Complete the notes.",
+          "stem": "The centre is free for young people aged eleven to ____.",
+          "answer": "eighteen",
+          "answerAlt": [
+            "eighteen",
+            "18"
+          ],
+          "refScript": "l_m3_p3_main",
+          "explanation": "Free for ages 11–18."
+        },
+        {
+          "id": "l_m3_p4_q1",
+          "part": 4,
+          "type": "mcq",
+          "stem": "What does Anna's job involve?",
+          "options": [
+            "Looking after seabirds on an island.",
+            "Working in an office.",
+            "Guiding tourist boats."
+          ],
+          "answer": 0,
+          "refScript": "l_m3_p4_main",
+          "explanation": "She protects seabirds on Puffin Island."
+        },
+        {
+          "id": "l_m3_p4_q2",
+          "part": 4,
+          "type": "mcq",
+          "stem": "How did Anna find this job?",
+          "options": [
+            "Her university offered it.",
+            "She saw an advertisement.",
+            "A friend recommended her."
+          ],
+          "answer": 1,
+          "refScript": "l_m3_p4_main",
+          "explanation": "She saw an ad for island assistants and applied."
+        },
+        {
+          "id": "l_m3_p4_q3",
+          "part": 4,
+          "type": "mcq",
+          "stem": "How long has Anna worked with birds?",
+          "options": [
+            "Five years.",
+            "Twelve years.",
+            "Forty years."
+          ],
+          "answer": 1,
+          "refScript": "l_m3_p4_main",
+          "explanation": "Twelve years — she became head keeper five years ago."
+        },
+        {
+          "id": "l_m3_p4_q4",
+          "part": 4,
+          "type": "mcq",
+          "stem": "How many birds arrived on the island last year?",
+          "options": [
+            "About 4,000.",
+            "About 40,000.",
+            "About 400,000."
+          ],
+          "answer": 1,
+          "refScript": "l_m3_p4_main",
+          "explanation": "Last year there were about forty thousand."
+        },
+        {
+          "id": "l_m3_p4_q5",
+          "part": 4,
+          "type": "mcq",
+          "stem": "When can tourists visit the island?",
+          "options": [
+            "Between June and August.",
+            "All year round.",
+            "Only in winter."
+          ],
+          "answer": 0,
+          "refScript": "l_m3_p4_main",
+          "explanation": "The island opens to tourists June–August."
+        },
+        {
+          "id": "l_m3_p4_q6",
+          "part": 4,
+          "type": "mcq",
+          "stem": "What problem can winter bring?",
+          "options": [
+            "Too many visitors.",
+            "Boats can't reach her for a week.",
+            "The birds leave early."
+          ],
+          "answer": 1,
+          "refScript": "l_m3_p4_main",
+          "explanation": "During storms, boats can't reach her for a week."
+        }
+      ],
+      "scripts": {
+        "l_m3_p3_main": [
+          {
+            "speaker": "M",
+            "text": "Good evening, and welcome to tonight's meeting about the new youth centre in Harlow. I'm Greg, the centre manager, and I'll answer your questions after this introduction."
+          },
+          {
+            "speaker": "M",
+            "text": "The centre opens its doors on the fifteenth of March. We are open every weekday from three in the afternoon until nine at night, and on Saturdays from ten until four."
+          },
+          {
+            "speaker": "M",
+            "text": "What can you do here? There is a music studio where you can record your own songs, a games room with table tennis and pool, and a homework club every Tuesday and Thursday for anyone who needs a quiet place to study."
+          },
+          {
+            "speaker": "M",
+            "text": "The most popular activity is already the photography course, which runs every Wednesday evening. Places are limited to twelve students per term, so book early."
+          },
+          {
+            "speaker": "M",
+            "text": "Everything in the centre is free for young people aged eleven to eighteen. You only need to fill in a simple membership form at reception. For more information, visit harlowyouth.org or call zero-one-two-seven-nine, three-three-five, one-six — that's 01279 335 16."
+          }
+        ],
+        "l_m3_p4_main": [
+          {
+            "speaker": "W",
+            "text": "Today we're talking about an unusual job: being a lighthouse keeper... no, wait — being a modern lighthouse keeper? Actually, today's guest, Anna Reyes, has an even stranger job. She looks after a small island full of birds. Welcome, Anna."
+          },
+          {
+            "speaker": "W2",
+            "text": "Thank you! Yes, I live on Puffin Island, about two kilometres from the coast. My job is to protect the thousands of seabirds that come here every spring to have their babies."
+          },
+          {
+            "speaker": "W",
+            "text": "How did you start this work?"
+          },
+          {
+            "speaker": "W2",
+            "text": "I studied biology at university, but I didn't enjoy office life. I saw an advertisement for island assistants and applied — mostly as a joke! They chose me, and I've been working with birds for twelve years now. I became the head keeper five years ago."
+          },
+          {
+            "speaker": "W",
+            "text": "What is a typical day like?"
+          },
+          {
+            "speaker": "W2",
+            "text": "I wake up at five and walk around the island to check the birds. In spring, I count the new arrivals — last year we had about forty thousand! In the afternoon, I repair fences and write reports. And I talk to visitors — the island opens to tourists between June and August."
+          },
+          {
+            "speaker": "W",
+            "text": "Don't you get lonely?"
+          },
+          {
+            "speaker": "W2",
+            "text": "People always ask that! But I'm never lonely — there's always something to do, and my dog Sam is great company. Of course, winter storms can be difficult. Sometimes boats can't reach me for a week. But then the sun comes out, the sea turns blue, and I remember why I chose this life."
+          }
+        ]
+      }
+    },
+    "speaking": {
+      "parts": [
+        {
+          "part": 1,
+          "name": "Interview",
+          "desc": "Answer personal questions in full sentences.",
+          "time": "about 2 minutes",
+          "useful": [
+            "I usually ... but sometimes ...",
+            "The reason I like it is ..."
+          ],
+          "prompts": [
+            {
+              "q": "Tell me about your daily routine.",
+              "prep": 30,
+              "followUps": "Which part of the day do you enjoy most?"
+            },
+            {
+              "q": "What do you like doing with your family?",
+              "prep": 30,
+              "followUps": "When do you usually do it?"
+            },
+            {
+              "q": "Tell me about a place you'd like to visit one day.",
+              "prep": 30,
+              "followUps": "Why that place?"
+            }
+          ]
+        },
+        {
+          "part": 2,
+          "name": "Describe the photograph",
+          "desc": "Describe the photograph alone for about one minute.",
+          "time": "about 3 minutes",
+          "useful": [
+            "In the picture I can see ...",
+            "It looks like ..."
+          ],
+          "prompts": [
+            {
+              "q": "Describe a photograph of a group of friends playing volleyball on a beach. What can you see? What are they doing? How do they feel?",
+              "prep": 60
+            }
+          ]
+        },
+        {
+          "part": 3,
+          "name": "Collaborative task",
+          "desc": "Discuss with your partner and decide together.",
+          "time": "about 4 minutes",
+          "useful": [
+            "Why don't we ...?",
+            "That's a good idea, however ...",
+            "So, shall we agree on ...?"
+          ],
+          "prompts": [
+            {
+              "q": "A group of friends wants to organise a surprise party for their teacher. Talk together about the different things they could do for the party, and decide which would be the best.",
+              "prep": 60,
+              "followUps": "Ideas: a video with messages from students, a big cake, a photo album of the class, a picnic in the park, a song performed by the students."
+            }
+          ]
+        },
+        {
+          "part": 4,
+          "name": "Discussion",
+          "desc": "Give opinions with reasons.",
+          "time": "about 3 minutes",
+          "useful": [
+            "From my point of view, ...",
+            "It depends on ..."
+          ],
+          "prompts": [
+            {
+              "q": "Do teachers have a difficult job? Why?",
+              "prep": 30
+            },
+            {
+              "q": "Is it better to celebrate special days at school or at home? Why?",
+              "prep": 30
+            },
+            {
+              "q": "What makes a good teacher, in your opinion?",
+              "prep": 30
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

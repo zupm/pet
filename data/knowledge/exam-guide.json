@@ -1,0 +1,60 @@
+{
+  "id": "exam-guide",
+  "type": "guide",
+  "title": "Exam Format Guide",
+  "level": "B1",
+  "objective": "Know exactly what happens in each paper — no surprises on exam day.",
+  "sections": [
+    {
+      "heading": "Reading — 45 minutes, 6 parts, 32 questions",
+      "body": "**Part 1**: five short real-world texts (signs, messages). Three-option multiple choice.\n**Part 2**: matching — five people to eight descriptions (clubs, courses, books…).\n**Part 3**: five multiple-choice questions about a longer text (four options).\n**Part 4**: gapped text — five gaps, four options each (vocabulary in context).\n**Part 5**: multiple-choice cloze — six gaps, four similar-word options.\n**Part 6**: open cloze — six gaps, you write exactly one word per gap.\nMarks: 1 per correct answer. Read instructions carefully and transfer answers accurately.",
+      "bodyZh": "阅读45分钟，6部分32题。第1部分：短文本三选一；第2部分：配对（5人对8选项）；第3部分：长文四选一；第4部分：五空四选一；第5部分：六空近义四选一；第6部分：六空开放式填空（每空一词）。",
+      "tip": "Time guide: Parts 1–2 (10 min), Part 3 (10 min), Parts 4–5 (12 min), Part 6 (8 min), checking (5 min)."
+    },
+    {
+      "heading": "Writing — 45 minutes, 2 parts",
+      "body": "**Part 1** (compulsory): reply to an email of about 100 words. You must cover all four content points.\n**Part 2**: choose ONE task — an article or a story, about 100 words.\nYou are marked on Content, Communicative Achievement, Organisation and Language. Spend about 20–25 minutes on Part 1 and the rest on Part 2.",
+      "bodyZh": "写作45分钟，2部分。第1部分必做：回复邮件约100词，四个内容点都要覆盖；第2部分二选一：文章或故事约100词。评分看内容、交际效果、组织和语言。",
+      "tip": "Plan 2–3 minutes before writing. Check the four content points one by one before moving on."
+    },
+    {
+      "heading": "Listening — about 30 minutes, 4 parts, 25 questions",
+      "body": "**Part 1**: seven short recordings, three picture options each.\n**Part 2**: six short recordings, three-option multiple choice (main idea/detail).\n**Part 3**: gap fill — six gaps in notes from a longer recording; write a word, number, date or time.\n**Part 4**: six three-option questions about a longer interview or talk.\nEach recording is played **twice**. You have a few seconds before each part to read the questions.",
+      "bodyZh": "听力约30分钟，4部分25题。第1部分：7段短录音配图片三选一；第2部分：6段短录音三选一；第3部分：长录音笔记填空6题（写词、数字、日期或时间）；第4部分：长访谈6道三选一。每段录音放两遍。",
+      "tip": "Use the pre-listening seconds to predict: underline what you must listen for (name? number? reason?)."
+    },
+    {
+      "heading": "Speaking — 10–12 minutes, 4 parts (two candidates together)",
+      "body": "**Part 1** (~2 min): the interlocutor asks you personal questions (name, home, hobbies, daily life).\n**Part 2** (~3 min): describe a photograph for about one minute; your partner listens.\n**Part 3** (~4 min): collaborative task — discuss picture prompts with your partner and reach a decision.\n**Part 4** (~3 min): conversation about the Part 3 topic (opinions, experiences).\nYou are marked on Grammar & Vocabulary, Pronunciation, Discourse Management and Interactive Communication.",
+      "bodyZh": "口语10-12分钟，4部分，两名考生一起。第1部分：个人问题；第2部分：看图描述约一分钟；第3部分：合作任务，与同伴讨论图片并达成一致；第4部分：围绕第3部分话题的讨论。",
+      "tip": "Never just answer — extend! Add a reason or example, then invite your partner: What do you think?"
+    },
+    {
+      "heading": "Scoring & results",
+      "body": "Each of the four skills gets a Cambridge Scale score (120–170). Your overall result is the average of the four.\n**140–159** = Pass (B1 certificate) · **160–170** = Pass with Distinction (shows B2 ability) · **120–139** = A2 level certificate.\nThere is no fail certificate below 120.",
+      "bodyZh": "每项技能得到一个剑桥量表分（120-170），总成绩是四项平均。140-159 通过（B1证书）；160-170 优秀（显示B2水平）；120-139 获A2证书。",
+      "tip": "Aim for 145+ in every mock section to give yourself a safety margin."
+    }
+  ],
+  "commonErrors": [],
+  "summary": {
+    "keyPoints": [
+      "Reading 45 min / 32 q · Writing 45 min / 2 tasks · Listening ~30 min / 25 q · Speaking 10–12 min.",
+      "Reading Part 6 and Listening Part 3 are written answers — spelling counts.",
+      "Speaking is paired: interact, don't monologue.",
+      "Pass = 140 average on the Cambridge Scale."
+    ],
+    "mustKnow": [
+      "45/45/30/12 minutes",
+      "32 + 2 + 25 questions",
+      "pass = 140"
+    ]
+  },
+  "linkedPractice": [
+    "reading",
+    "writing",
+    "listening",
+    "speaking"
+  ],
+  "reviewItems": []
+}

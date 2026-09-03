@@ -1,0 +1,161 @@
+{
+  "id": "vocab-travel",
+  "type": "vocab",
+  "title": "Vocabulary: Travel & Transport",
+  "topic": "travel",
+  "objective": "Essential words for holidays, journeys and getting around — PET Listening loves this topic.",
+  "sections": [],
+  "items": [
+    {
+      "id": "v_trv_001",
+      "word": "departure",
+      "pos": "noun",
+      "phonetic": "/dɪˈpɑːtʃər/",
+      "meaning": "the act of leaving; the time a train/plane leaves",
+      "meaningZh": "出发；（航班）起飞",
+      "example": "Check the departure time on the screen.",
+      "exampleZh": "看屏幕上的出发时间。"
+    },
+    {
+      "id": "v_trv_002",
+      "word": "platform",
+      "pos": "noun",
+      "phonetic": "/ˈplætfɔːm/",
+      "meaning": "where you wait for a train",
+      "meaningZh": "站台",
+      "example": "The train to Leeds leaves from platform 4.",
+      "exampleZh": "去利兹的火车从4号站台发车。"
+    },
+    {
+      "id": "v_trv_003",
+      "word": "luggage",
+      "pos": "noun (uncountable)",
+      "phonetic": "/ˈlʌɡɪdʒ/",
+      "meaning": "bags and suitcases for travelling",
+      "meaningZh": "行李",
+      "example": "You can take one piece of luggage on the bus.",
+      "exampleZh": "坐巴士可以带一件行李。"
+    },
+    {
+      "id": "v_trv_004",
+      "word": "destination",
+      "pos": "noun",
+      "phonetic": "/ˌdestɪˈneɪʃn/",
+      "meaning": "the place you are going to",
+      "meaningZh": "目的地",
+      "example": "Our final destination was a small village in the Alps.",
+      "exampleZh": "我们的最终目的地是阿尔卑斯山里的一个小村庄。"
+    },
+    {
+      "id": "v_trv_005",
+      "word": "book",
+      "pos": "verb",
+      "phonetic": "/bʊk/",
+      "meaning": "to arrange and pay for a ticket, room, etc. in advance",
+      "meaningZh": "预订",
+      "example": "We booked the flights two months ago.",
+      "exampleZh": "我们两个月前就订了机票。"
+    },
+    {
+      "id": "v_trv_006",
+      "word": "delay",
+      "pos": "noun / verb",
+      "phonetic": "/dɪˈleɪ/",
+      "meaning": "when something is late; to make late",
+      "meaningZh": "延误",
+      "example": "There was a two-hour delay because of the snow.",
+      "exampleZh": "因为下雪延误了两个小时。"
+    },
+    {
+      "id": "v_trv_007",
+      "word": "abroad",
+      "pos": "adverb",
+      "phonetic": "/əˈbrɔːd/",
+      "meaning": "in or to another country",
+      "meaningZh": "在国外",
+      "example": "They're going abroad for the summer.",
+      "exampleZh": "他们要去国外过夏天。"
+    },
+    {
+      "id": "v_trv_008",
+      "word": "sightseeing",
+      "pos": "noun",
+      "phonetic": "/ˈsaɪtsiːɪŋ/",
+      "meaning": "visiting famous places as a tourist",
+      "meaningZh": "观光",
+      "example": "We spent the whole day sightseeing in London.",
+      "exampleZh": "我们在伦敦观光了一整天。"
+    },
+    {
+      "id": "v_trv_009",
+      "word": "souvenir",
+      "pos": "noun",
+      "phonetic": "/ˌsuːvəˈnɪər/",
+      "meaning": "something you buy to remember a place",
+      "meaningZh": "纪念品",
+      "example": "I bought a small souvenir from the museum shop.",
+      "exampleZh": "我在博物馆商店买了个小纪念品。"
+    },
+    {
+      "id": "v_trv_010",
+      "word": "accommodation",
+      "pos": "noun",
+      "phonetic": "/əˌkɒməˈdeɪʃn/",
+      "meaning": "a place to stay (hotel, flat, etc.)",
+      "meaningZh": "住宿",
+      "example": "The price includes travel and accommodation.",
+      "exampleZh": "价格包含交通和住宿。"
+    },
+    {
+      "id": "v_trv_011",
+      "word": "return ticket",
+      "pos": "noun",
+      "phonetic": "/rɪˈtɜːn ˈtɪkɪt/",
+      "meaning": "a ticket for going somewhere and coming back",
+      "meaningZh": "往返票",
+      "example": "A return ticket is cheaper than two singles.",
+      "exampleZh": "往返票比两张单程票便宜。"
+    },
+    {
+      "id": "v_trv_012",
+      "word": "boarding pass",
+      "pos": "noun",
+      "phonetic": "/ˈbɔːdɪŋ pɑːs/",
+      "meaning": "the document you need to get on a plane",
+      "meaningZh": "登机牌",
+      "example": "Please have your boarding pass ready.",
+      "exampleZh": "请准备好登机牌。"
+    }
+  ],
+  "summary": {
+    "keyPoints": [
+      "Learn each word with its example sentence — context is what PET tests.",
+      "Say the word aloud, then use it in your own sentence about your life.",
+      "Review these words in the flashcard system until they reach mastered."
+    ],
+    "mustKnow": [
+      "departure",
+      "platform",
+      "luggage",
+      "destination",
+      "book"
+    ]
+  },
+  "linkedPractice": [
+    "review"
+  ],
+  "reviewItems": [
+    "v_trv_001",
+    "v_trv_002",
+    "v_trv_003",
+    "v_trv_004",
+    "v_trv_005",
+    "v_trv_006",
+    "v_trv_007",
+    "v_trv_008",
+    "v_trv_009",
+    "v_trv_010",
+    "v_trv_011",
+    "v_trv_012"
+  ]
+}

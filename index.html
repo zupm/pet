@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="description" content="PET English Exam Trainer - Cambridge B1 Preliminary exam preparation">
+  <title>PET English Exam Trainer</title>
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/exam.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%232563eb'/%3E%3Ctext x='16' y='22' font-size='16' font-family='sans-serif' font-weight='bold' fill='white' text-anchor='middle'%3EB1%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+  <a class="skip-link" href="#view">Skip to content</a>
+  <header class="app-header">
+    <a class="brand" href="#/dashboard" aria-label="PET Trainer home">
+      <span class="brand-badge" aria-hidden="true">B1</span>
+      <span class="brand-text">PET Trainer</span>
+    </a>
+    <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation" aria-expanded="false">☰</button>
+    <nav class="app-nav" id="appNav" aria-label="Main navigation">
+      <a href="#/dashboard" data-nav="dashboard">Dashboard</a>
+      <a href="#/knowledge" data-nav="knowledge">Knowledge</a>
+      <a href="#/practice" data-nav="practice">Practice</a>
+      <a href="#/mocks" data-nav="mocks">Mock Exams</a>
+      <a href="#/review" data-nav="review">Review</a>
+      <a href="#/stats" data-nav="stats">Stats</a>
+    </nav>
+  </header>
+  <main id="view" tabindex="-1"></main>
+  <div id="modalRoot" aria-live="polite"></div>
+  <div id="toastRoot" class="toast-root" aria-live="polite"></div>
+  <footer class="app-footer">
+    <span id="footerVersion">PET Trainer</span>
+    <span class="footer-sep">·</span>
+    <span>Cambridge B1 Preliminary preparation</span>
+  </footer>
+  <script src="js/storage.js"></script>
+  <script src="js/dataLoader.js"></script>
+  <script src="js/scoring.js"></script>
+  <script src="js/timer.js"></script>
+  <script src="js/audio.js"></script>
+  <script src="js/pages/dashboard.js"></script>
+  <script src="js/pages/knowledge.js"></script>
+  <script src="js/pages/practice.js"></script>
+  <script src="js/pages/mockexam.js"></script>
+  <script src="js/pages/review.js"></script>
+  <script src="js/pages/stats.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

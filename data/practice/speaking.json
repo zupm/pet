@@ -1,0 +1,116 @@
+{
+  "skill": "speaking",
+  "description": "Prompt bank for all four PET Speaking parts, with useful language and practice timers.",
+  "parts": [
+    {
+      "part": 1,
+      "name": "Interview",
+      "desc": "The interlocutor asks you personal questions. Answer in full sentences: answer + reason or detail.",
+      "time": "about 2 minutes",
+      "useful": [
+        "I live with ... / I spend most of my free time ...",
+        "What I like best about it is ...",
+        "It depends — usually ..., but sometimes ..."
+      ],
+      "prompts": [
+        {
+          "q": "What's your name? Where do you live?",
+          "prep": 30,
+          "followUps": "Tell me about your home town. Do you like living there?"
+        },
+        {
+          "q": "Tell me about your family or your friends.",
+          "prep": 30,
+          "followUps": "What do you usually do together at weekends?"
+        },
+        {
+          "q": "What do you enjoy doing in your free time?",
+          "prep": 30,
+          "followUps": "How did you become interested in it?"
+        },
+        {
+          "q": "Tell me about your school or your work.",
+          "prep": 30,
+          "followUps": "What would you like to change about it?"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "name": "Describe the photograph",
+      "desc": "Describe a photograph alone for about one minute. Say what you can see, where it might be, and what the people might be feeling.",
+      "time": "about 3 minutes",
+      "useful": [
+        "In the picture I can see ...",
+        "In the foreground / background there is ...",
+        "They might be ... because ... · Perhaps they feel ..."
+      ],
+      "prompts": [
+        {
+          "q": "Describe a photograph of two friends having a picnic in a park on a sunny day. What can you see? What are they doing? How do they feel?",
+          "prep": 60
+        },
+        {
+          "q": "Describe a photograph of a family cooking together in a kitchen. What can you see? Why might they be cooking together?",
+          "prep": 60
+        },
+        {
+          "q": "Describe a photograph of a young person taking photos of a market street. What can you see? What do you think happens next?",
+          "prep": 60
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "name": "Collaborative task",
+      "desc": "Discuss the ideas with your partner, give opinions, react, and decide together. Talk WITH your partner — ask their opinion!",
+      "time": "about 4 minutes",
+      "useful": [
+        "Why don't we choose ...? · How about ...?",
+        "That's a good idea, but ... · I see what you mean, however ...",
+        "Shall we agree on ... then?"
+      ],
+      "prompts": [
+        {
+          "q": "A school is planning a special day for new students. Talk together about the different ways the school could welcome them, and decide which would be the most enjoyable.",
+          "prep": 60,
+          "followUps": "Ideas: a sports afternoon, a treasure hunt around the school, a party with music, a video made by students, a picnic in the park."
+        },
+        {
+          "q": "Two friends want to give their grandmother a surprise birthday present. Talk together about the different presents they could give her, and decide which would be the best.",
+          "prep": 60,
+          "followUps": "Ideas: a photo album, tickets to a concert, a meal at a restaurant, a home-made cake and card, a weekend trip."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "name": "Discussion",
+      "desc": "Answer questions connected to the Part 3 topic. Give opinions with reasons and examples; extend every answer.",
+      "time": "about 3 minutes",
+      "useful": [
+        "In my opinion, ... because ...",
+        "I think it depends on ...",
+        "I agree up to a point, but ..."
+      ],
+      "prompts": [
+        {
+          "q": "Do you think it's important for schools to organise special activities for new students? Why?",
+          "prep": 30
+        },
+        {
+          "q": "Some people say home-made presents are better than expensive ones. What do you think?",
+          "prep": 30
+        },
+        {
+          "q": "Is it better to celebrate birthdays with family or with friends? Why?",
+          "prep": 30
+        },
+        {
+          "q": "Would you prefer to receive a surprise present or choose it yourself? Why?",
+          "prep": 30
+        }
+      ]
+    }
+  ]
+}

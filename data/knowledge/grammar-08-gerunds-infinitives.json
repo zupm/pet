@@ -1,0 +1,96 @@
+{
+  "id": "grammar-08",
+  "type": "grammar",
+  "title": "Gerunds & Infinitives",
+  "objective": "Know which verbs take -ing and which take to + infinitive — a favourite PET testing point.",
+  "sections": [
+    {
+      "heading": "Verbs + -ing",
+      "body": "These verbs are followed by `-ing`: enjoy, finish, stop, mind, suggest, practise, keep, avoid, feel like.\n`I enjoy reading.` `Have you finished writing?` `She suggested going by train.`\nAfter prepositions, always use `-ing`: `interested in`, `good at`, `thanks for`, `before leaving`.",
+      "bodyZh": "enjoy、finish、stop、mind、suggest、practise、keep、avoid、feel like 后接 -ing。介词后也一律用 -ing。",
+      "examples": [
+        {
+          "en": "I'm interested in learning about other cultures.",
+          "zh": "我对了解其他文化感兴趣。"
+        },
+        {
+          "en": "Do you mind waiting for ten minutes?",
+          "zh": "你介意等十分钟吗？"
+        }
+      ],
+      "tip": "Preposition + -ing is a gold rule: good at drawing, afraid of flying, instead of complaining."
+    },
+    {
+      "heading": "Verbs + to + infinitive",
+      "body": "These verbs are followed by `to + infinitive`: want, hope, decide, plan, learn, offer, promise, would like, need.\n`We decided to stay at home.` `She hopes to become a nurse.` `Would you like to come with us?`",
+      "bodyZh": "want、hope、decide、plan、learn、offer、promise、would like、need 后接 to + 动词原形。",
+      "examples": [
+        {
+          "en": "I'm learning to cook Italian food.",
+          "zh": "我在学做意大利菜。"
+        },
+        {
+          "en": "He promised to help me move house.",
+          "zh": "他答应帮我搬家。"
+        }
+      ],
+      "tip": "would like / would love + to is the polite form for invitations: Would you like to join us?"
+    },
+    {
+      "heading": "Verbs with both (meaning changes)",
+      "body": "`stop doing` = quit the activity: `He stopped smoking.`\n`stop to do` = stop in order to do something else: `He stopped to smoke.` (= he stopped walking in order to smoke)\n`remember/forget doing` = memory of the past · `remember/forget to do` = task/duty.\n`try doing` = experiment · `try to do` = attempt with effort.",
+      "bodyZh": "stop doing 停止做某事；stop to do 停下来去做另一件事。remember/forget doing 记得/忘记做过；remember/forget to do 记得/忘记要去做。",
+      "examples": [
+        {
+          "en": "Don't forget to lock the door when you leave.",
+          "zh": "离开时别忘了锁门。"
+        },
+        {
+          "en": "I remember visiting this castle as a child.",
+          "zh": "我记得小时候参观过这座城堡。"
+        }
+      ],
+      "tip": "stop to do vs stop doing appears in multiple-choice cloze almost every year. Learn the pair!"
+    }
+  ],
+  "commonErrors": [
+    {
+      "wrong": "I enjoy to play football.",
+      "right": "I enjoy playing football.",
+      "why": "enjoy takes -ing."
+    },
+    {
+      "wrong": "She wants going home.",
+      "right": "She wants to go home.",
+      "why": "want takes to + infinitive."
+    },
+    {
+      "wrong": "I'm good in maths.",
+      "right": "I'm good at maths.",
+      "why": "The fixed preposition is at."
+    },
+    {
+      "wrong": "Don't forget locking the door. (meaning: the task)",
+      "right": "Don't forget to lock the door.",
+      "why": "For duties/tasks use to + infinitive."
+    }
+  ],
+  "summary": {
+    "keyPoints": [
+      "-ing verbs: enjoy, finish, stop, mind, suggest, practise.",
+      "to + infinitive verbs: want, hope, decide, plan, would like.",
+      "Prepositions are always followed by -ing.",
+      "stop/remember/forget/try change meaning with -ing vs to."
+    ],
+    "mustKnow": [
+      "enjoy doing",
+      "want to do",
+      "good at",
+      "stopped to do / stopped doing"
+    ]
+  },
+  "linkedPractice": [
+    "reading"
+  ],
+  "reviewItems": []
+}

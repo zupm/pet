@@ -1,0 +1,139 @@
+{
+  "id": "vocab-environment",
+  "type": "vocab",
+  "title": "Vocabulary: Environment",
+  "topic": "environment",
+  "objective": "Words for nature, weather and protecting the planet — common in PET articles.",
+  "sections": [],
+  "items": [
+    {
+      "id": "v_env_001",
+      "word": "environment",
+      "pos": "noun",
+      "phonetic": "/ɪnˈvaɪrənmənt/",
+      "meaning": "the natural world around us",
+      "meaningZh": "环境",
+      "example": "We must look after the environment.",
+      "exampleZh": "我们必须爱护环境。"
+    },
+    {
+      "id": "v_env_002",
+      "word": "pollution",
+      "pos": "noun",
+      "phonetic": "/pəˈluːʃn/",
+      "meaning": "damage to air, water or land",
+      "meaningZh": "污染",
+      "example": "Air pollution is a serious problem in big cities.",
+      "exampleZh": "空气污染在大城市是个严重问题。"
+    },
+    {
+      "id": "v_env_003",
+      "word": "recycle",
+      "pos": "verb",
+      "phonetic": "/ˌriːˈsaɪkl/",
+      "meaning": "to treat used materials so they can be used again",
+      "meaningZh": "回收利用",
+      "example": "We recycle paper, glass and plastic at home.",
+      "exampleZh": "我们在家里回收纸张、玻璃和塑料。"
+    },
+    {
+      "id": "v_env_004",
+      "word": "litter",
+      "pos": "noun",
+      "phonetic": "/ˈlɪtər/",
+      "meaning": "rubbish left in public places",
+      "meaningZh": "垃圾（公共场所）",
+      "example": "Please pick up your litter in the park.",
+      "exampleZh": "请把公园里的垃圾捡起来。"
+    },
+    {
+      "id": "v_env_005",
+      "word": "protect",
+      "pos": "verb",
+      "phonetic": "/prəˈtekt/",
+      "meaning": "to keep safe from harm",
+      "meaningZh": "保护",
+      "example": "The forest is protected by law.",
+      "exampleZh": "这片森林受法律保护。"
+    },
+    {
+      "id": "v_env_006",
+      "word": "species",
+      "pos": "noun",
+      "phonetic": "/ˈspiːʃiːz/",
+      "meaning": "a group of similar animals or plants",
+      "meaningZh": "物种",
+      "example": "Some species of birds are disappearing.",
+      "exampleZh": "一些鸟类物种正在消失。"
+    },
+    {
+      "id": "v_env_007",
+      "word": "wildlife",
+      "pos": "noun",
+      "phonetic": "/ˈwaɪldlaɪf/",
+      "meaning": "animals and plants living in natural conditions",
+      "meaningZh": "野生动植物",
+      "example": "The island is famous for its wildlife.",
+      "exampleZh": "这座岛以野生动植物闻名。"
+    },
+    {
+      "id": "v_env_008",
+      "word": "global warming",
+      "pos": "noun",
+      "phonetic": "/ˌɡləʊbl ˈwɔːmɪŋ/",
+      "meaning": "the rise in the Earth's temperature",
+      "meaningZh": "全球变暖",
+      "example": "Global warming is changing the weather patterns.",
+      "exampleZh": "全球变暖正在改变气候模式。"
+    },
+    {
+      "id": "v_env_009",
+      "word": "energy",
+      "pos": "noun",
+      "phonetic": "/ˈenədʒi/",
+      "meaning": "power from the sun, wind, etc.; electricity",
+      "meaningZh": "能源",
+      "example": "Solar energy is clean and cheap.",
+      "exampleZh": "太阳能清洁又便宜。"
+    },
+    {
+      "id": "v_env_010",
+      "word": "waste",
+      "pos": "noun / verb",
+      "phonetic": "/weɪst/",
+      "meaning": "things you throw away; to use badly",
+      "meaningZh": "废物；浪费",
+      "example": "Don't waste water when you brush your teeth.",
+      "exampleZh": "刷牙时别浪费水。"
+    }
+  ],
+  "summary": {
+    "keyPoints": [
+      "Learn each word with its example sentence — context is what PET tests.",
+      "Say the word aloud, then use it in your own sentence about your life.",
+      "Review these words in the flashcard system until they reach mastered."
+    ],
+    "mustKnow": [
+      "environment",
+      "pollution",
+      "recycle",
+      "litter",
+      "protect"
+    ]
+  },
+  "linkedPractice": [
+    "review"
+  ],
+  "reviewItems": [
+    "v_env_001",
+    "v_env_002",
+    "v_env_003",
+    "v_env_004",
+    "v_env_005",
+    "v_env_006",
+    "v_env_007",
+    "v_env_008",
+    "v_env_009",
+    "v_env_010"
+  ]
+}

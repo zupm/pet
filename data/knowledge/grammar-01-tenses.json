@@ -1,0 +1,96 @@
+{
+  "id": "grammar-01",
+  "type": "grammar",
+  "title": "Present & Past Tenses",
+  "objective": "Choose correctly between present simple/continuous, past simple/continuous and present perfect at B1 level.",
+  "sections": [
+    {
+      "heading": "Present Simple vs Present Continuous",
+      "body": "Use the **Present Simple** for facts, habits and timetables: `She works in a bank.` `The train leaves at 9.15.`\nUse the **Present Continuous** for actions happening now or around now, and fixed future arrangements: `I'm studying for my exam this week.` `We're flying to Rome on Friday.`",
+      "bodyZh": "一般现在时用于事实、习惯和时刻表；现在进行时用于此刻或近期正在发生的事，以及已安排好的将来计划。",
+      "examples": [
+        {
+          "en": "My sister usually walks to school, but today she is taking the bus.",
+          "zh": "我妹妹通常走路去上学，但今天她坐公交车。"
+        },
+        {
+          "en": "What are you doing this evening? I'm meeting some friends.",
+          "zh": "你今晚做什么？我要和几个朋友见面。"
+        }
+      ],
+      "tip": "Stative verbs (know, like, believe, understand, want) almost never take the continuous form. Say `I know`, not `I am knowing`."
+    },
+    {
+      "heading": "Past Simple vs Past Continuous",
+      "body": "Use the **Past Simple** for finished actions at a known time: `We arrived at six.`\nUse the **Past Continuous** for a background action in progress when something else happened: `While I was waiting for the bus, it started to rain.`",
+      "bodyZh": "一般过去时用于在明确时间完成的动作；过去进行时用于另一件事发生时正在进行的背景动作。",
+      "examples": [
+        {
+          "en": "She was reading a book when the phone rang.",
+          "zh": "电话响时，她正在看书。"
+        },
+        {
+          "en": "We didn't go out because it was raining.",
+          "zh": "我们没出门，因为当时正在下雨。"
+        }
+      ],
+      "tip": "In exam stories, the classic pattern is: Past Continuous (background) + when + Past Simple (sudden event)."
+    },
+    {
+      "heading": "Present Perfect",
+      "body": "Use the **Present Perfect** (`have/has + past participle`) for life experience, recent events with present results, and unfinished time periods. Typical signals: `ever, never, just, already, yet, since, for`.\n`I have never been to Japan.` `She has just finished her homework.` `We have lived here since 2019.`",
+      "bodyZh": "现在完成时（have/has + 过去分词）用于人生经历、对现在有影响的近期事件和尚未结束的时间段。常见信号词：ever、never、just、already、yet、since、for。",
+      "examples": [
+        {
+          "en": "Have you ever eaten sushi? — Yes, I've tried it twice.",
+          "zh": "你吃过寿司吗？——吃过，我试过两次。"
+        },
+        {
+          "en": "I can't pay for the coffee. I've lost my wallet!",
+          "zh": "我付不了咖啡钱。我把钱包弄丢了！"
+        }
+      ],
+      "tip": "Never use the Present Perfect with a finished past time word. `I have seen him yesterday` is wrong — say `I saw him yesterday`."
+    }
+  ],
+  "commonErrors": [
+    {
+      "wrong": "I am knowing the answer.",
+      "right": "I know the answer.",
+      "why": "'know' is a stative verb; it is not used in the continuous form."
+    },
+    {
+      "wrong": "I have seen that film last week.",
+      "right": "I saw that film last week.",
+      "why": "'last week' is a finished time — use Past Simple."
+    },
+    {
+      "wrong": "She is having long hair.",
+      "right": "She has long hair.",
+      "why": "'have' for possession is stative."
+    },
+    {
+      "wrong": "When I was arriving, he left.",
+      "right": "When I arrived, he left.",
+      "why": "Two short completed actions both take Past Simple."
+    }
+  ],
+  "summary": {
+    "keyPoints": [
+      "Present Simple = facts, habits, timetables.",
+      "Present Continuous = now / around now / future arrangements.",
+      "Past Continuous sets the scene; Past Simple is the event.",
+      "Present Perfect connects past and present — never with finished time words."
+    ],
+    "mustKnow": [
+      "work(s) / is working",
+      "went / was going",
+      "has lived since",
+      "have you ever"
+    ]
+  },
+  "linkedPractice": [
+    "reading"
+  ],
+  "reviewItems": []
+}

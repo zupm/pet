@@ -1,0 +1,66 @@
+{
+  "title": "Grammar Cheat Sheet",
+  "description": "The whole B1 grammar syllabus on one page. Perfect for the night before the exam.",
+  "blocks": [
+    {
+      "heading": "Tenses in one look",
+      "items": [
+        "Present Simple — facts, habits, timetables: The bus leaves at eight.",
+        "Present Continuous — now, around now, arrangements: I'm staying with friends this week.",
+        "Past Simple — finished time: We visited Krakow in June.",
+        "Past Continuous — scene-setting: It was raining when we arrived.",
+        "Present Perfect — experience / present results, no finished time: I've never broken a bone."
+      ],
+      "tip": "Finished time word (yesterday, in 2019, last week) = Past Simple. No exceptions."
+    },
+    {
+      "heading": "Conditionals",
+      "items": [
+        "Zero: If you heat water, it boils.",
+        "First: If it rains, we'll stay in.",
+        "Second: If I won the lottery, I'd buy a boat.",
+        "unless = if ... not · Time clauses take present simple: I'll phone you when I land."
+      ]
+    },
+    {
+      "heading": "Passive",
+      "items": [
+        "be + past participle: is made, was built, will be delivered.",
+        "Use it when the action matters more than the doer.",
+        "Modals: must be worn, can be found."
+      ]
+    },
+    {
+      "heading": "Reported speech",
+      "items": [
+        "Backshift: like → liked, is working → was working, will → would.",
+        "Questions → statement order: She asked where I lived.",
+        "say + clause · tell + person · told me (not) to do."
+      ]
+    },
+    {
+      "heading": "Modals",
+      "items": [
+        "must / have to = obligation · mustn't = NO! · don't have to = not necessary.",
+        "should = advice · might/may = maybe · can = ability · could = polite.",
+        "Modals + bare infinitive (no to)."
+      ]
+    },
+    {
+      "heading": "Comparisons",
+      "items": [
+        "-er than / more ... than · the -est / the most ...",
+        "good-better-best · bad-worse-worst · far-further.",
+        "as ... as · not as ... as · too + adj · adj + enough."
+      ]
+    },
+    {
+      "heading": "Verb patterns",
+      "items": [
+        "-ing: enjoy, finish, stop, mind, suggest + prepositions.",
+        "to + infinitive: want, hope, decide, plan, would like.",
+        "stop doing (quit) vs stop to do (pause for a purpose)."
+      ]
+    }
+  ]
+}

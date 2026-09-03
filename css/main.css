@@ -1,0 +1,249 @@
+/* ==========================================================================
+   PET Trainer - main.css
+   Theme variables, app shell layout, responsive breakpoints.
+   Breakpoints (per AGENTS.md, breakpoint rules live here ONLY):
+     <= 767px    phone (best-effort)
+     768-1279px  pad (touch-first)
+     >= 1280px   desktop
+   ========================================================================== */
+
+:root {
+  /* Palette */
+  --c-bg: #f4f6fb;
+  --c-surface: #ffffff;
+  --c-surface-2: #eef2f9;
+  --c-border: #dbe2ee;
+  --c-text: #1e293b;
+  --c-text-soft: #52607a;
+  --c-text-faint: #8b96ab;
+  --c-primary: #2563eb;
+  --c-primary-hover: #1d4fd8;
+  --c-primary-soft: #e3edfd;
+  --c-success: #16a34a;
+  --c-success-soft: #e5f6ec;
+  --c-danger: #dc2626;
+  --c-danger-soft: #fdeaea;
+  --c-warning: #d97706;
+  --c-warning-soft: #fdf1dd;
+  --c-accent: #7c3aed;
+  --c-accent-soft: #f0e9fd;
+  --c-gold: #f59e0b;
+
+  /* Typography */
+  --font-main: "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "Cascadia Code", Consolas, "Courier New", monospace;
+  --fs-body: 16px;
+  --fs-small: 14px;
+  --fs-h1: 28px;
+  --fs-h2: 22px;
+  --fs-h3: 18px;
+  --lh: 1.55;
+
+  /* Geometry */
+  --radius: 10px;
+  --radius-sm: 6px;
+  --shadow: 0 1px 3px rgba(16, 24, 40, .08), 0 4px 14px rgba(16, 24, 40, .06);
+  --shadow-lg: 0 8px 30px rgba(16, 24, 40, .16);
+  --header-h: 56px;
+  --tap: 44px; /* minimum touch target */
+  --content-max: 1200px;
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: var(--fs-body); }
+
+body {
+  margin: 0;
+  font-family: var(--font-main);
+  background: var(--c-bg);
+  color: var(--c-text);
+  line-height: var(--lh);
+  -webkit-text-size-adjust: 100%;
+}
+
+/* ---------- Header & nav ---------- */
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  height: var(--header-h);
+  padding: 0 16px;
+  background: var(--c-surface);
+  border-bottom: 1px solid var(--c-border);
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: var(--c-text);
+  font-weight: 700;
+}
+
+.brand-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  background: var(--c-primary);
+  color: #fff;
+  font-size: 14px;
+}
+
+.app-nav { display: flex; gap: 4px; margin-left: auto; }
+
+.app-nav a {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--tap);
+  padding: 0 12px;
+  border-radius: var(--radius-sm);
+  color: var(--c-text-soft);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: var(--fs-small);
+}
+
+.app-nav a:hover { background: var(--c-surface-2); color: var(--c-text); }
+.app-nav a.active { background: var(--c-primary-soft); color: var(--c-primary); }
+
+.nav-toggle {
+  display: none;
+  margin-left: auto;
+  min-width: var(--tap);
+  min-height: var(--tap);
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius-sm);
+  background: var(--c-surface);
+  font-size: 20px;
+  cursor: pointer;
+}
+
+/* ---------- Layout ---------- */
+#view {
+  max-width: var(--content-max);
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+  outline: none;
+}
+
+.app-footer {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 18px 16px 26px;
+  color: var(--c-text-faint);
+  font-size: var(--fs-small);
+}
+
+.footer-sep { opacity: .6; }
+
+.page-title {
+  margin: 0 0 4px;
+  font-size: var(--fs-h1);
+  line-height: 1.25;
+}
+
+.page-sub {
+  margin: 0 0 20px;
+  color: var(--c-text-soft);
+}
+
+.section-title {
+  margin: 28px 0 12px;
+  font-size: var(--fs-h2);
+}
+
+.grid { display: grid; gap: 16px; }
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 100;
+  padding: 10px 16px;
+  background: var(--c-primary);
+  color: #fff;
+}
+.skip-link:focus { left: 8px; top: 8px; border-radius: var(--radius-sm); }
+
+/* Focus visibility (accessibility) */
+:focus-visible {
+  outline: 3px solid var(--c-primary);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Utility helpers (breakpoint-independent layout atoms) */
+.row { display: flex; align-items: center; gap: 12px; }
+.row-wrap { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.spacer { flex: 1; }
+.muted { color: var(--c-text-soft); }
+.faint { color: var(--c-text-faint); }
+.small { font-size: var(--fs-small); }
+.center { text-align: center; }
+.mt0 { margin-top: 0; }
+.mb0 { margin-bottom: 0; }
+
+/* ---------- Breakpoints ---------- */
+
+/* Desktop: >= 1280px - dense multi-column layouts */
+@media (min-width: 1280px) {
+  :root { --fs-body: 16px; }
+  .grid-cards { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+  .grid-2 { grid-template-columns: repeat(2, 1fr); }
+  .grid-3 { grid-template-columns: repeat(3, 1fr); }
+  .grid-4 { grid-template-columns: repeat(4, 1fr); }
+}
+
+/* Pad: 768-1279px - touch-first, larger targets, 2-column grids */
+@media (min-width: 768px) and (max-width: 1279px) {
+  :root { --fs-body: 17px; }
+  .grid-cards { grid-template-columns: repeat(2, 1fr); }
+  .grid-2 { grid-template-columns: repeat(2, 1fr); }
+  .grid-3 { grid-template-columns: repeat(2, 1fr); }
+  .grid-4 { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* Phone: <= 767px - best effort single column */
+@media (max-width: 767px) {
+  .grid-cards, .grid-2, .grid-3, .grid-4 { grid-template-columns: 1fr; }
+  .app-nav {
+    position: absolute;
+    top: var(--header-h);
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    padding: 8px;
+    background: var(--c-surface);
+    border-bottom: 1px solid var(--c-border);
+    box-shadow: var(--shadow);
+    display: none;
+  }
+  .app-nav.open { display: flex; }
+  .app-nav a { min-height: 48px; padding: 0 16px; }
+  .nav-toggle { display: inline-flex; align-items: center; justify-content: center; }
+  .page-title { font-size: 24px; }
+}
+
+/* Touch devices: kill hover-only affordances, enforce tap sizes */
+html.touch .app-nav a { min-height: 48px; }
+html.touch button,
+html.touch .btn,
+html.touch .opt-btn,
+html.touch .nav-btn { min-height: var(--tap); }
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: .01ms !important;
+    transition-duration: .01ms !important;
+  }
+}

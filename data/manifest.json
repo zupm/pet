@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "knowledge": [
+    { "id": "grammar-01", "type": "grammar", "title": "Present & Past Tenses", "file": "knowledge/grammar-01-tenses.json", "level": "B1", "description": "Present Simple vs Continuous, Past Simple vs Continuous, and the Present Perfect." },
+    { "id": "grammar-02", "type": "grammar", "title": "Conditionals", "file": "knowledge/grammar-02-conditionals.json", "level": "B1", "description": "Zero, first and second conditionals, plus unless and time clauses." },
+    { "id": "grammar-03", "type": "grammar", "title": "The Passive", "file": "knowledge/grammar-03-passive.json", "level": "B1", "description": "Present and past passive — when and how to use them." },
+    { "id": "grammar-04", "type": "grammar", "title": "Reported Speech", "file": "knowledge/grammar-04-reported-speech.json", "level": "B1", "description": "Reporting statements and questions with backshift." },
+    { "id": "grammar-05", "type": "grammar", "title": "Modals & Obligation", "file": "knowledge/grammar-05-modals.json", "level": "B1", "description": "must, have to, should, can, might — and the traps like mustn't vs don't have to." },
+    { "id": "grammar-06", "type": "grammar", "title": "Comparatives & Superlatives", "file": "knowledge/grammar-06-comparatives.json", "level": "B1", "description": "Comparing things: -er/more, the best/most, (not) as...as, too & enough." },
+    { "id": "grammar-07", "type": "grammar", "title": "Relative Clauses", "file": "knowledge/grammar-07-relative-clauses.json", "level": "B1", "description": "who, which, that, where, whose — defining relative clauses." },
+    { "id": "grammar-08", "type": "grammar", "title": "Gerunds & Infinitives", "file": "knowledge/grammar-08-gerunds-infinitives.json", "level": "B1", "description": "enjoy doing, want to do, stop doing — verb patterns PET loves to test." },
+    { "id": "vocab-education", "type": "vocab", "title": "Vocabulary: Education", "file": "knowledge/vocab-education.json", "topic": "education", "description": "School, university and learning words." },
+    { "id": "vocab-travel", "type": "vocab", "title": "Vocabulary: Travel & Transport", "file": "knowledge/vocab-travel.json", "topic": "travel", "description": "Holidays, journeys and getting around." },
+    { "id": "vocab-environment", "type": "vocab", "title": "Vocabulary: Environment", "file": "knowledge/vocab-environment.json", "topic": "environment", "description": "Nature, weather and protecting the planet." },
+    { "id": "vocab-work", "type": "vocab", "title": "Vocabulary: Work & Jobs", "file": "knowledge/vocab-work.json", "topic": "work", "description": "Jobs, workplaces and careers." },
+    { "id": "vocab-health", "type": "vocab", "title": "Vocabulary: Health & Sport", "file": "knowledge/vocab-health.json", "topic": "health", "description": "Body, fitness, sport and feeling well." },
+    { "id": "vocab-hobbies", "type": "vocab", "title": "Vocabulary: Hobbies & Entertainment", "file": "knowledge/vocab-hobbies.json", "topic": "hobbies", "description": "Free time, media and having fun." },
+    { "id": "phrases-opinion", "type": "phrases", "title": "Phrases: Giving Opinions", "file": "knowledge/phrases-opinion.json", "topic": "opinion", "description": "Say what you think in Writing and Speaking." },
+    { "id": "phrases-functions", "type": "phrases", "title": "Phrases: Everyday Functions", "file": "knowledge/phrases-functions.json", "topic": "functions", "description": "Suggesting, agreeing, inviting, apologising and more." },
+    { "id": "patterns-library", "type": "patterns", "title": "Sentence Pattern Library", "file": "knowledge/patterns-library.json", "topic": "writing", "description": "High-scoring structures for Writing and Speaking." },
+    { "id": "exam-guide", "type": "guide", "title": "Exam Format Guide", "file": "knowledge/exam-guide.json", "level": "B1", "description": "Exactly what happens in each of the four papers." }
+  ],
+  "practice": [
+    "practice/reading.json",
+    "practice/writing.json",
+    "practice/listening.json",
+    "practice/speaking.json"
+  ],
+  "mocks": [
+    "mocks/mock-01.json",
+    "mocks/mock-02.json",
+    "mocks/mock-03.json",
+    "mocks/mock-04.json",
+    "mocks/mock-05.json",
+    "mocks/mock-06.json"
+  ],
+  "summaries": [
+    "summaries/grammar-cheatsheet.json",
+    "summaries/writing-templates.json"
+  ]
+}

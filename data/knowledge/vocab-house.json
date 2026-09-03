@@ -1,0 +1,230 @@
+{
+  "id": "vocab-house",
+  "type": "vocab",
+  "title": "Vocabulary: House & Home",
+  "topic": "house",
+  "objective": "Rooms, furniture, chores and renting a home — a standard PET topic for descriptions and notes.",
+  "sections": [],
+  "items": [
+    {
+      "id": "v_hse_001",
+      "word": "accommodation",
+      "pos": "noun",
+      "meaning": "a place where someone lives or stays",
+      "meaningZh": "住处、住宿",
+      "example": "The hotel offers cheap accommodation near the beach.",
+      "exampleZh": "这家旅馆在沙滩附近提供便宜的住宿。"
+    },
+    {
+      "id": "v_hse_002",
+      "word": "apartment / flat",
+      "pos": "noun",
+      "meaning": "a set of rooms for living in, usually on one floor of a building",
+      "meaningZh": "公寓、单元房",
+      "example": "They live in a small flat in the city centre.",
+      "exampleZh": "他们住在市中心的一套小公寓里。"
+    },
+    {
+      "id": "v_hse_003",
+      "word": "balcony",
+      "pos": "noun",
+      "meaning": "a small outdoor area attached to a room above the ground",
+      "meaningZh": "阳台",
+      "example": "We eat breakfast on the balcony in summer.",
+      "exampleZh": "夏天我们在阳台上吃早餐。"
+    },
+    {
+      "id": "v_hse_004",
+      "word": "carpet",
+      "pos": "noun",
+      "meaning": "thick material that covers a floor",
+      "meaningZh": "地毯",
+      "example": "There is a soft carpet in the living room.",
+      "exampleZh": "客厅里铺着柔软的地毯。"
+    },
+    {
+      "id": "v_hse_005",
+      "word": "central heating",
+      "pos": "noun",
+      "meaning": "a system that keeps a whole building warm",
+      "meaningZh": "中央供暖",
+      "example": "The flat has central heating, so it's warm in winter.",
+      "exampleZh": "这套公寓有中央供暖，所以冬天很暖和。"
+    },
+    {
+      "id": "v_hse_006",
+      "word": "curtain",
+      "pos": "noun",
+      "meaning": "a piece of cloth that hangs over a window",
+      "meaningZh": "窗帘",
+      "example": "Open the curtains — the sun is shining.",
+      "exampleZh": "拉开窗帘吧——阳光正灿烂。"
+    },
+    {
+      "id": "v_hse_007",
+      "word": "decorate",
+      "pos": "verb",
+      "meaning": "to make a room or house more attractive with paint, paper or objects",
+      "meaningZh": "装修、装饰",
+      "example": "We decorated my bedroom with posters.",
+      "exampleZh": "我们用海报装饰了我的卧室。"
+    },
+    {
+      "id": "v_hse_008",
+      "word": "furniture",
+      "pos": "noun (uncountable)",
+      "meaning": "large movable things in a home, such as tables and chairs",
+      "meaningZh": "家具",
+      "example": "The flat is furnished, so you don't need to buy furniture.",
+      "exampleZh": "这套公寓带家具，你不需要买家具。"
+    },
+    {
+      "id": "v_hse_009",
+      "word": "housework",
+      "pos": "noun",
+      "meaning": "work done in the home, such as cleaning and washing",
+      "meaningZh": "家务活",
+      "example": "We share the housework in our family.",
+      "exampleZh": "在我们家，家务活是大家一起分担的。"
+    },
+    {
+      "id": "v_hse_010",
+      "word": "landlord",
+      "pos": "noun",
+      "meaning": "a person who owns a house or flat and rents it to others",
+      "meaningZh": "房东",
+      "example": "The landlord fixed the broken window quickly.",
+      "exampleZh": "房东很快修好了坏窗户。"
+    },
+    {
+      "id": "v_hse_011",
+      "word": "move",
+      "pos": "verb",
+      "meaning": "to go and live in a different place",
+      "meaningZh": "搬家",
+      "example": "We are moving to a bigger house next month.",
+      "exampleZh": "下个月我们要搬进一所更大的房子。"
+    },
+    {
+      "id": "v_hse_012",
+      "word": "neighbour",
+      "pos": "noun",
+      "meaning": "a person who lives near you",
+      "meaningZh": "邻居",
+      "example": "Our neighbours are very friendly.",
+      "exampleZh": "我们的邻居很友好。"
+    },
+    {
+      "id": "v_hse_013",
+      "word": "rent",
+      "pos": "verb / noun",
+      "meaning": "to pay money to live in or use a place; the money you pay",
+      "meaningZh": "租；租金",
+      "example": "They rent a flat near the university.",
+      "exampleZh": "他们在大学附近租了一套公寓。"
+    },
+    {
+      "id": "v_hse_014",
+      "word": "repair",
+      "pos": "verb / noun",
+      "meaning": "to fix something that is broken",
+      "meaningZh": "修理",
+      "example": "The washing machine needs repairing.",
+      "exampleZh": "洗衣机需要修理。"
+    },
+    {
+      "id": "v_hse_015",
+      "word": "rubbish",
+      "pos": "noun",
+      "meaning": "things you throw away; waste",
+      "meaningZh": "垃圾",
+      "example": "Please put the rubbish in the bin outside.",
+      "exampleZh": "请把垃圾放到外面的垃圾桶里。"
+    },
+    {
+      "id": "v_hse_016",
+      "word": "sink",
+      "pos": "noun",
+      "meaning": "a basin in a kitchen or bathroom with running water",
+      "meaningZh": "水槽、洗碗池",
+      "example": "She left the dirty dishes in the sink.",
+      "exampleZh": "她把脏盘子留在了水槽里。"
+    },
+    {
+      "id": "v_hse_017",
+      "word": "stairs",
+      "pos": "noun (plural)",
+      "meaning": "a set of steps inside a building",
+      "meaningZh": "楼梯",
+      "example": "Her room is at the top of the stairs.",
+      "exampleZh": "她的房间在楼梯最上面。"
+    },
+    {
+      "id": "v_hse_018",
+      "word": "tidy",
+      "pos": "adjective / verb",
+      "meaning": "neat and in order; to make something neat",
+      "meaningZh": "整洁的；整理",
+      "example": "Please tidy your desk before you go out.",
+      "exampleZh": "出门前请把书桌整理好。"
+    },
+    {
+      "id": "v_hse_019",
+      "word": "upstairs / downstairs",
+      "pos": "adverb",
+      "meaning": "on or to a higher / lower floor of a building",
+      "meaningZh": "在楼上 / 在楼下",
+      "example": "The bathroom is upstairs, and the kitchen is downstairs.",
+      "exampleZh": "浴室在楼上，厨房在楼下。"
+    },
+    {
+      "id": "v_hse_020",
+      "word": "cupboard",
+      "pos": "noun",
+      "meaning": "a piece of furniture or a space with a door used for storing things",
+      "meaningZh": "橱柜、壁橱",
+      "example": "Put the glasses in the kitchen cupboard.",
+      "exampleZh": "把玻璃杯放进厨房的橱柜里。"
+    }
+  ],
+  "summary": {
+    "keyPoints": [
+      "Describe your home by type, rooms and location, then say what you like about it.",
+      "Learn chores as verb phrases: do the washing-up, take out the rubbish, tidy up.",
+      "In Writing emails about visits or flats, use rent, move, accommodation and neighbour naturally."
+    ],
+    "mustKnow": [
+      "flat",
+      "rent",
+      "move",
+      "neighbour",
+      "furniture",
+      "tidy"
+    ]
+  },
+  "linkedPractice": [
+    "review"
+  ],
+  "reviewItems": [
+    "v_hse_001",
+    "v_hse_002",
+    "v_hse_003",
+    "v_hse_004",
+    "v_hse_005",
+    "v_hse_006",
+    "v_hse_007",
+    "v_hse_008",
+    "v_hse_009",
+    "v_hse_010",
+    "v_hse_011",
+    "v_hse_012",
+    "v_hse_013",
+    "v_hse_014",
+    "v_hse_015",
+    "v_hse_016",
+    "v_hse_017",
+    "v_hse_018",
+    "v_hse_019",
+    "v_hse_020"
+  ]
+}

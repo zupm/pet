@@ -105,6 +105,60 @@
       "meaningZh": "晋升",
       "example": "She got a promotion after only one year.",
       "exampleZh": "她工作才一年就升职了。"
+    },
+    {
+      "id": "v_wrk_011",
+      "word": "employee",
+      "pos": "noun",
+      "meaning": "a person who is paid to work for a company or person",
+      "meaningZh": "雇员",
+      "example": "The company has over 200 employees.",
+      "exampleZh": "这家公司有两百多名员工。"
+    },
+    {
+      "id": "v_wrk_012",
+      "word": "unemployed",
+      "pos": "adjective",
+      "meaning": "without a paid job",
+      "meaningZh": "失业的",
+      "example": "He was unemployed for six months.",
+      "exampleZh": "他失业了六个月。"
+    },
+    {
+      "id": "v_wrk_013",
+      "word": "retire",
+      "pos": "verb",
+      "meaning": "to stop working because of your age",
+      "meaningZh": "退休",
+      "example": "My grandfather retired at sixty-five.",
+      "exampleZh": "我祖父六十五岁退休。"
+    },
+    {
+      "id": "v_wrk_014",
+      "word": "shift",
+      "pos": "noun",
+      "meaning": "a period of time worked by a group of people, e.g. night shift",
+      "meaningZh": "班次",
+      "example": "Nurses sometimes work the night shift.",
+      "exampleZh": "护士有时要上夜班。"
+    },
+    {
+      "id": "v_wrk_015",
+      "word": "overtime",
+      "pos": "noun",
+      "meaning": "time spent working beyond your usual hours",
+      "meaningZh": "加班",
+      "example": "She worked overtime to finish the report.",
+      "exampleZh": "她加班完成了报告。"
+    },
+    {
+      "id": "v_wrk_016",
+      "word": "CV / résumé",
+      "pos": "noun",
+      "meaning": "a short document about your education and work history",
+      "meaningZh": "简历",
+      "example": "Send your CV with the application letter.",
+      "exampleZh": "把简历和求职信一起寄来。"
     }
   ],
   "summary": {
@@ -118,7 +172,9 @@
       "employer",
       "colleague",
       "salary",
-      "career"
+      "career",
+      "unemployed",
+      "retire"
     ]
   },
   "linkedPractice": [
@@ -134,6 +190,12 @@
     "v_wrk_007",
     "v_wrk_008",
     "v_wrk_009",
-    "v_wrk_010"
+    "v_wrk_010",
+    "v_wrk_011",
+    "v_wrk_012",
+    "v_wrk_013",
+    "v_wrk_014",
+    "v_wrk_015",
+    "v_wrk_016"
   ]
 }

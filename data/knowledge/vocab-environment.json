@@ -105,6 +105,60 @@
       "meaningZh": "废物；浪费",
       "example": "Don't waste water when you brush your teeth.",
       "exampleZh": "刷牙时别浪费水。"
+    },
+    {
+      "id": "v_env_011",
+      "word": "climate change",
+      "pos": "noun",
+      "meaning": "long-term changes in the world's weather caused partly by human activity",
+      "meaningZh": "气候变化",
+      "example": "Climate change is raising temperatures across the world.",
+      "exampleZh": "气候变化正在使全球气温升高。"
+    },
+    {
+      "id": "v_env_012",
+      "word": "gas",
+      "pos": "noun",
+      "meaning": "a fuel such as natural gas used for heating and cooking",
+      "meaningZh": "天然气、气体",
+      "example": "Many homes use gas for heating.",
+      "exampleZh": "许多家庭用天然气供暖。"
+    },
+    {
+      "id": "v_env_013",
+      "word": "public transport",
+      "pos": "noun",
+      "meaning": "buses, trains and other services that everyone can use",
+      "meaningZh": "公共交通",
+      "example": "Public transport is better for the environment than driving.",
+      "exampleZh": "公共交通比开车更环保。"
+    },
+    {
+      "id": "v_env_014",
+      "word": "traffic jam",
+      "pos": "noun",
+      "meaning": "a long line of vehicles that cannot move",
+      "meaningZh": "堵车",
+      "example": "We were stuck in a traffic jam for an hour.",
+      "exampleZh": "我们堵车堵了一个小时。"
+    },
+    {
+      "id": "v_env_015",
+      "word": "rubbish bin",
+      "pos": "noun",
+      "meaning": "a container for rubbish",
+      "meaningZh": "垃圾桶",
+      "example": "Please put your empty bottle in the rubbish bin.",
+      "exampleZh": "请把空瓶子扔进垃圾桶。"
+    },
+    {
+      "id": "v_env_016",
+      "word": "volunteer",
+      "pos": "verb / noun",
+      "meaning": "to do work without being paid; a person who does this",
+      "meaningZh": "自愿做；志愿者",
+      "example": "She volunteers at an animal shelter every Saturday.",
+      "exampleZh": "她每周六在动物收容所做志愿者。"
     }
   ],
   "summary": {
@@ -118,7 +172,9 @@
       "pollution",
       "recycle",
       "litter",
-      "protect"
+      "protect",
+      "climate change",
+      "public transport"
     ]
   },
   "linkedPractice": [
@@ -134,6 +190,12 @@
     "v_env_007",
     "v_env_008",
     "v_env_009",
-    "v_env_010"
+    "v_env_010",
+    "v_env_011",
+    "v_env_012",
+    "v_env_013",
+    "v_env_014",
+    "v_env_015",
+    "v_env_016"
   ]
 }

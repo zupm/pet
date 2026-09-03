@@ -125,6 +125,69 @@
       "meaningZh": "登机牌",
       "example": "Please have your boarding pass ready.",
       "exampleZh": "请准备好登机牌。"
+    },
+    {
+      "id": "v_trv_013",
+      "word": "passport",
+      "pos": "noun",
+      "meaning": "an official document with your photo that you need to travel to other countries",
+      "meaningZh": "护照",
+      "example": "Don't forget your passport when you travel abroad.",
+      "exampleZh": "出国旅行时别忘了带护照。"
+    },
+    {
+      "id": "v_trv_014",
+      "word": "visa",
+      "pos": "noun",
+      "meaning": "an official mark that lets you enter a country",
+      "meaningZh": "签证",
+      "example": "You need a visa to visit that country.",
+      "exampleZh": "去那个国家需要签证。"
+    },
+    {
+      "id": "v_trv_015",
+      "word": "fare",
+      "pos": "noun",
+      "meaning": "the money you pay for a journey on a bus, train or plane",
+      "meaningZh": "车费、票价",
+      "example": "Bus fares are cheaper for students.",
+      "exampleZh": "学生乘公交票价更便宜。"
+    },
+    {
+      "id": "v_trv_016",
+      "word": "single ticket",
+      "pos": "noun",
+      "meaning": "a ticket for a journey in one direction only",
+      "meaningZh": "单程票",
+      "example": "A single ticket to London, please.",
+      "exampleZh": "请给我一张去伦敦的单程票。"
+    },
+    {
+      "id": "v_trv_017",
+      "word": "check in",
+      "pos": "phrasal verb",
+      "meaning": "to show your ticket and get your seat or room at an airport or hotel",
+      "meaningZh": "办理登机/入住手续",
+      "example": "You can check in online two days before your flight.",
+      "exampleZh": "你可以在航班起飞前两天在线值机。"
+    },
+    {
+      "id": "v_trv_018",
+      "word": "journey",
+      "pos": "noun",
+      "meaning": "the act of travelling from one place to another",
+      "meaningZh": "旅程",
+      "example": "The journey to the coast takes about two hours.",
+      "exampleZh": "到海边的路程大约要两个小时。"
+    },
+    {
+      "id": "v_trv_019",
+      "word": "tour guide",
+      "pos": "noun",
+      "meaning": "a person who shows visitors around a place and explains it",
+      "meaningZh": "导游",
+      "example": "Our tour guide told us about the castle's history.",
+      "exampleZh": "导游给我们讲了城堡的历史。"
     }
   ],
   "summary": {
@@ -138,7 +201,9 @@
       "platform",
       "luggage",
       "destination",
-      "book"
+      "book",
+      "passport",
+      "fare"
     ]
   },
   "linkedPractice": [
@@ -156,6 +221,13 @@
     "v_trv_009",
     "v_trv_010",
     "v_trv_011",
-    "v_trv_012"
+    "v_trv_012",
+    "v_trv_013",
+    "v_trv_014",
+    "v_trv_015",
+    "v_trv_016",
+    "v_trv_017",
+    "v_trv_018",
+    "v_trv_019"
   ]
 }

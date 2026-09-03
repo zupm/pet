@@ -105,6 +105,60 @@
       "meaningZh": "开始（运动、爱好）",
       "example": "She took up running last spring.",
       "exampleZh": "她去年春天开始跑步。"
+    },
+    {
+      "id": "v_hlt_011",
+      "word": "fever",
+      "pos": "noun",
+      "meaning": "a body temperature that is higher than normal because you are ill",
+      "meaningZh": "发烧",
+      "example": "She stayed in bed because she had a fever.",
+      "exampleZh": "她发烧了，所以躺在床上休息。"
+    },
+    {
+      "id": "v_hlt_012",
+      "word": "flu",
+      "pos": "noun",
+      "meaning": "an infectious illness like a very bad cold",
+      "meaningZh": "流感",
+      "example": "Half the class was off school with flu.",
+      "exampleZh": "班里一半同学因流感没来上学。"
+    },
+    {
+      "id": "v_hlt_013",
+      "word": "prescription",
+      "pos": "noun",
+      "meaning": "a doctor's written order for medicine",
+      "meaningZh": "处方",
+      "example": "The chemist can make up your prescription.",
+      "exampleZh": "药剂师可以为你配处方药。"
+    },
+    {
+      "id": "v_hlt_014",
+      "word": "headache",
+      "pos": "noun",
+      "meaning": "a pain in your head",
+      "meaningZh": "头疼",
+      "example": "Too much screen time gives me a headache.",
+      "exampleZh": "看屏幕太久会让我头疼。"
+    },
+    {
+      "id": "v_hlt_015",
+      "word": "sore throat",
+      "pos": "noun",
+      "meaning": "a painful feeling in your throat, often when you are ill",
+      "meaningZh": "喉咙痛",
+      "example": "Drink warm water if you have a sore throat.",
+      "exampleZh": "喉咙痛就多喝温水。"
+    },
+    {
+      "id": "v_hlt_016",
+      "word": "emergency",
+      "pos": "noun",
+      "meaning": "a sudden dangerous situation needing immediate help",
+      "meaningZh": "紧急情况",
+      "example": "Call this number only in an emergency.",
+      "exampleZh": "只在紧急情况下拨打这个号码。"
     }
   ],
   "summary": {
@@ -118,7 +172,9 @@
       "medicine",
       "appointment",
       "healthy",
-      "diet"
+      "diet",
+      "fever",
+      "prescription"
     ]
   },
   "linkedPractice": [
@@ -134,6 +190,12 @@
     "v_hlt_007",
     "v_hlt_008",
     "v_hlt_009",
-    "v_hlt_010"
+    "v_hlt_010",
+    "v_hlt_011",
+    "v_hlt_012",
+    "v_hlt_013",
+    "v_hlt_014",
+    "v_hlt_015",
+    "v_hlt_016"
   ]
 }

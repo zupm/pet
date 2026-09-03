@@ -125,6 +125,60 @@
       "meaningZh": "取得进步",
       "example": "You'll make progress if you practise every day.",
       "exampleZh": "每天练习你就会进步。"
+    },
+    {
+      "id": "v_edu_013",
+      "word": "primary school",
+      "pos": "noun",
+      "meaning": "school for young children, usually aged 5–11",
+      "meaningZh": "小学",
+      "example": "My little sister is still at primary school.",
+      "exampleZh": "我妹妹还在上小学。"
+    },
+    {
+      "id": "v_edu_014",
+      "word": "timetable",
+      "pos": "noun",
+      "meaning": "a list of lessons or classes and the times they happen",
+      "meaningZh": "课程表",
+      "example": "We have maths twice a week on our timetable.",
+      "exampleZh": "根据课程表，我们每周上两次数学。"
+    },
+    {
+      "id": "v_edu_015",
+      "word": "mark / grade",
+      "pos": "noun",
+      "meaning": "a number or letter showing how well someone did",
+      "meaningZh": "分数、成绩",
+      "example": "She got top marks in her English test.",
+      "exampleZh": "她在英语考试中得了最高分。"
+    },
+    {
+      "id": "v_edu_016",
+      "word": "certificate",
+      "pos": "noun",
+      "meaning": "an official document that proves you have completed something",
+      "meaningZh": "证书",
+      "example": "You get a certificate when you finish the course.",
+      "exampleZh": "课程结束后你会得到一张证书。"
+    },
+    {
+      "id": "v_edu_017",
+      "word": "qualification",
+      "pos": "noun",
+      "meaning": "an exam you have passed or an official skill that makes you suitable for work",
+      "meaningZh": "资格、学历",
+      "example": "Good qualifications give you more job choices.",
+      "exampleZh": "好的资历能给你更多工作选择。"
+    },
+    {
+      "id": "v_edu_018",
+      "word": "pupil",
+      "pos": "noun",
+      "meaning": "a child who goes to school",
+      "meaningZh": "小学生、学生",
+      "example": "There are about 400 pupils at the school.",
+      "exampleZh": "这所学校大约有四百名学生。"
     }
   ],
   "summary": {
@@ -138,7 +192,9 @@
       "revise",
       "subject",
       "term",
-      "take an exam"
+      "take an exam",
+      "certificate",
+      "qualification"
     ]
   },
   "linkedPractice": [
@@ -156,6 +212,12 @@
     "v_edu_009",
     "v_edu_010",
     "v_edu_011",
-    "v_edu_012"
+    "v_edu_012",
+    "v_edu_013",
+    "v_edu_014",
+    "v_edu_015",
+    "v_edu_016",
+    "v_edu_017",
+    "v_edu_018"
   ]
 }

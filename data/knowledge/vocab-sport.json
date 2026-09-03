@@ -1,0 +1,230 @@
+{
+  "id": "vocab-sport",
+  "type": "vocab",
+  "title": "Vocabulary: Sport & Exercise",
+  "topic": "sport",
+  "objective": "Playing sport, competitions, scores and fitness — core PET vocabulary for news articles and speaking about hobbies.",
+  "sections": [],
+  "items": [
+    {
+      "id": "v_spt_001",
+      "word": "athlete",
+      "pos": "noun",
+      "meaning": "a person who is good at sports and competes in them",
+      "meaningZh": "运动员",
+      "example": "The athletes trained hard for the race.",
+      "exampleZh": "运动员们为比赛刻苦训练。"
+    },
+    {
+      "id": "v_spt_002",
+      "word": "beat",
+      "pos": "verb",
+      "meaning": "to win against another person or team",
+      "meaningZh": "击败",
+      "example": "Our team beat the visitors 3–1.",
+      "exampleZh": "我们队以3比1击败了客队。"
+    },
+    {
+      "id": "v_spt_003",
+      "word": "championship",
+      "pos": "noun",
+      "meaning": "a competition to find the best player or team",
+      "meaningZh": "锦标赛",
+      "example": "They won the national swimming championship.",
+      "exampleZh": "他们赢得了全国游泳锦标赛。"
+    },
+    {
+      "id": "v_spt_004",
+      "word": "coach",
+      "pos": "noun",
+      "meaning": "a person who trains a player or team",
+      "meaningZh": "教练",
+      "example": "The coach asked us to arrive early.",
+      "exampleZh": "教练让我们早点到。"
+    },
+    {
+      "id": "v_spt_005",
+      "word": "compete",
+      "pos": "verb",
+      "meaning": "to take part in a competition or contest",
+      "meaningZh": "参加比赛、竞争",
+      "example": "Twenty runners competed in the final.",
+      "exampleZh": "二十名选手参加了决赛。"
+    },
+    {
+      "id": "v_spt_006",
+      "word": "competition",
+      "pos": "noun",
+      "meaning": "an event in which people try to win",
+      "meaningZh": "比赛",
+      "example": "She entered a tennis competition at school.",
+      "exampleZh": "她参加了学校的网球比赛。"
+    },
+    {
+      "id": "v_spt_007",
+      "word": "draw",
+      "pos": "noun / verb",
+      "meaning": "a result in which both teams or players get the same score",
+      "meaningZh": "平局",
+      "example": "The match ended in a two–two draw.",
+      "exampleZh": "比赛以2比2平局结束。"
+    },
+    {
+      "id": "v_spt_008",
+      "word": "fitness",
+      "pos": "noun",
+      "meaning": "the state of being healthy and strong enough for sport",
+      "meaningZh": "健康、健壮",
+      "example": "Swimming twice a week keeps my fitness up.",
+      "exampleZh": "每周游两次泳让我保持健康。"
+    },
+    {
+      "id": "v_spt_009",
+      "word": "goal",
+      "pos": "noun",
+      "meaning": "a point scored in football or hockey; the area where you score",
+      "meaningZh": "进球；球门",
+      "example": "He scored the winning goal in the last minute.",
+      "exampleZh": "他在最后一分钟打进了制胜一球。"
+    },
+    {
+      "id": "v_spt_010",
+      "word": "lose",
+      "pos": "verb",
+      "meaning": "to not win a game or competition",
+      "meaningZh": "输掉",
+      "example": "We lost the game by just one point.",
+      "exampleZh": "我们只差一分输掉了比赛。"
+    },
+    {
+      "id": "v_spt_011",
+      "word": "match",
+      "pos": "noun",
+      "meaning": "an organised game between two teams or players",
+      "meaningZh": "比赛",
+      "example": "The football match starts at three.",
+      "exampleZh": "足球比赛三点开始。"
+    },
+    {
+      "id": "v_spt_012",
+      "word": "practise / practice",
+      "pos": "verb / noun",
+      "meaning": "to train or repeat an activity to improve; the act of doing this",
+      "meaningZh": "练习",
+      "example": "She practises the piano and football on weekends.",
+      "exampleZh": "她周末练钢琴和足球。"
+    },
+    {
+      "id": "v_spt_013",
+      "word": "prize",
+      "pos": "noun",
+      "meaning": "something given to the winner of a competition",
+      "meaningZh": "奖品、奖金",
+      "example": "The first prize is a week at a sports camp.",
+      "exampleZh": "一等奖是在体育夏令营待一周。"
+    },
+    {
+      "id": "v_spt_014",
+      "word": "race",
+      "pos": "noun / verb",
+      "meaning": "a competition to see who is fastest",
+      "meaningZh": "赛跑、比赛",
+      "example": "My brother won the hundred-metre race.",
+      "exampleZh": "我哥哥赢得了一百米赛跑。"
+    },
+    {
+      "id": "v_spt_015",
+      "word": "score",
+      "pos": "verb / noun",
+      "meaning": "to get a point in a game; the number of points",
+      "meaningZh": "得分；比分",
+      "example": "The final score was 4–2 to our school.",
+      "exampleZh": "最终比分是4比2，我们学校获胜。"
+    },
+    {
+      "id": "v_spt_016",
+      "word": "stadium",
+      "pos": "noun",
+      "meaning": "a large sports ground surrounded by seats for spectators",
+      "meaningZh": "体育场",
+      "example": "The concert was held at the national stadium.",
+      "exampleZh": "音乐会在国家体育场举行。"
+    },
+    {
+      "id": "v_spt_017",
+      "word": "take part",
+      "pos": "phrase",
+      "meaning": "to join in an activity or event",
+      "meaningZh": "参加",
+      "example": "Students from every class took part in Sports Day.",
+      "exampleZh": "每个班的学生都参加了运动会。"
+    },
+    {
+      "id": "v_spt_018",
+      "word": "team",
+      "pos": "noun",
+      "meaning": "a group of people who play together against another group",
+      "meaningZh": "队",
+      "example": "She is the captain of the school team.",
+      "exampleZh": "她是校队的队长。"
+    },
+    {
+      "id": "v_spt_019",
+      "word": "train",
+      "pos": "verb",
+      "meaning": "to practise a sport regularly to get better",
+      "meaningZh": "训练",
+      "example": "The swimmers train every morning before school.",
+      "exampleZh": "游泳队员们每天早上上学前训练。"
+    },
+    {
+      "id": "v_spt_020",
+      "word": "win",
+      "pos": "verb",
+      "meaning": "to be first or best in a competition",
+      "meaningZh": "赢、获胜",
+      "example": "I was so happy when our team won.",
+      "exampleZh": "我们队赢的时候我高兴极了。"
+    }
+  ],
+  "summary": {
+    "keyPoints": [
+      "Learn win/lose for the result of a whole event and beat for the opponent.",
+      "Score is a point in a game; the final score is the result at the end.",
+      "To describe a sport, cover: equipment, rules, where you play and how often you train."
+    ],
+    "mustKnow": [
+      "beat",
+      "win",
+      "lose",
+      "score",
+      "competition",
+      "take part"
+    ]
+  },
+  "linkedPractice": [
+    "review"
+  ],
+  "reviewItems": [
+    "v_spt_001",
+    "v_spt_002",
+    "v_spt_003",
+    "v_spt_004",
+    "v_spt_005",
+    "v_spt_006",
+    "v_spt_007",
+    "v_spt_008",
+    "v_spt_009",
+    "v_spt_010",
+    "v_spt_011",
+    "v_spt_012",
+    "v_spt_013",
+    "v_spt_014",
+    "v_spt_015",
+    "v_spt_016",
+    "v_spt_017",
+    "v_spt_018",
+    "v_spt_019",
+    "v_spt_020"
+  ]
+}

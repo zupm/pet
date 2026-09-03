@@ -1,0 +1,230 @@
+{
+  "id": "vocab-food",
+  "type": "vocab",
+  "title": "Vocabulary: Food & Drink",
+  "topic": "food",
+  "objective": "Core food and drink language from the PET syllabus — useful in Reading Part 2 articles, menus and Speaking Part 2.",
+  "sections": [],
+  "items": [
+    {
+      "id": "v_fod_001",
+      "word": "appetite",
+      "pos": "noun",
+      "meaning": "the wish to eat food",
+      "meaningZh": "食欲",
+      "example": "Swimming always gives me a big appetite.",
+      "exampleZh": "游泳后我总是胃口很好。"
+    },
+    {
+      "id": "v_fod_002",
+      "word": "bake",
+      "pos": "verb",
+      "meaning": "to cook food in an oven",
+      "meaningZh": "烘烤",
+      "example": "My mum baked a chocolate cake for my birthday.",
+      "exampleZh": "妈妈为我生日烤了一个巧克力蛋糕。"
+    },
+    {
+      "id": "v_fod_003",
+      "word": "bill",
+      "pos": "noun",
+      "meaning": "a piece of paper that shows what you must pay",
+      "meaningZh": "账单",
+      "example": "Could we have the bill, please?",
+      "exampleZh": "请把账单给我们，好吗？"
+    },
+    {
+      "id": "v_fod_004",
+      "word": "boil",
+      "pos": "verb",
+      "meaning": "to cook in very hot water, or to heat liquid until it bubbles",
+      "meaningZh": "煮；煮沸",
+      "example": "Boil the rice for about fifteen minutes.",
+      "exampleZh": "把米饭煮大约十五分钟。"
+    },
+    {
+      "id": "v_fod_005",
+      "word": "delicious",
+      "pos": "adjective",
+      "meaning": "tasting extremely good",
+      "meaningZh": "美味的",
+      "example": "The soup smells delicious.",
+      "exampleZh": "这汤闻起来很香。"
+    },
+    {
+      "id": "v_fod_006",
+      "word": "dessert",
+      "pos": "noun",
+      "meaning": "sweet food eaten after the main part of a meal",
+      "meaningZh": "甜点",
+      "example": "What would you like for dessert?",
+      "exampleZh": "你想吃什么甜点？"
+    },
+    {
+      "id": "v_fod_007",
+      "word": "dish",
+      "pos": "noun",
+      "meaning": "food prepared in a particular way; a plate or bowl for food",
+      "meaningZh": "一道菜；盘子",
+      "example": "Pasta is my favourite dish.",
+      "exampleZh": "意大利面是我最喜欢的菜。"
+    },
+    {
+      "id": "v_fod_008",
+      "word": "fresh",
+      "pos": "adjective",
+      "meaning": "recently picked, made or bought; not old",
+      "meaningZh": "新鲜的",
+      "example": "I prefer fresh fruit to tinned fruit.",
+      "exampleZh": "比起罐头水果，我更喜欢新鲜水果。"
+    },
+    {
+      "id": "v_fod_009",
+      "word": "frozen",
+      "pos": "adjective",
+      "meaning": "kept at a very low temperature to stay fresh",
+      "meaningZh": "冷冻的",
+      "example": "Frozen vegetables are quick to cook.",
+      "exampleZh": "冷冻蔬菜做起来很快。"
+    },
+    {
+      "id": "v_fod_010",
+      "word": "ingredient",
+      "pos": "noun",
+      "meaning": "one of the foods used to make a dish",
+      "meaningZh": "原料、食材",
+      "example": "Mix all the ingredients in a large bowl.",
+      "exampleZh": "把所有食材放在一个大碗里搅拌。"
+    },
+    {
+      "id": "v_fod_011",
+      "word": "menu",
+      "pos": "noun",
+      "meaning": "a list of the food available in a restaurant",
+      "meaningZh": "菜单",
+      "example": "The waiter brought us the menu.",
+      "exampleZh": "服务员给我们拿来了菜单。"
+    },
+    {
+      "id": "v_fod_012",
+      "word": "order",
+      "pos": "verb / noun",
+      "meaning": "to ask for food or a product; something you have asked for",
+      "meaningZh": "点餐；订购",
+      "example": "We ordered two pizzas and a salad.",
+      "exampleZh": "我们点了两个披萨和一份沙拉。"
+    },
+    {
+      "id": "v_fod_013",
+      "word": "recipe",
+      "pos": "noun",
+      "meaning": "instructions that tell you how to cook something",
+      "meaningZh": "食谱、菜谱",
+      "example": "This is my grandmother's recipe for apple pie.",
+      "exampleZh": "这是我祖母的苹果派食谱。"
+    },
+    {
+      "id": "v_fod_014",
+      "word": "serve",
+      "pos": "verb",
+      "meaning": "to give food or drink to someone",
+      "meaningZh": "端上；供应",
+      "example": "Breakfast is served from seven until ten.",
+      "exampleZh": "早餐供应时间是七点到十点。"
+    },
+    {
+      "id": "v_fod_015",
+      "word": "snack",
+      "pos": "noun",
+      "meaning": "a small amount of food eaten between meals",
+      "meaningZh": "零食、小吃",
+      "example": "I usually have a snack after school.",
+      "exampleZh": "放学后我通常吃点零食。"
+    },
+    {
+      "id": "v_fod_016",
+      "word": "spicy",
+      "pos": "adjective",
+      "meaning": "having a hot, strong taste, usually from chilli or pepper",
+      "meaningZh": "辣的",
+      "example": "Thai food is often very spicy.",
+      "exampleZh": "泰国菜通常很辣。"
+    },
+    {
+      "id": "v_fod_017",
+      "word": "taste",
+      "pos": "verb / noun",
+      "meaning": "to have a particular flavour; the flavour of food",
+      "meaningZh": "尝；味道",
+      "example": "This soup tastes really good.",
+      "exampleZh": "这汤味道真好。"
+    },
+    {
+      "id": "v_fod_018",
+      "word": "takeaway",
+      "pos": "noun",
+      "meaning": "a meal that you buy cooked and take home to eat",
+      "meaningZh": "外卖",
+      "example": "We were too tired to cook, so we got a takeaway.",
+      "exampleZh": "我们太累了不想做饭，就点了外卖。"
+    },
+    {
+      "id": "v_fod_019",
+      "word": "vegetarian",
+      "pos": "adjective / noun",
+      "meaning": "someone who does not eat meat; containing no meat",
+      "meaningZh": "素食的；素食者",
+      "example": "The café has several vegetarian options.",
+      "exampleZh": "这家咖啡馆有几道素食可选。"
+    },
+    {
+      "id": "v_fod_020",
+      "word": "waiter / waitress",
+      "pos": "noun",
+      "meaning": "a person who serves food and drink in a restaurant",
+      "meaningZh": "服务员",
+      "example": "The waiter recommended the grilled fish.",
+      "exampleZh": "服务员推荐了烤鱼。"
+    }
+  ],
+  "summary": {
+    "keyPoints": [
+      "Practise ordering a meal in English: starters, main course, dessert and the bill.",
+      "Learn verbs for cooking separately from adjectives for taste.",
+      "In Speaking Part 2, describe a dish by its ingredients, taste and who cooks it."
+    ],
+    "mustKnow": [
+      "menu",
+      "order",
+      "dish",
+      "taste",
+      "delicious",
+      "vegetarian"
+    ]
+  },
+  "linkedPractice": [
+    "review"
+  ],
+  "reviewItems": [
+    "v_fod_001",
+    "v_fod_002",
+    "v_fod_003",
+    "v_fod_004",
+    "v_fod_005",
+    "v_fod_006",
+    "v_fod_007",
+    "v_fod_008",
+    "v_fod_009",
+    "v_fod_010",
+    "v_fod_011",
+    "v_fod_012",
+    "v_fod_013",
+    "v_fod_014",
+    "v_fod_015",
+    "v_fod_016",
+    "v_fod_017",
+    "v_fod_018",
+    "v_fod_019",
+    "v_fod_020"
+  ]
+}

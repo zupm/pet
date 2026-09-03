@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "knowledge": [
     { "id": "grammar-01", "type": "grammar", "title": "Present & Past Tenses", "file": "knowledge/grammar-01-tenses.json", "level": "B1", "description": "Present Simple vs Continuous, Past Simple vs Continuous, and the Present Perfect." },
     { "id": "grammar-02", "type": "grammar", "title": "Conditionals", "file": "knowledge/grammar-02-conditionals.json", "level": "B1", "description": "Zero, first and second conditionals, plus unless and time clauses." },
@@ -15,6 +15,16 @@
     { "id": "vocab-work", "type": "vocab", "title": "Vocabulary: Work & Jobs", "file": "knowledge/vocab-work.json", "topic": "work", "description": "Jobs, workplaces and careers." },
     { "id": "vocab-health", "type": "vocab", "title": "Vocabulary: Health & Sport", "file": "knowledge/vocab-health.json", "topic": "health", "description": "Body, fitness, sport and feeling well." },
     { "id": "vocab-hobbies", "type": "vocab", "title": "Vocabulary: Hobbies & Entertainment", "file": "knowledge/vocab-hobbies.json", "topic": "hobbies", "description": "Free time, media and having fun." },
+    { "id": "vocab-food", "type": "vocab", "title": "Vocabulary: Food & Drink", "file": "knowledge/vocab-food.json", "topic": "food", "description": "Meals, cooking, restaurants and taste — plus vegetarian and takeaway culture." },
+    { "id": "vocab-house", "type": "vocab", "title": "Vocabulary: House & Home", "file": "knowledge/vocab-house.json", "topic": "house", "description": "Rooms, furniture, renting and household chores." },
+    { "id": "vocab-clothes", "type": "vocab", "title": "Vocabulary: Clothes & Fashion", "file": "knowledge/vocab-clothes.json", "topic": "clothes", "description": "Clothing, materials, sizes and what to wear." },
+    { "id": "vocab-technology", "type": "vocab", "title": "Vocabulary: Communications & Technology", "file": "knowledge/vocab-technology.json", "topic": "technology", "description": "Apps, the internet, devices and digital communication." },
+    { "id": "vocab-media", "type": "vocab", "title": "Vocabulary: Entertainment & Media", "file": "knowledge/vocab-media.json", "topic": "media", "description": "Films, TV, music, news and writing reviews." },
+    { "id": "vocab-sport", "type": "vocab", "title": "Vocabulary: Sport & Exercise", "file": "knowledge/vocab-sport.json", "topic": "sport", "description": "Playing sport, competitions, scores and fitness." },
+    { "id": "vocab-shopping", "type": "vocab", "title": "Vocabulary: Shopping & Services", "file": "knowledge/vocab-shopping.json", "topic": "shopping", "description": "Shops, payments, refunds and everyday services." },
+    { "id": "vocab-nature", "type": "vocab", "title": "Vocabulary: Natural World & Weather", "file": "knowledge/vocab-nature.json", "topic": "nature", "description": "Landscapes, wildlife, weather and climate." },
+    { "id": "vocab-places", "type": "vocab", "title": "Vocabulary: Places, Town & Directions", "file": "knowledge/vocab-places.json", "topic": "places", "description": "Buildings, town facilities, streets and giving directions." },
+    { "id": "vocab-people", "type": "vocab", "title": "Vocabulary: People, Feelings & Relationships", "file": "knowledge/vocab-people.json", "topic": "people", "description": "Character, emotions and relationships for descriptions and opinions." },
     { "id": "phrases-opinion", "type": "phrases", "title": "Phrases: Giving Opinions", "file": "knowledge/phrases-opinion.json", "topic": "opinion", "description": "Say what you think in Writing and Speaking." },
     { "id": "phrases-functions", "type": "phrases", "title": "Phrases: Everyday Functions", "file": "knowledge/phrases-functions.json", "topic": "functions", "description": "Suggesting, agreeing, inviting, apologising and more." },
     { "id": "patterns-library", "type": "patterns", "title": "Sentence Pattern Library", "file": "knowledge/patterns-library.json", "topic": "writing", "description": "High-scoring structures for Writing and Speaking." },

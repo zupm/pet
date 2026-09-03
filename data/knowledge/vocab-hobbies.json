@@ -105,6 +105,60 @@
       "meaningZh": "（和朋友）闲逛、聚会",
       "example": "We usually hang out at the skate park.",
       "exampleZh": "我们常在滑板公园玩。"
+    },
+    {
+      "id": "v_hob_011",
+      "word": "pastime",
+      "pos": "noun",
+      "meaning": "an activity that you enjoy in your free time",
+      "meaningZh": "消遣、爱好",
+      "example": "Reading comics is my favourite pastime.",
+      "exampleZh": "看漫画是我最喜欢的消遣。"
+    },
+    {
+      "id": "v_hob_012",
+      "word": "chill out",
+      "pos": "phrasal verb",
+      "meaning": "to relax completely, especially after working hard",
+      "meaningZh": "放松",
+      "example": "After exams, we chilled out at home.",
+      "exampleZh": "考试后我们在家好好放松了一下。"
+    },
+    {
+      "id": "v_hob_013",
+      "word": "spare time",
+      "pos": "noun",
+      "meaning": "free time when you are not working or studying",
+      "meaningZh": "空闲时间",
+      "example": "In my spare time I take photos of birds.",
+      "exampleZh": "空闲时我会拍摄鸟类照片。"
+    },
+    {
+      "id": "v_hob_014",
+      "word": "join in",
+      "pos": "phrasal verb",
+      "meaning": "to take part in an activity with other people",
+      "meaningZh": "加入、参加",
+      "example": "Everyone joined in the singing at the party.",
+      "exampleZh": "聚会上大家都跟着一起唱歌。"
+    },
+    {
+      "id": "v_hob_015",
+      "word": "camping",
+      "pos": "noun",
+      "meaning": "living in a tent for a holiday",
+      "meaningZh": "露营",
+      "example": "We go camping in the mountains every summer.",
+      "exampleZh": "每年夏天我们都去山里露营。"
+    },
+    {
+      "id": "v_hob_016",
+      "word": "club",
+      "pos": "noun",
+      "meaning": "a group of people who meet to do an activity together",
+      "meaningZh": "俱乐部、社团",
+      "example": "She joined the photography club at school.",
+      "exampleZh": "她加入了学校的摄影社团。"
     }
   ],
   "summary": {
@@ -118,7 +172,9 @@
       "collection",
       "instrument",
       "performance",
-      "audience"
+      "audience",
+      "pastime",
+      "join in"
     ]
   },
   "linkedPractice": [
@@ -134,6 +190,12 @@
     "v_hob_007",
     "v_hob_008",
     "v_hob_009",
-    "v_hob_010"
+    "v_hob_010",
+    "v_hob_011",
+    "v_hob_012",
+    "v_hob_013",
+    "v_hob_014",
+    "v_hob_015",
+    "v_hob_016"
   ]
 }

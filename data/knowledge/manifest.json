@@ -22,7 +22,17 @@
         "vocab-environment",
         "vocab-work",
         "vocab-health",
-        "vocab-hobbies"
+        "vocab-hobbies",
+        "vocab-food",
+        "vocab-house",
+        "vocab-clothes",
+        "vocab-technology",
+        "vocab-media",
+        "vocab-sport",
+        "vocab-shopping",
+        "vocab-nature",
+        "vocab-places",
+        "vocab-people"
       ]
     },
     {
